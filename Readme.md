@@ -1,4 +1,5 @@
-#The Bezel Project - Bezel Pack Utility for Windows
+The Bezel Project - Bezel Pack Utility for Windows
+==================================================
 
 Things you should know before using
 -----------------------------------
