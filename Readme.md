@@ -5,7 +5,7 @@ Things you should know before using
 -----------------------------------
 
 This utility will provide the ability to download bezel packs to be used for
-native MAME, various systems within Retroarch, (on Android, Playstation Vita,
+native MAME, various systems within Retroarch, (on Android, Playstation 3, Playstation Vita,
 Switch, Wii U and Windows), and RocketLauncher.
 
 If you have custom, existing RetroArch core cfg files, this app may not work as
@@ -49,7 +49,7 @@ Overview
 This app provides an interface to The Bezel Project files that reside on GitHub.
 This app analyzes the code contained in the original RetroPie script and adapts
 it to a Windows based native MAME, Retroarch (also on Android, Nintendo Switch,
-Nintendo Wii U and Playstation Vita), and/or RocketLauncher installation.
+Nintendo Wii U, Playstation 3, and Playstation Vita), and/or RocketLauncher installation.
 
 -   Note: the app allows skipping modification of any existing customized
     Retroarch platform cfg files.
