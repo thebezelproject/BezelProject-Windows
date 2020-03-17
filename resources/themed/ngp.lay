@@ -1,0 +1,146 @@
+<!-- default.lay file for The Bezel Project SNK Neo Geo Pocket pack -->
+
+<mamelayout version="2">
+
+  <element name="ngp">
+    <image file="SNK-Neo-Geo-Pocket.png" />
+  </element>
+
+  <view name="SNK Neo Geo Pocket System Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="ngp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="bstars">
+    <image file="Baseball Stars (Japan, Europe).png" />
+  </element>
+
+  <view name="bstars Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="bstars">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="kof_mlon">
+    <image file="King of Fighters R-1 (Japan, Europe).png" />
+  </element>
+
+  <view name="kof_mlon Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="kof_mlon">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="kofr1">
+    <image file="King of Fighters R-1 (Japan, Europe).png" />
+  </element>
+
+  <view name="kofr1 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="kofr1">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="melonchn">
+    <image file="Melon-chan no Seichou Nikki (Japan).png" />
+  </element>
+
+  <view name="melonchn Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="melonchn">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="neocher">
+    <image file="Neo Cherry Master - Real Casino Series (Japan, Europe).png" />
+  </element>
+
+  <view name="neocher Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="neocher">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="neocup98">
+    <image file="Neo Geo Cup &#39;98 (Japan, Europe).png" />
+  </element>
+
+  <view name="neocup98 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="neocup98">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="ptennis">
+    <image file="Pocket Tennis - Pocket Sports Series (Japan, Europe).png" />
+  </element>
+
+  <view name="ptennis Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="ptennis">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="samsho">
+    <image file="Samurai Shodown! - Pocket Fighting Series (Japan, Europe).png" />
+  </element>
+
+  <view name="samsho Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="samsho">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="shougi">
+    <image file="Shougi no Tatsujin (Japan).png" />
+  </element>
+
+  <view name="shougi Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="shougi">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+</mamelayout>
+
