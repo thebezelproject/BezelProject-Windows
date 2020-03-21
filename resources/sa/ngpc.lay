@@ -1,0 +1,1630 @@
+<!-- default.lay file for The Bezel Project SNK Neo Geo Pocket Color pack -->
+
+<mamelayout version="2">
+
+  <element name="ngpc">
+    <image file="SNK-Neo-Geo-Pocket-Color.png" />
+  </element>
+
+  <view name="SNK Neo Geo Pocket Color System Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="ngpc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="bakumats">
+    <image file="Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan).png" />
+  </element>
+
+  <view name="bakumats Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="bakumats">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="bigbang">
+    <image file="Big Bang Pro Wrestling (Japan) (En,Ja).png" />
+  </element>
+
+  <view name="bigbang Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="bigbang">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="bikkuri">
+    <image file="Bikkuriman 2000 - Viva! Pocket Festival! (Japan).png" />
+  </element>
+
+  <view name="bikkuri Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="bikkuri">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="biomotor">
+    <image file="Biomotor Unitron (USA, Europe).png" />
+  </element>
+
+  <view name="biomotor Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="biomotor">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="biomotorj">
+    <image file="Biomotor Unitron (Japan).png" />
+  </element>
+
+  <view name="biomotorj Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="biomotorj">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="bstarsc">
+    <image file="Baseball Stars Color - Pocket Sports Series (World) (En,Ja).png" />
+  </element>
+
+  <view name="bstarsc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="bstarsc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="bam">
+    <image file="Bust-A-Move Pocket (USA).png" />
+  </element>
+
+  <view name="bam Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="bam">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="bamp">
+    <image file="Bust-A-Move Pocket (USA).png" />
+  </element>
+
+  <view name="bamp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="bamp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="coolboar">
+    <image file="Cool Boarders Pocket (Japan, Europe) (En,Ja).png" />
+  </element>
+
+  <view name="coolboar Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="coolboar">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="coolcool">
+    <image file="Cool Cool Jam (Japan).png" />
+  </element>
+
+  <view name="coolcool Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="coolcool">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="coolcoolj">
+    <image file="Cool Cool Jam (Japan).png" />
+  </element>
+
+  <view name="coolcoolj Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="coolcoolj">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="cotton">
+    <image file="Fantastic Night Dreams - Cotton (Europe).png" />
+  </element>
+
+  <view name="cotton Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="cotton">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="cottonj">
+    <image file="Fantastic Night Dreams - Cotton (Japan).png" />
+  </element>
+
+  <view name="cottonj Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="cottonj">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="crushrol">
+    <image file="Crush Roller (World) (En,Ja).png" />
+  </element>
+
+  <view name="crushrol Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="crushrol">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="darkarms">
+    <image file="Dark Arms - Beast Buster 1999 (World) (En,Ja).png" />
+  </element>
+
+  <view name="darkarms Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="darkarms">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="darkarmsp">
+    <image file="Dark Arms - Beast Buster 1999 (World) (En,Ja).png" />
+  </element>
+
+  <view name="darkarmsp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="darkarmsp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="deltawrp">
+    <image file="Delta Warp (Japan) (Beta).png" />
+  </element>
+
+  <view name="deltawrp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="deltawrp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="dendego2">
+    <image file="Densha de Go! 2 on Neo Geo Pocket (Japan).png" />
+  </element>
+
+  <view name="dendego2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="dendego2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="dendego2p">
+    <image file="Densha de Go! 2 on Neo Geo Pocket (Japan).png" />
+  </element>
+
+  <view name="dendego2p Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="dendego2p">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="divealrm">
+    <image file="Dive Alert - Matt&#39;s Version (USA, Europe).png" />
+  </element>
+
+  <view name="divealrm Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="divealrm">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="divealrb">
+    <image file="Dive Alert - Becky&#39;s Version (USA, Europe).png" />
+  </element>
+
+  <view name="divealrb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="divealrb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="divealrmj">
+    <image file="Dive Alert - Burn Hen (Japan).png" />
+  </element>
+
+  <view name="divealrmj Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="divealrmj">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="divealrmjp">
+    <image file="Dive Alert - Burn Hen (Japan).png" />
+  </element>
+
+  <view name="divealrmjp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="divealrmjp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="divealrbj">
+    <image file="Dive Alert - Rebecca Hen (Japan).png" />
+  </element>
+
+  <view name="divealrbj Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="divealrbj">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="dokodemo">
+    <image file="Dokodemo Mahjong (Japan).png" />
+  </element>
+
+  <view name="dokodemo Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="dokodemo">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="dynaslug">
+    <image file="Dynamite Slugger (Japan, Europe) (En,Ja).png" />
+  </element>
+
+  <view name="dynaslug Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="dynaslug">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="evolutn">
+    <image file="Evolution - Eternal Dungeons (Europe).png" />
+  </element>
+
+  <view name="evolutn Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="evolutn">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="evolutnj">
+    <image file="Shinki Sekai Evolution - Hateshinai Dungeon (Japan).png" />
+  </element>
+
+  <view name="evolutnj Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="evolutnj">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="faselei">
+    <image file="Faselei! (Europe).png" />
+  </element>
+
+  <view name="faselei Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="faselei">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="faseleij">
+    <image file="Faselei! (Japan).png" />
+  </element>
+
+  <view name="faseleij Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="faseleij">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="fatfury">
+    <image file="Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).png" />
+  </element>
+
+  <view name="fatfury Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="fatfury">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="fatfuryd">
+    <image file="Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).png" />
+  </element>
+
+  <view name="fatfuryd Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="fatfuryd">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="ganbaren">
+    <image file="Ganbare Neo Poke-kun (Kari) (Japan).png" />
+  </element>
+
+  <view name="ganbaren Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="ganbaren">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="infinity">
+    <image file="Infinity Cure (Japan).png" />
+  </element>
+
+  <view name="infinity Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="infinity">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="kikousei">
+    <image file="Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan).png" />
+  </element>
+
+  <view name="kikousei Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="kikousei">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="kofpara">
+    <image file="King of Fighters, The - Battle de Paradise (Japan).png" />
+  </element>
+
+  <view name="kofpara Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="kofpara">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="kofr2">
+    <image file="King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).png" />
+  </element>
+
+  <view name="kofr2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="kofr2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="kofr2d">
+    <image file="King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).png" />
+  </element>
+
+  <view name="kofr2d Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="kofr2d">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="kofr2d2">
+    <image file="King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).png" />
+  </element>
+
+  <view name="kofr2d2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="kofr2d2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="koikoi">
+    <image file="Koi Koi Mahjong (Japan).png" />
+  </element>
+
+  <view name="koikoi Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="koikoi">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="lastblad">
+    <image file="Last Blade, The - Beyond the Destiny (USA, Europe).png" />
+  </element>
+
+  <view name="lastblad Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="lastblad">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="magdrop">
+    <image file="Magical Drop Pocket (USA, Europe).png" />
+  </element>
+
+  <view name="magdrop Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="magdrop">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="magdropj">
+    <image file="Magical Drop Pocket (Japan).png" />
+  </element>
+
+  <view name="magdropj Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="magdropj">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="magdropjd">
+    <image file="Magical Drop Pocket (Japan).png" />
+  </element>
+
+  <view name="magdropjd Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="magdropjd">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="memories">
+    <image file="Memories Off - Pure (Japan).png" />
+  </element>
+
+  <view name="memories Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="memories">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="mezase">
+    <image file="Mezase! Kanji Ou (Japan).png" />
+  </element>
+
+  <view name="mezase Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="mezase">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="mizuki">
+    <image file="Mizuki Shigeru no Youkai Shashinkan (Japan).png" />
+  </element>
+
+  <view name="mizuki Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="mizuki">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="mslug1st">
+    <image file="Metal Slug - 1st Mission (World) (En,Ja).png" />
+  </element>
+
+  <view name="mslug1st Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="mslug1st">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="mslug2nd">
+    <image file="Metal Slug - 2nd Mission (World) (En,Ja).png" />
+  </element>
+
+  <view name="mslug2nd Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="mslug2nd">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="mslug2ndd">
+    <image file="Metal Slug - 2nd Mission (World) (En,Ja).png" />
+  </element>
+
+  <view name="mslug2ndd Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="mslug2ndd">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="neo21">
+    <image file="Neo 21 - Pocket Casino Series (World).png" />
+  </element>
+
+  <view name="neo21 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="neo21">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="neobacca">
+    <image file="Neo Baccarat - Pocket Casino Series (Japan, Europe).png" />
+  </element>
+
+  <view name="neobacca Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="neobacca">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="neobaccap">
+    <image file="Neo Baccarat - Pocket Casino Series (Japan, Europe).png" />
+  </element>
+
+  <view name="neobaccap Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="neobaccap">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="neocherc">
+    <image file="Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja).png" />
+  </element>
+
+  <view name="neocherc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="neocherc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="neochercp">
+    <image file="Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja).png" />
+  </element>
+
+  <view name="neochercp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="neochercp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="neocuppl">
+    <image file="NeoGeo Cup &#39;98 Plus Color - Pocket Sports Series (World) (En,Ja).png" />
+  </element>
+
+  <view name="neocuppl Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="neocuppl">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="neoderby">
+    <image file="Neo Derby Champ Daiyosou (Japan).png" />
+  </element>
+
+  <view name="neoderby Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="neoderby">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="neodrag">
+    <image file="Neo Dragon&#39;s Wild - Pocket Casino Series (World) (En,Ja).png" />
+  </element>
+
+  <view name="neodrag Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="neodrag">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="neodraga">
+    <image file="Neo Dragon&#39;s Wild - Pocket Casino Series (World) (En,Ja).png" />
+  </element>
+
+  <view name="neodraga Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="neodraga">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="neomystr">
+    <image file="Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja).png" />
+  </element>
+
+  <view name="neomystr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="neomystr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="neoproyk">
+    <image file="Neo Poke Pro Yakyuu (Japan).png" />
+  </element>
+
+  <view name="neoproyk Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="neoproyk">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="neoturfm">
+    <image file="Neo Turf Masters (World) (En,Ja).png" />
+  </element>
+
+  <view name="neoturfm Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="neoturfm">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="nigeronp">
+    <image file="Nige-ron-pa (Japan).png" />
+  </element>
+
+  <view name="nigeronp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="nigeronp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="oekakip">
+    <image file="Oekaki Puzzle (Japan).png" />
+  </element>
+
+  <view name="oekakip Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="oekakip">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="ogrebatl">
+    <image file="Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan).png" />
+  </element>
+
+  <view name="ogrebatl Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="ogrebatl">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="pachinko">
+    <image file="Pachinko Hisshou Guide - Pocket Parlor (Japan).png" />
+  </element>
+
+  <view name="pachinko Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="pachinko">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="pacman">
+    <image file="Pac-Man (World) (En,Ja).png" />
+  </element>
+
+  <view name="pacman Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="pacman">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="pbobble">
+    <image file="Puzzle Bobble Mini (Japan, Europe).png" />
+  </element>
+
+  <view name="pbobble Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="pbobble">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="pbobblea">
+    <image file="Puzzle Bobble Mini (Japan, Europe).png" />
+  </element>
+
+  <view name="pbobblea Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="pbobblea">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="pbobbleb">
+    <image file="Puzzle Bobble Mini (Japan, Europe) (En,Ja) (Beta).png" />
+  </element>
+
+  <view name="pbobbleb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="pbobbleb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="picturep">
+    <image file="Picture Puzzle (USA, Europe).png" />
+  </element>
+
+  <view name="picturep Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="picturep">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="poktlove">
+    <image file="Pocket Love - if (Japan).png" />
+  </element>
+
+  <view name="poktlove Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="poktlove">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="pockrev">
+    <image file="Pocket Reversi (Europe).png" />
+  </element>
+
+  <view name="pockrev Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="pockrev">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="pockrevj">
+    <image file="Pocket Reversi (Japan).png" />
+  </element>
+
+  <view name="pockrevj Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="pockrevj">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="prtymail">
+    <image file="Party Mail (Japan).png" />
+  </element>
+
+  <view name="prtymail Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="prtymail">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="prtymailp">
+    <image file="Party Mail (Japan).png" />
+  </element>
+
+  <view name="prtymailp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="prtymailp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="pslotazt">
+    <image file="Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan).png" />
+  </element>
+
+  <view name="pslotazt Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="pslotazt">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="pslotdk2">
+    <image file="Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan).png" />
+  </element>
+
+  <view name="pslotdk2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="pslotdk2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="pslotds2">
+    <image file="Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan).png" />
+  </element>
+
+  <view name="pslotds2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="pslotds2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="pslotecp">
+    <image file="Pachi-Slot Aruze Oukoku Pocket - e-Cup (Japan).png" />
+  </element>
+
+  <view name="pslotecp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="pslotecp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="pslothan">
+    <image file="Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan).png" />
+  </element>
+
+  <view name="pslothan Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="pslothan">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="pslothana">
+    <image file="Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan).png" />
+  </element>
+
+  <view name="pslothana Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="pslothana">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="pslotooh">
+    <image file="Pachi-Slot Aruze Oukoku Pocket - Ohhanabi (Japan).png" />
+  </element>
+
+  <view name="pslotooh Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="pslotooh">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="pslotpc2">
+    <image file="Pachi-Slot Aruze Oukoku Pocket - Porcano 2 (Japan).png" />
+  </element>
+
+  <view name="pslotpc2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="pslotpc2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="pslotwrd">
+    <image file="Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan).png" />
+  </element>
+
+  <view name="pslotwrd Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="pslotwrd">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="ptennisc">
+    <image file="Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).png" />
+  </element>
+
+  <view name="ptennisc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="ptennisc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="puyopop">
+    <image file="Puyo Pop (World) (En,Ja).png" />
+  </element>
+
+  <view name="puyopop Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="puyopop">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="puyopopa">
+    <image file="Puyo Pop (World) (En,Ja) (Beta).png" />
+  </element>
+
+  <view name="puyopopa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="puyopopa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="puzzlink">
+    <image file="Puzzle Link (Europe).png" />
+  </element>
+
+  <view name="puzzlink Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="puzzlink">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="puzzlnk2">
+    <image file="Puzzle Link 2 (USA, Europe).png" />
+  </element>
+
+  <view name="puzzlnk2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="puzzlnk2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="tsunapnc">
+    <image file="Renketsu Puzzle Tsunagete Pon! Color (Japan).png" />
+  </element>
+
+  <view name="tsunapnc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="tsunapnc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="rockmanb">
+    <image file="Rockman - Battle &amp; Fighters (Japan).png" />
+  </element>
+
+  <view name="rockmanb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="rockmanb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="rockmanbd">
+    <image file="Rockman - Battle &amp; Fighters (Japan).png" />
+  </element>
+
+  <view name="rockmanbd Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="rockmanbd">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="samsho2">
+    <image file="Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).png" />
+  </element>
+
+  <view name="samsho2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="samsho2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="shanghai">
+    <image file="Shanghai Mini (World) (En,Ja).png" />
+  </element>
+
+  <view name="shanghai Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="shanghai">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="shanghaipu">
+    <image file="Shanghai Mini (USA) (En,Ja) (Beta).png" />
+  </element>
+
+  <view name="shanghaipu Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="shanghaipu">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="shanghaipj">
+    <image file="Shanghai Mini (USA) (En,Ja) (Beta).png" />
+  </element>
+
+  <view name="shanghaipj Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="shanghaipj">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="shougic">
+    <image file="Shougi no Tatsujin Color (Japan).png" />
+  </element>
+
+  <view name="shougic Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="shougic">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="snkgals">
+    <image file="SNK Gals&#39; Fighters (USA, Europe).png" />
+  </element>
+
+  <view name="snkgals Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="snkgals">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="snkgalsj">
+    <image file="SNK Gals&#39; Fighters (Japan).png" />
+  </element>
+
+  <view name="snkgalsj Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="snkgalsj">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="sonic">
+    <image file="Sonic The Hedgehog - Pocket Adventure (World).png" />
+  </element>
+
+  <view name="sonic Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="sonic">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="sonicp">
+    <image file="Sonic The Hedgehog - Pocket Adventure (World).png" />
+  </element>
+
+  <view name="sonicp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="sonicp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="sonicp2">
+    <image file="Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22).png" />
+  </element>
+
+  <view name="sonicp2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="sonicp2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="hanadojo">
+    <image file="Soreike!! Hanafuda Doujou (Japan).png" />
+  </element>
+
+  <view name="hanadojo Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="hanadojo">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="srmp">
+    <image file="Super Real Mahjong - Premium Collection (Japan).png" />
+  </element>
+
+  <view name="srmp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="srmp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="svc">
+    <image file="SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).png" />
+  </element>
+
+  <view name="svc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="svc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="svccard2">
+    <image file="SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan).png" />
+  </element>
+
+  <view name="svccard2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="svccard2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="svccardc">
+    <image file="SNK vs. Capcom - Card Fighters&#39; Clash - Capcom Version (USA, Europe).png" />
+  </element>
+
+  <view name="svccardc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="svccardc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="svccardcj">
+    <image file="SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan).png" />
+  </element>
+
+  <view name="svccardcj Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="svccardcj">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="svccardp">
+    <image file="SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo).png" />
+  </element>
+
+  <view name="svccardp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="svccardp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="svccards">
+    <image file="SNK vs. Capcom - Card Fighters&#39; Clash - SNK Version (USA, Europe).png" />
+  </element>
+
+  <view name="svccards Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="svccards">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="svccardsj">
+    <image file="SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan).png" />
+  </element>
+
+  <view name="svccardsj Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="svccardsj">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="svccardsja">
+    <image file="SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan).png" />
+  </element>
+
+  <view name="svccardsja Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="svccardsja">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="tsunapn2">
+    <image file="Tsunagete Pon! 2 (Japan).png" />
+  </element>
+
+  <view name="tsunapn2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="tsunapn2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="wrestmad">
+    <image file="Wrestling Madness (Japan) (En) (Beta).png" />
+  </element>
+
+  <view name="wrestmad Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="wrestmad">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+</mamelayout>
+

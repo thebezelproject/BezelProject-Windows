@@ -1,0 +1,174 @@
+<!-- default.lay file for The Bezel Project Nintendo 64DD pack -->
+
+<mamelayout version="2">
+
+  <element name="n64dd">
+    <image file="Nintendo-64DD.png" />
+  </element>
+
+  <view name="Nintendo 64DD System Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="n64dd">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="dezaemon">
+    <image file="Dezaemon DD (Japan) (Proto).png" />
+  </element>
+
+  <view name="dezaemon Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="dezaemon">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="fzerox">
+    <image file="F-Zero X - Expansion Kit (Japan).png" />
+  </element>
+
+  <view name="fzerox Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="fzerox">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="progolf">
+    <image file="Nihon Pro Golf Tour 64 (Japan) [b].png" />
+  </element>
+
+  <view name="progolf Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="progolf">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="kdoshin">
+    <image file="Kyojin no Doshin (Japan).png" />
+  </element>
+
+  <view name="kdoshin Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="kdoshin">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="kdoshind">
+    <image file="Kyojin no Doshin (Japan) (Demo) (Kiosk) [b].png" />
+  </element>
+
+  <view name="kdoshind Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="kdoshind">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="kdoshin2">
+    <image file="Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou (Japan) [b].png" />
+  </element>
+
+  <view name="kdoshin2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="kdoshin2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="mariartc">
+    <image file="Mario Artist - Communication Kit (Japan).png" />
+  </element>
+
+  <view name="mariartc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="mariartc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="mariartp">
+    <image file="Mario Artist - Paint Studio (Japan).png" />
+  </element>
+
+  <view name="mariartp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="mariartp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="mariartg">
+    <image file="Mario Artist - Polygon Studio (Japan).png" />
+  </element>
+
+  <view name="mariartg Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="mariartg">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="mariartt">
+    <image file="Mario Artist - Talent Studio (Japan).png" />
+  </element>
+
+  <view name="mariartt Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="mariartt">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="simcity">
+    <image file="SimCity 64 (Japan).png" />
+  </element>
+
+  <view name="simcity Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="simcity">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+</mamelayout>
+

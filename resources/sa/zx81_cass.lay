@@ -1,0 +1,2414 @@
+<!-- default.lay file for The Bezel Project Sinclair ZX 81 pack -->
+
+<mamelayout version="2">
+
+  <element name="zx81_cass">
+    <image file="Sinclair-ZX-81.png" />
+  </element>
+
+  <view name="Sinclair ZX 81 System Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="zx81_cass">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="3ddefend">
+    <image file="3D Defender (19xx) (J.K. Greye Software).png" />
+  </element>
+
+  <view name="3ddefend Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="3ddefend">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="3ddefendn">
+    <image file="3D Defender (19xx) (J.K. Greye Software).png" />
+  </element>
+
+  <view name="3ddefendn Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="3ddefendn">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="3dgp">
+    <image file="3D Grand Prix (1982) (DK&#39;Tronics).png" />
+  </element>
+
+  <view name="3dgp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="3dgp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="3dmonmaze">
+    <image file="3D Monster Maze (19xx) (J.K. Greye Software).png" />
+  </element>
+
+  <view name="3dmonmaze Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="3dmonmaze">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="advent">
+    <image file="Adventure (19xx).png" />
+  </element>
+
+  <view name="advent Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="advent">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="adventc">
+    <image file="Adventure C - Alien Spaceship (1982) (Artic Computing).png" />
+  </element>
+
+  <view name="adventc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="adventc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="adventt1">
+    <image file="Adventure (19xx).png" />
+  </element>
+
+  <view name="adventt1 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="adventt1">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="airline">
+    <image file="Airline (1982) (CCS).png" />
+  </element>
+
+  <view name="airline Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="airline">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="alien">
+    <image file="Alien (19xx).png" />
+  </element>
+
+  <view name="alien Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="alien">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="alienatt">
+    <image file="Alien Attack (19xx) (J. Jones).png" />
+  </element>
+
+  <view name="alienatt Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="alienatt">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="astroids">
+    <image file="Asteroids (19xx).png" />
+  </element>
+
+  <view name="astroids Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="astroids">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="astroidssf">
+    <image file="Asteroids (19xx).png" />
+  </element>
+
+  <view name="astroidssf Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="astroidssf">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="autochef">
+    <image file="Autochef (1982) (CCS).png" />
+  </element>
+
+  <view name="autochef Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="autochef">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="avenger">
+    <image file="Avenger (1982) (Abacus Programs).png" />
+  </element>
+
+  <view name="avenger Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="avenger">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="batlships">
+    <image file="Battleship (19xx).png" />
+  </element>
+
+  <view name="batlships Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="batlships">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="bigflapatt">
+    <image file="Bigflap Attack (1982) (Timex).png" />
+  </element>
+
+  <view name="bigflapatt Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="bigflapatt">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="biorhythm">
+    <image file="Biorhythmus (19xx) (de).png" />
+  </element>
+
+  <view name="biorhythm Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="biorhythm">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="biorhythm1">
+    <image file="Biorhythmus (19xx) (de).png" />
+  </element>
+
+  <view name="biorhythm1 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="biorhythm1">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="blackstar">
+    <image file="Black Star (19xx) (Quicksilva).png" />
+  </element>
+
+  <view name="blackstar Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="blackstar">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="bomber">
+    <image file="Bomber (19xx).png" />
+  </element>
+
+  <view name="bomber Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="bomber">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="bomberm">
+    <image file="Bomber (19xx).png" />
+  </element>
+
+  <view name="bomberm Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="bomberm">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="breakout">
+    <image file="Breakout (19xx).png" />
+  </element>
+
+  <view name="breakout Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="breakout">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="breakoutj">
+    <image file="Breakout (19xx).png" />
+  </element>
+
+  <view name="breakoutj Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="breakoutj">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="breakoutn">
+    <image file="Breakout (19xx).png" />
+  </element>
+
+  <view name="breakoutn Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="breakoutn">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="brkoutsi">
+    <image file="Breakout (19xx).png" />
+  </element>
+
+  <view name="brkoutsi Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="brkoutsi">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="catacomb">
+    <image file="Catacombs (1981) (J.K. Greye Software).png" />
+  </element>
+
+  <view name="catacomb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="catacomb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="cbookmgr">
+    <image file="Checkbook Manager (19xx).png" />
+  </element>
+
+  <view name="cbookmgr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="cbookmgr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="centipede">
+    <image file="Centipedes (19xx) (de).png" />
+  </element>
+
+  <view name="centipede Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="centipede">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="centipededk">
+    <image file="Centipedes (19xx) (de).png" />
+  </element>
+
+  <view name="centipededk Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="centipededk">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="centipedeg">
+    <image file="Centipedes (19xx) (de).png" />
+  </element>
+
+  <view name="centipedeg Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="centipedeg">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="chessmg">
+    <image file="Chess (19xx).png" />
+  </element>
+
+  <view name="chessmg Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="chessmg">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="chessp">
+    <image file="Chess (19xx).png" />
+  </element>
+
+  <view name="chessp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="chessp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="chesst">
+    <image file="Chess (19xx).png" />
+  </element>
+
+  <view name="chesst Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="chesst">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="chessty">
+    <image file="Chess (19xx).png" />
+  </element>
+
+  <view name="chessty Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="chessty">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="citypatrl">
+    <image file="City Patrol (1982) (Macronics Systems).png" />
+  </element>
+
+  <view name="citypatrl Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="citypatrl">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="clubrecc">
+    <image file="Club Record (19xx).png" />
+  </element>
+
+  <view name="clubrecc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="clubrecc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="clubrecs">
+    <image file="Club Record (19xx).png" />
+  </element>
+
+  <view name="clubrecs Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="clubrecs">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="concentr">
+    <image file="Concentration (19xx).png" />
+  </element>
+
+  <view name="concentr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="concentr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="dallasf">
+    <image file="Dallas (1982) (CCS).png" />
+  </element>
+
+  <view name="dallasf Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="dallasf">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="damslbst">
+    <image file="Damsel and the Beast, The (1981).png" />
+  </element>
+
+  <view name="damslbst Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="damslbst">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="dodgcon4">
+    <image file="Dodgems (19xx).png" />
+  </element>
+
+  <view name="dodgcon4 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="dodgcon4">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="dodgcon4b">
+    <image file="Dodgems (19xx).png" />
+  </element>
+
+  <view name="dodgcon4b Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="dodgcon4b">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="dominoes">
+    <image file="Dominos (19xx).png" />
+  </element>
+
+  <view name="dominoes Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="dominoes">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="espisland">
+    <image file="Adventure D - Espionage Island (1982) (Artic Computing).png" />
+  </element>
+
+  <view name="espisland Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="espisland">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="espislanda">
+    <image file="Adventure D - Espionage Island (1982) (Artic Computing).png" />
+  </element>
+
+  <view name="espislanda Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="espislanda">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="famquiz">
+    <image file="Family Quiz (19xx).png" />
+  </element>
+
+  <view name="famquiz Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="famquiz">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="fastone">
+    <image file="Fast One, The (19xx).png" />
+  </element>
+
+  <view name="fastone Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="fastone">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="fastoneg">
+    <image file="Fast One, The (19xx).png" />
+  </element>
+
+  <view name="fastoneg Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="fastoneg">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="fballman">
+    <image file="Football Manager (19xx).png" />
+  </element>
+
+  <view name="fballman Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="fballman">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="flsimul">
+    <image file="Flight Simulation (1981) (Psion Software)[16K].png" />
+  </element>
+
+  <view name="flsimul Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="flsimul">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="flsimult">
+    <image file="Flight Simulation (1981) (Psion Software)[16K].png" />
+  </element>
+
+  <view name="flsimult Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="flsimult">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="football">
+    <image file="Football Manager (19xx).png" />
+  </element>
+
+  <view name="football Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="football">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="fortynin">
+    <image file="Forty Niner (19xx) (Cosmic Cockerel).png" />
+  </element>
+
+  <view name="fortynin Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="fortynin">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="frogger">
+    <image file="Frogger (19xx).png" />
+  </element>
+
+  <view name="frogger Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="frogger">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="froggers">
+    <image file="Frogger (19xx).png" />
+  </element>
+
+  <view name="froggers Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="froggers">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="galinvad">
+    <image file="Galaxy Invaders (19xx).png" />
+  </element>
+
+  <view name="galinvad Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="galinvad">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="galinvdi">
+    <image file="Galaxy Invaders (19xx).png" />
+  </element>
+
+  <view name="galinvdi Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="galinvdi">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="galsword">
+    <image file="Sword of Peace, The (19xx).png" />
+  </element>
+
+  <view name="galsword Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="galsword">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="gambler">
+    <image file="Slot Machine - The Gambler Tape (19xx).png" />
+  </element>
+
+  <view name="gambler Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="gambler">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="gauntlet">
+    <image file="Gauntlet, The (1982) (Colourmatic Computing).png" />
+  </element>
+
+  <view name="gauntlet Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="gauntlet">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="gauntletp">
+    <image file="Gauntlet, The (1982) (Colourmatic Computing).png" />
+  </element>
+
+  <view name="gauntletp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="gauntletp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="genstats">
+    <image file="Statistics (19xx).png" />
+  </element>
+
+  <view name="genstats Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="genstats">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="ghosth">
+    <image file="Ghost Hunt (19xx) (PSS).png" />
+  </element>
+
+  <view name="ghosth Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="ghosth">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="gold">
+    <image file="Golf (19xx).png" />
+  </element>
+
+  <view name="gold Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="gold">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="golf">
+    <image file="Golf (19xx).png" />
+  </element>
+
+  <view name="golf Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="golf">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="grimmft">
+    <image file="Grimm&#39;s Fairy Trails (19xx).png" />
+  </element>
+
+  <view name="grimmft Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="grimmft">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="hangman">
+    <image file="Hangman (19xx).png" />
+  </element>
+
+  <view name="hangman Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="hangman">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="hopper">
+    <image file="Hopper (19xx) (PSS).png" />
+  </element>
+
+  <view name="hopper Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="hopper">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="incacurs">
+    <image file="Adventure B - Inca Treasure (1981) (Artic Computing).png" />
+  </element>
+
+  <view name="incacurs Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="incacurs">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="invadera">
+    <image file="Space Invader (19xx) (de).png" />
+  </element>
+
+  <view name="invadera Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="invadera">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="invaderf">
+    <image file="Space Invader (19xx) (de).png" />
+  </element>
+
+  <view name="invaderf Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="invaderf">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="invaderm">
+    <image file="Space Invader (19xx) (de).png" />
+  </element>
+
+  <view name="invaderm Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="invaderm">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="invaders">
+    <image file="Invaders (19xx).png" />
+  </element>
+
+  <view name="invaders Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="invaders">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="invforce">
+    <image file="Invasion Force (1982) (Artic Computing).png" />
+  </element>
+
+  <view name="invforce Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="invforce">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="invforcei">
+    <image file="Invasion Force (1982) (Artic Computing).png" />
+  </element>
+
+  <view name="invforcei Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="invforcei">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="knightqu">
+    <image file="Knights Quest, The - Intro (1983) (Phipps Associates).png" />
+  </element>
+
+  <view name="knightqu Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="knightqu">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="krazykng">
+    <image file="Krazy Kong (19xx) (PSS).png" />
+  </element>
+
+  <view name="krazykng Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="krazykng">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="krazykngi">
+    <image file="Krazy Kong (19xx) (PSS).png" />
+  </element>
+
+  <view name="krazykngi Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="krazykngi">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="learnlab">
+    <image file="Learning Lab Starters (19xx).png" />
+  </element>
+
+  <view name="learnlab Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="learnlab">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="lunaresc">
+    <image file="Lunar Rescue (19xx).png" />
+  </element>
+
+  <view name="lunaresc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="lunaresc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="mathspt1">
+    <image file="Maths (19xx).png" />
+  </element>
+
+  <view name="mathspt1 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="mathspt1">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="mazogs">
+    <image file="Mazogs (19xx).png" />
+  </element>
+
+  <view name="mazogs Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="mazogs">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="mazogsg">
+    <image file="Mazogs (19xx).png" />
+  </element>
+
+  <view name="mazogsg Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="mazogsg">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="mervenus">
+    <image file="Merchant of Venus (1982) (Crystal Computing).png" />
+  </element>
+
+  <view name="mervenus Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="mervenus">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="micmouse">
+    <image file="Micro Mouse Goes De-Bugging (19xx) (MC Lothlorien).png" />
+  </element>
+
+  <view name="micmouse Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="micmouse">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="mnyanal2">
+    <image file="Money Analyser 2 - Rate of Return (19xx).png" />
+  </element>
+
+  <view name="mnyanal2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="mnyanal2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="monsmine">
+    <image file="Monster Mine, The (1982) (W.E. McGowan).png" />
+  </element>
+
+  <view name="monsmine Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="monsmine">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="morserdr">
+    <image file="Morse Reader (1984) (G40IK - G40IL).png" />
+  </element>
+
+  <view name="morserdr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="morserdr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="multgrap">
+    <image file="Multigraphics v2.3 (1981) (Bridge Software).png" />
+  </element>
+
+  <view name="multgrap Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="multgrap">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="murgatro">
+    <image file="Murgatroyds (1981) (Collins Computing).png" />
+  </element>
+
+  <view name="murgatro Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="murgatro">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="music1">
+    <image file="Music Educator 1 (19xx).png" />
+  </element>
+
+  <view name="music1 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="music1">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="musicedu">
+    <image file="Music Educator 1 (19xx).png" />
+  </element>
+
+  <view name="musicedu Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="musicedu">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="mxdgame2">
+    <image file="Suprmind - Game Bag 2 (19xx).png" />
+  </element>
+
+  <view name="mxdgame2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="mxdgame2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="namtraid">
+    <image file="Namtir Raiders (1982) (Artic Computing).png" />
+  </element>
+
+  <view name="namtraid Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="namtraid">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="nightgunn">
+    <image file="Night Gunner (1982) (Digital Integration).png" />
+  </element>
+
+  <view name="nightgunn Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="nightgunn">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="nightgunns">
+    <image file="Night Gunner (1982) (Digital Integration).png" />
+  </element>
+
+  <view name="nightgunns Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="nightgunns">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="nightmpk">
+    <image file="Nightmare Park (1981) (Breadhill).png" />
+  </element>
+
+  <view name="nightmpk Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="nightmpk">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="nightmpkmp">
+    <image file="Music Plus (19xx).png" />
+  </element>
+
+  <view name="nightmpkmp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="nightmpkmp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="othello">
+    <image file="Othello (19xx) (de).png" />
+  </element>
+
+  <view name="othello Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="othello">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="pilot">
+    <image file="Pilot (1982) (M. Male).png" />
+  </element>
+
+  <view name="pilot Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="pilot">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="pinball">
+    <image file="Pinball (19xx).png" />
+  </element>
+
+  <view name="pinball Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="pinball">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="planetds">
+    <image file="Planetoids (19xx) (Macronics Systems).png" />
+  </element>
+
+  <view name="planetds Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="planetds">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="plntdth">
+    <image file="Adventure A - The Planet of Death (1981) (Artic Computing).png" />
+  </element>
+
+  <view name="plntdth Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="plntdth">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="plntdtha">
+    <image file="Adventure A - The Planet of Death (1981) (Artic Computing).png" />
+  </element>
+
+  <view name="plntdtha Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="plntdtha">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="progmerg">
+    <image file="Progmerge v004 (1983) (J.C. van Leijden).png" />
+  </element>
+
+  <view name="progmerg Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="progmerg">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="protectr">
+    <image file="Protector (19xx) (Abacus Programs).png" />
+  </element>
+
+  <view name="protectr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="protectr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="qsastero">
+    <image file="Asteroids (19xx).png" />
+  </element>
+
+  <view name="qsastero Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="qsastero">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="qsasterob">
+    <image file="Asteroids (19xx).png" />
+  </element>
+
+  <view name="qsasterob Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="qsasterob">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="qsdefend">
+    <image file="Defenda (19xx).png" />
+  </element>
+
+  <view name="qsdefend Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="qsdefend">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="qsdefendb">
+    <image file="Defenda (19xx).png" />
+  </element>
+
+  <view name="qsdefendb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="qsdefendb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="qsinvade">
+    <image file="Space Invader (19xx) (de).png" />
+  </element>
+
+  <view name="qsinvade Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="qsinvade">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="qsscramb">
+    <image file="Scramble (19xx).png" />
+  </element>
+
+  <view name="qsscramb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="qsscramb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="raider">
+    <image file="Raider (19xx).png" />
+  </element>
+
+  <view name="raider Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="raider">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="redalert">
+    <image file="Red Alert (19xx).png" />
+  </element>
+
+  <view name="redalert Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="redalert">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="reversi">
+    <image file="Reversi (19xx).png" />
+  </element>
+
+  <view name="reversi Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="reversi">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="reversia">
+    <image file="Reversi (19xx).png" />
+  </element>
+
+  <view name="reversia Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="reversia">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="rocketman">
+    <image file="Rocket Man (19xx) (Cosmic Cockerel).png" />
+  </element>
+
+  <view name="rocketman Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="rocketman">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="romanemp">
+    <image file="Roman Empire (1982) (MC Lothlorien).png" />
+  </element>
+
+  <view name="romanemp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="romanemp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="sabotage">
+    <image file="Sabotage (1982) (Don Priestley).png" />
+  </element>
+
+  <view name="sabotage Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="sabotage">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="scramble">
+    <image file="Scramble (19xx).png" />
+  </element>
+
+  <view name="scramble Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="scramble">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="seawolf">
+    <image file="Sea Wolf (1983) (Stephen Hartley Software).png" />
+  </element>
+
+  <view name="seawolf Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="seawolf">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="seawolfn">
+    <image file="Sea Wolf (1983) (Stephen Hartley Software).png" />
+  </element>
+
+  <view name="seawolfn Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="seawolfn">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="siplanet">
+    <image file="Space Invader (19xx) (de).png" />
+  </element>
+
+  <view name="siplanet Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="siplanet">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="sirescue">
+    <image file="Space Rescue (19xx).png" />
+  </element>
+
+  <view name="sirescue Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="sirescue">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="spaceint">
+    <image file="Space Invaders (19xx).png" />
+  </element>
+
+  <view name="spaceint Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="spaceint">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="spaceinv">
+    <image file="Space Invaders (19xx).png" />
+  </element>
+
+  <view name="spaceinv Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="spaceinv">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="spaceinvd">
+    <image file="Space Invaders (19xx).png" />
+  </element>
+
+  <view name="spaceinvd Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="spaceinvd">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="spcinv3k">
+    <image file="Space Invaders (19xx).png" />
+  </element>
+
+  <view name="spcinv3k Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="spcinv3k">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="spcraid">
+    <image file="Bomber (19xx).png" />
+  </element>
+
+  <view name="spcraid Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="spcraid">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="spellbee">
+    <image file="Super Bee Spelling Game (19xx).png" />
+  </element>
+
+  <view name="spellbee Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="spellbee">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="starter">
+    <image file="Learning Lab Starters (19xx).png" />
+  </element>
+
+  <view name="starter Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="starter">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="startrek">
+    <image file="Star Trek (19xx).png" />
+  </element>
+
+  <view name="startrek Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="startrek">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="startrekm">
+    <image file="Star Trek (19xx).png" />
+  </element>
+
+  <view name="startrekm Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="startrekm">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="startreks">
+    <image file="Star Trek (19xx).png" />
+  </element>
+
+  <view name="startreks Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="startreks">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="startrekt">
+    <image file="Star Trek (19xx).png" />
+  </element>
+
+  <view name="startrekt Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="startrekt">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="startrkm">
+    <image file="Star Trek (19xx).png" />
+  </element>
+
+  <view name="startrkm Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="startrkm">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="startrkn">
+    <image file="Star Trek (19xx).png" />
+  </element>
+
+  <view name="startrkn Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="startrkn">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="stats">
+    <image file="Statistics (19xx).png" />
+  </element>
+
+  <view name="stats Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="stats">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="statsz">
+    <image file="Statistics (19xx).png" />
+  </element>
+
+  <view name="statsz Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="statsz">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="stkmark">
+    <image file="Stock-Market (1981) (Video Software).png" />
+  </element>
+
+  <view name="stkmark Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="stkmark">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="stkmarkg">
+    <image file="Stock-Market (1981) (Video Software).png" />
+  </element>
+
+  <view name="stkmarkg Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="stkmarkg">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="supchess">
+    <image file="Chess (19xx).png" />
+  </element>
+
+  <view name="supchess Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="supchess">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="suprinvd">
+    <image file="Space Invader (19xx) (de).png" />
+  </element>
+
+  <view name="suprinvd Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="suprinvd">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="suprmath">
+    <image file="Super-Math (19xx).png" />
+  </element>
+
+  <view name="suprmath Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="suprmath">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="suprmaze">
+    <image file="Supermaze (19xx) (J.K. Greye Software).png" />
+  </element>
+
+  <view name="suprmaze Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="suprmaze">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="supscram">
+    <image file="Scramble (19xx).png" />
+  </element>
+
+  <view name="supscram Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="supscram">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="supwump">
+    <image file="Super Wumpus (19xx) (Silversoft).png" />
+  </element>
+
+  <view name="supwump Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="supwump">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="tai">
+    <image file="Tai (1983) (PSS).png" />
+  </element>
+
+  <view name="tai Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="tai">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="tasword">
+    <image file="Tasword (1982) (Tasman Software).png" />
+  </element>
+
+  <view name="tasword Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="tasword">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="tempest">
+    <image file="Tempest (19xx) (S.P. Kelly).png" />
+  </element>
+
+  <view name="tempest Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="tempest">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="throwall">
+    <image file="Scramble (19xx).png" />
+  </element>
+
+  <view name="throwall Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="throwall">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="tombdrac">
+    <image file="Tomb of Dracula, The (19xx) (Felix Software).png" />
+  </element>
+
+  <view name="tombdrac Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="tombdrac">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="tombdracf">
+    <image file="Tomb of Dracula, The (19xx) (Felix Software).png" />
+  </element>
+
+  <view name="tombdracf Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="tombdracf">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="trace">
+    <image file="Trace (19xx).png" />
+  </element>
+
+  <view name="trace Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="trace">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="traffic">
+    <image file="Traffic - River (19xx).png" />
+  </element>
+
+  <view name="traffic Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="traffic">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="tsdestry">
+    <image file="Space Raid (19xx).png" />
+  </element>
+
+  <view name="tsdestry Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="tsdestry">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="ufo">
+    <image file="UFO (19xx).png" />
+  </element>
+
+  <view name="ufo Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="ufo">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="ufo3dmaze">
+    <image file="3D Maze (19xx).png" />
+  </element>
+
+  <view name="ufo3dmaze Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="ufo3dmaze">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="zombies">
+    <image file="Sword of Peace, The (19xx).png" />
+  </element>
+
+  <view name="zombies Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="zombies">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="zuckman">
+    <image file="Zuckman (1982) (David &amp; John Looker).png" />
+  </element>
+
+  <view name="zuckman Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="zuckman">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="zxas">
+    <image file="Assembler (19xx).png" />
+  </element>
+
+  <view name="zxas Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="zxas">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="zxasg">
+    <image file="Assembler (19xx).png" />
+  </element>
+
+  <view name="zxasg Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="zxasg">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="zxassemb">
+    <image file="Assembler (19xx).png" />
+  </element>
+
+  <view name="zxassemb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="zxassemb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="zxassembf">
+    <image file="Assembler (19xx).png" />
+  </element>
+
+  <view name="zxassembf Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="zxassembf">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="zxassembi">
+    <image file="Assembler (19xx).png" />
+  </element>
+
+  <view name="zxassembi Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="zxassembi">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="zxasterd">
+    <image file="ZX Asteroids (19xx).png" />
+  </element>
+
+  <view name="zxasterd Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="zxasterd">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="zxbug">
+    <image file="ZX Bug (19xx).png" />
+  </element>
+
+  <view name="zxbug Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="zxbug">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="zxbugi">
+    <image file="ZX Bug (19xx).png" />
+  </element>
+
+  <view name="zxbugi Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="zxbugi">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="zxchess1">
+    <image file="Chess (19xx).png" />
+  </element>
+
+  <view name="zxchess1 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="zxchess1">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="zxchess2">
+    <image file="ZX-Chess II (1981) (Artic Computing).png" />
+  </element>
+
+  <view name="zxchess2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="zxchess2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="zxcompil">
+    <image file="Compiler (19xx).png" />
+  </element>
+
+  <view name="zxcompil Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="zxcompil">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+</mamelayout>
+

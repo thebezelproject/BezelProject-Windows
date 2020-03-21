@@ -1,0 +1,356 @@
+<!-- default.lay file for The Bezel Project Amstrad GX4000 pack -->
+
+<mamelayout version="2">
+
+  <element name="gx4000">
+    <image file="Amstrad-GX4000.png" />
+  </element>
+
+  <view name="Amstrad GX4000 System Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="gx4000">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="barb2">
+    <image file="Barbarian 2 (Europe).png" />
+  </element>
+
+  <view name="barb2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="barb2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="batman">
+    <image file="Batman the Movie (Europe).png" />
+  </element>
+
+  <view name="batman Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="batman">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="brubber">
+    <image file="Burnin&#39; Rubber (Europe).png" />
+  </element>
+
+  <view name="brubber Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="brubber">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="coptr271">
+    <image file="Copter 271 (Europe).png" />
+  </element>
+
+  <view name="coptr271 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="coptr271">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="crzycrs2">
+    <image file="Crazy Cars 2 (Europe).png" />
+  </element>
+
+  <view name="crzycrs2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="crzycrs2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="dicktr">
+    <image file="Dick Tracy (Europe).png" />
+  </element>
+
+  <view name="dicktr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="dicktr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="firefor2">
+    <image file="Fire and Forget 2 (Europe).png" />
+  </element>
+
+  <view name="firefor2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="firefor2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="klax">
+    <image file="Klax (Europe).png" />
+  </element>
+
+  <view name="klax Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="klax">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="mystical">
+    <image file="Mystical (Europe).png" />
+  </element>
+
+  <view name="mystical Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="mystical">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="navyseal">
+    <image file="Navy Seals (Europe).png" />
+  </element>
+
+  <view name="navyseal Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="navyseal">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="noexit">
+    <image file="No Exit (Europe).png" />
+  </element>
+
+  <view name="noexit Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="noexit">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="othunder">
+    <image file="Operation Thunderbolt (Europe).png" />
+  </element>
+
+  <view name="othunder Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="othunder">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="pang">
+    <image file="Pang (Europe).png" />
+  </element>
+
+  <view name="pang Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="pang">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="panzakb">
+    <image file="Panza Kick Boxing (Europe).png" />
+  </element>
+
+  <view name="panzakb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="panzakb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="pinmagic">
+    <image file="Super Pinball Magic (Europe).png" />
+  </element>
+
+  <view name="pinmagic Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="pinmagic">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="plotting">
+    <image file="Plotting (Europe).png" />
+  </element>
+
+  <view name="plotting Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="plotting">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="protennt">
+    <image file="Pro Tennis Tour (Europe).png" />
+  </element>
+
+  <view name="protennt Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="protennt">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="robocop2">
+    <image file="Robocop 2 (Europe).png" />
+  </element>
+
+  <view name="robocop2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="robocop2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="skeetsh">
+    <image file="Skeet Shoot (Europe).png" />
+  </element>
+
+  <view name="skeetsh Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="skeetsh">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="switchbl">
+    <image file="Switchblade (Europe).png" />
+  </element>
+
+  <view name="switchbl Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="switchbl">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="tennisc2">
+    <image file="Tennis Cup 2 (Europe).png" />
+  </element>
+
+  <view name="tennisc2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="tennisc2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="enforcer">
+    <image file="Enforcer (Europe).png" />
+  </element>
+
+  <view name="enforcer Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="enforcer">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="tintin">
+    <image file="Tin Tin on the Moon (Europe).png" />
+  </element>
+
+  <view name="tintin Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="tintin">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="wildstrt">
+    <image file="Wild Streets (Europe).png" />
+  </element>
+
+  <view name="wildstrt Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="wildstrt">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+</mamelayout>
+

@@ -1,0 +1,160 @@
+<!-- default.lay file for The Bezel Project NEC PC FX pack -->
+
+<mamelayout version="2">
+
+  <element name="pcfx">
+    <image file="NEC-PC-FX.png" />
+  </element>
+
+  <view name="NEC PC FX System Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="pcfx">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="angeliq">
+    <image file="Fushigi No Kuni No Angelique (Japan).png" />
+  </element>
+
+  <view name="angeliq Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="angeliq">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="batlheat">
+    <image file="Battle Heat (Japan).png" />
+  </element>
+
+  <view name="batlheat Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="batlheat">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="cancandx">
+    <image file="Can Can Bunny Extra DX (Japan).png" />
+  </element>
+
+  <view name="cancandx Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="cancandx">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="carrot">
+    <image file="Pia Carrot He Youkoso (Japan) (Translated En).png" />
+  </element>
+
+  <view name="carrot Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="carrot">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="dknight4">
+    <image file="Dragon Knight IV (Japan).png" />
+  </element>
+
+  <view name="dknight4 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="dknight4">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="doukyuu2">
+    <image file="Doukyusei II (Japan).png" />
+  </element>
+
+  <view name="doukyuu2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="doukyuu2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="farland">
+    <image file="Farland Story FX (Japan).png" />
+  </element>
+
+  <view name="farland Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="farland">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="firewomn">
+    <image file="Fire Woman Matoi-Gumi (Japan).png" />
+  </element>
+
+  <view name="firewomn Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="firewomn">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="langriss">
+    <image file="Der Langrisser FX (Japan).png" />
+  </element>
+
+  <view name="langriss Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="langriss">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="megamip2">
+    <image file="Megami Paradise II (Japan).png" />
+  </element>
+
+  <view name="megamip2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="megamip2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+</mamelayout>
+

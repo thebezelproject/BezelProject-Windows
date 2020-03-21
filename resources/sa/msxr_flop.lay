@@ -1,0 +1,440 @@
+<!-- default.lay file for The Bezel Project Microsoft MSX pack -->
+
+<mamelayout version="2">
+
+  <element name="msxr_flop">
+    <image file="Microsoft-MSX.png" />
+  </element>
+
+  <view name="Microsoft MSX System Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="msxr_flop">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="2021snok">
+    <image file="2021 Snooky (Japan).png" />
+  </element>
+
+  <view name="2021snok Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="2021snok">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="diefrag2">
+    <image file="Die Frage II (Japan).png" />
+  </element>
+
+  <view name="diefrag2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="diefrag2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="diefrag2a">
+    <image file="Die Frage II (Japan).png" />
+  </element>
+
+  <view name="diefrag2a Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="diefrag2a">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="flywind">
+    <image file="Shoot That Flying Windows! (Japan).png" />
+  </element>
+
+  <view name="flywind Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="flywind">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="flywinda">
+    <image file="Shoot That Flying Windows! (Japan).png" />
+  </element>
+
+  <view name="flywinda Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="flywinda">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="fnano2">
+    <image file="F-Nano 2 - 3D Car Action (Japan).png" />
+  </element>
+
+  <view name="fnano2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="fnano2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="fnano2d">
+    <image file="F-Nano 2 - 3D Car Action (Japan).png" />
+  </element>
+
+  <view name="fnano2d Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="fnano2d">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="fray">
+    <image file="Fray - In Magical Adventure (Japan)(Disk 5 of 5)(Game Disk 1).png" />
+  </element>
+
+  <view name="fray Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="fray">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="fraya">
+    <image file="Fray - In Magical Adventure (Japan)(Disk 5 of 5)(Game Disk 1).png" />
+  </element>
+
+  <view name="fraya Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="fraya">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="frayb">
+    <image file="Fray - In Magical Adventure (Japan)(Disk 5 of 5)(Game Disk 1).png" />
+  </element>
+
+  <view name="frayb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="frayb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="gunfesta">
+    <image file="Gun Shot vs Festa Again (Japan).png" />
+  </element>
+
+  <view name="gunfesta Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="gunfesta">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="illcity">
+    <image file="Illusion City (Japan)(Data Disk 1 of 4).png" />
+  </element>
+
+  <view name="illcity Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="illcity">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="mlsaga">
+    <image file="Moonlight Saga (Japan).png" />
+  </element>
+
+  <view name="mlsaga Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="mlsaga">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="mlsagaa">
+    <image file="Moonlight Saga (Japan).png" />
+  </element>
+
+  <view name="mlsagaa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="mlsagaa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="multiplx">
+    <image file="Multi-Plex (Japan).png" />
+  </element>
+
+  <view name="multiplx Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="multiplx">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="multiplxa">
+    <image file="Illusion City ALT.png" />
+  </element>
+
+  <view name="multiplxa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="multiplxa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="paradrm">
+    <image file="PaRaDream (Japan).png" />
+  </element>
+
+  <view name="paradrm Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="paradrm">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="paradrma">
+    <image file="PaRaDream (Japan).png" />
+  </element>
+
+  <view name="paradrma Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="paradrma">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="paradrmb">
+    <image file="PaRaDream (Japan).png" />
+  </element>
+
+  <view name="paradrmb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="paradrmb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="ranma">
+    <image file="Ranma 1-2 Hiryuu Densetsu (Japan)(Disk 1 of 8).png" />
+  </element>
+
+  <view name="ranma Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="ranma">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="ranmaa">
+    <image file="Ranma 1-2 Hiryuu Densetsu (Japan)(Disk 1 of 8).png" />
+  </element>
+
+  <view name="ranmaa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="ranmaa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="ranmab">
+    <image file="Ranma 1-2 Hiryuu Densetsu (Japan)(Disk 1 of 8).png" />
+  </element>
+
+  <view name="ranmab Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="ranmab">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="ranmac">
+    <image file="Ranma 1-2 Hiryuu Densetsu (Japan)(Disk 1 of 8).png" />
+  </element>
+
+  <view name="ranmac Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="ranmac">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="seeddrag">
+    <image file="Seed of Dragon (Japan)(Game Disk 1 of 3).png" />
+  </element>
+
+  <view name="seeddrag Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="seeddrag">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="seeddraga">
+    <image file="Seed of Dragon (Japan)(Game Disk 1 of 3).png" />
+  </element>
+
+  <view name="seeddraga Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="seeddraga">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="seeddragb">
+    <image file="Seed of Dragon (Japan)(Game Disk 1 of 3).png" />
+  </element>
+
+  <view name="seeddragb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="seeddragb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="stg">
+    <image file="S.T.G. (Japan).png" />
+  </element>
+
+  <view name="stg Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="stg">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="stgspec">
+    <image file="S.T.G. Special - Do Don Taku (Japan).png" />
+  </element>
+
+  <view name="stgspec Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="stgspec">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="sweet">
+    <image file="Sweet (Japan).png" />
+  </element>
+
+  <view name="sweet Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="sweet">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="zterra">
+    <image file="Zone Terra (Japan).png" />
+  </element>
+
+  <view name="zterra Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="zterra">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+</mamelayout>
+

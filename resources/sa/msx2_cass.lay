@@ -1,0 +1,20 @@
+<!-- default.lay file for The Bezel Project Microsoft MSX pack -->
+
+<mamelayout version="2">
+
+  <element name="msx2_cass">
+    <image file="Microsoft-MSX.png" />
+  </element>
+
+  <view name="Microsoft MSX System Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="msx2_cass">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+</mamelayout>
+

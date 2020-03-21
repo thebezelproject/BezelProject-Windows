@@ -1,0 +1,76 @@
+<!-- default.lay file for The Bezel Project NEC SuperGrafx pack -->
+
+<mamelayout version="2">
+
+  <element name="sgx">
+    <image file="NEC-SuperGrafx.png" />
+  </element>
+
+  <view name="NEC SuperGrafx System Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="sgx">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="1941">
+    <image file="1941 - Counter Attack (Japan).png" />
+  </element>
+
+  <view name="1941 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="1941">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="aldynes">
+    <image file="Aldynes - The Misson Code for Rage Crisis (Japan).png" />
+  </element>
+
+  <view name="aldynes Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="aldynes">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="battlace">
+    <image file="Battle Ace (Japan).png" />
+  </element>
+
+  <view name="battlace Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="battlace">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="daimakai">
+    <image file="Daimakaimura (Japan).png" />
+  </element>
+
+  <view name="daimakai Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="daimakai">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+</mamelayout>
+

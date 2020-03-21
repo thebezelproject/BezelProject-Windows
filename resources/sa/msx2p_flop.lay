@@ -1,0 +1,258 @@
+<!-- default.lay file for The Bezel Project Microsoft MSX pack -->
+
+<mamelayout version="2">
+
+  <element name="msx2p_flop">
+    <image file="Microsoft-MSX.png" />
+  </element>
+
+  <view name="Microsoft MSX System Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="msx2p_flop">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="f1spirit">
+    <image file="F-1 Spirit 3D Special (Japan)(Disk 2 of 3).png" />
+  </element>
+
+  <view name="f1spirit Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="f1spirit">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="f1spirita">
+    <image file="F-1 Spirit 3D Special (Japan)(Disk 2 of 3).png" />
+  </element>
+
+  <view name="f1spirita Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="f1spirita">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="f1spiritb">
+    <image file="F-1 Spirit 3D Special (Japan)(Disk 2 of 3).png" />
+  </element>
+
+  <view name="f1spiritb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="f1spiritb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="famistah">
+    <image file="Family Stadium Pro Baseball - Homerun Contest (Japan).png" />
+  </element>
+
+  <view name="famistah Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="famistah">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="famistaha">
+    <image file="Family Stadium Pro Baseball - Homerun Contest (Japan).png" />
+  </element>
+
+  <view name="famistaha Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="famistaha">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="gradius3">
+    <image file="Gradius III Legends (Spain).png" />
+  </element>
+
+  <view name="gradius3 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="gradius3">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="hbf1xv">
+    <image file="Sony HB-F1XV Story Disk (Japan).png" />
+  </element>
+
+  <view name="hbf1xv Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="hbf1xv">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="laydock2">
+    <image file="Laydock 2 - Last Attack (Japan)(Disk 2 of 2).png" />
+  </element>
+
+  <view name="laydock2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="laydock2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="laydock2a">
+    <image file="Laydock 2 - Last Attack (Japan)(Disk 2 of 2).png" />
+  </element>
+
+  <view name="laydock2a Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="laydock2a">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="pbstrip">
+    <image file="Playboy Strippoker (Netherlands).png" />
+  </element>
+
+  <view name="pbstrip Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="pbstrip">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="seasard">
+    <image file="Sea Sardine (Japan).png" />
+  </element>
+
+  <view name="seasard Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="seasard">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="seasarda">
+    <image file="Sea Sardine (Japan).png" />
+  </element>
+
+  <view name="seasarda Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="seasarda">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="sonyc">
+    <image file="Sonyc (Spain).png" />
+  </element>
+
+  <view name="sonyc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="sonyc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="wig">
+    <image file="Wig, The (Japan).png" />
+  </element>
+
+  <view name="wig Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="wig">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="yoshidak">
+    <image file="Yoshida Kensetsu (Japan).png" />
+  </element>
+
+  <view name="yoshidak Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="yoshidak">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="yoshidakc">
+    <image file="Yoshida Kensetsu (Japan).png" />
+  </element>
+
+  <view name="yoshidakc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="yoshidakc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="yoshidakd">
+    <image file="Yoshida Kensetsu (Japan).png" />
+  </element>
+
+  <view name="yoshidakd Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="yoshidakd">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+</mamelayout>
+
