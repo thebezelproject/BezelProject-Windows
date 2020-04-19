@@ -1,0 +1,2764 @@
+<!-- default.lay file for The Bezel Project Microsoft MSX pack -->
+
+<mamelayout version="2">
+
+  <element name="msx2_flop">
+    <image file="Microsoft-MSX.png" />
+  </element>
+
+  <view name="Microsoft MSX System Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="msx2_flop">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="1942">
+    <image file="1942 (Japan).png" />
+  </element>
+
+  <view name="1942 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="1942">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="aclassmj">
+    <image file="Inemuriryuu Asada Tetsuya no A-kyuu Mahjong (Japan).png" />
+  </element>
+
+  <view name="aclassmj Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="aclassmj">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="acrojet">
+    <image file="AcroJet (Japan).png" />
+  </element>
+
+  <view name="acrojet Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="acrojet">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="aleste">
+    <image file="Aleste (Japan).png" />
+  </element>
+
+  <view name="aleste Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="aleste">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="amesoccr">
+    <image file="American Soccer (Japan).png" />
+  </element>
+
+  <view name="amesoccr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="amesoccr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="amesoccra">
+    <image file="American Soccer (Japan).png" />
+  </element>
+
+  <view name="amesoccra Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="amesoccra">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="androgyn">
+    <image file="Han Seimei Senki Andorogynus (Japan).png" />
+  </element>
+
+  <view name="androgyn Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="androgyn">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="androgyna">
+    <image file="Han Seimei Senki Andorogynus (Japan).png" />
+  </element>
+
+  <view name="androgyna Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="androgyna">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="androgynb">
+    <image file="Han Seimei Senki Andorogynus (Japan).png" />
+  </element>
+
+  <view name="androgynb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="androgynb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="arknoid2">
+    <image file="Arkanoid II - Revenge of Doh (Japan).png" />
+  </element>
+
+  <view name="arknoid2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="arknoid2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="arknoid2a">
+    <image file="Arkanoid II - Revenge of Doh (Japan).png" />
+  </element>
+
+  <view name="arknoid2a Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="arknoid2a">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="arknoid2b">
+    <image file="Arkanoid II - Revenge of Doh (Japan).png" />
+  </element>
+
+  <view name="arknoid2b Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="arknoid2b">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="arknoid2c">
+    <image file="Arkanoid II - Revenge of Doh (Japan).png" />
+  </element>
+
+  <view name="arknoid2c Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="arknoid2c">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="ashguin2">
+    <image file="AshGuine Story II - Kokuu no Gajou (Japan).png" />
+  </element>
+
+  <view name="ashguin2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="ashguin2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="ashguin2a">
+    <image file="AshGuine Story II - Kokuu no Gajou (Japan).png" />
+  </element>
+
+  <view name="ashguin2a Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="ashguin2a">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="ashguin2b">
+    <image file="AshGuine Story II - Kokuu no Gajou (Japan).png" />
+  </element>
+
+  <view name="ashguin2b Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="ashguin2b">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="ashguin3">
+    <image file="AshGuine Story III - Fukushuu no Honoo (Japan).png" />
+  </element>
+
+  <view name="ashguin3 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="ashguin3">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="ashguin3a">
+    <image file="AshGuine Story III - Fukushuu no Honoo (Japan).png" />
+  </element>
+
+  <view name="ashguin3a Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="ashguin3a">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="asteka2">
+    <image file="Taiyou no Shinden - Asteka II (Japan).png" />
+  </element>
+
+  <view name="asteka2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="asteka2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="asteka2a">
+    <image file="Taiyou no Shinden - Asteka II (Japan).png" />
+  </element>
+
+  <view name="asteka2a Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="asteka2a">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="asteka2b">
+    <image file="Taiyou no Shinden - Asteka II (Japan).png" />
+  </element>
+
+  <view name="asteka2b Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="asteka2b">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="asteka2c">
+    <image file="Taiyou no Shinden - Asteka II (Japan).png" />
+  </element>
+
+  <view name="asteka2c Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="asteka2c">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="bublbobl">
+    <image file="Bubble Bobble (Japan).png" />
+  </element>
+
+  <view name="bublbobl Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="bublbobl">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="bublbobla">
+    <image file="Bubble Bobble (Japan).png" />
+  </element>
+
+  <view name="bublbobla Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="bublbobla">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="cockpit">
+    <image file="Cockpit, The (Japan).png" />
+  </element>
+
+  <view name="cockpit Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="cockpit">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="cockpitb">
+    <image file="Cockpit, The (Japan).png" />
+  </element>
+
+  <view name="cockpitb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="cockpitb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="contra">
+    <image file="Contra (Japan).png" />
+  </element>
+
+  <view name="contra Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="contra">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="crimson">
+    <image file="Crimson (Japan).png" />
+  </element>
+
+  <view name="crimson Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="crimson">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="daikokai">
+    <image file="Daikoukai Jidai (Japan).png" />
+  </element>
+
+  <view name="daikokai Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="daikokai">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="dbuster">
+    <image file="Dragon Buster (Japan).png" />
+  </element>
+
+  <view name="dbuster Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="dbuster">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="deadbrn">
+    <image file="Shiryou Sensen - War of the Dead (Japan).png" />
+  </element>
+
+  <view name="deadbrn Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="deadbrn">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="dforest">
+    <image file="Deep Forest (Japan).png" />
+  </element>
+
+  <view name="dforest Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="dforest">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="dforesta">
+    <image file="Deep Forest (Japan).png" />
+  </element>
+
+  <view name="dforesta Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="dforesta">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="dforestb">
+    <image file="Deep Forest (Japan).png" />
+  </element>
+
+  <view name="dforestb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="dforestb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="dforestc">
+    <image file="Deep Forest (Japan).png" />
+  </element>
+
+  <view name="dforestc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="dforestc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="dires">
+    <image file="Dires - Giger Loop (Japan).png" />
+  </element>
+
+  <view name="dires Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="dires">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="diresa">
+    <image file="Dires - Giger Loop (Japan).png" />
+  </element>
+
+  <view name="diresa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="diresa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="druid">
+    <image file="Druid (Japan).png" />
+  </element>
+
+  <view name="druid Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="druid">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="drwn4078">
+    <image file="Darwin 4078 (Japan).png" />
+  </element>
+
+  <view name="drwn4078 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="drwn4078">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="drwn4078a">
+    <image file="Darwin 4078 (Japan).png" />
+  </element>
+
+  <view name="drwn4078a Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="drwn4078a">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="drwn4078b">
+    <image file="Darwin 4078 (Japan).png" />
+  </element>
+
+  <view name="drwn4078b Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="drwn4078b">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="dslayer4">
+    <image file="Dragon Slayer IV - Drasle Family (Japan).png" />
+  </element>
+
+  <view name="dslayer4 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="dslayer4">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="dslayer4a">
+    <image file="Dragon Slayer IV - Drasle Family (Japan).png" />
+  </element>
+
+  <view name="dslayer4a Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="dslayer4a">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="dynabowl">
+    <image file="Dynamite Bowl (Japan).png" />
+  </element>
+
+  <view name="dynabowl Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="dynabowl">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="dynabowla">
+    <image file="Dynamite Bowl (Japan).png" />
+  </element>
+
+  <view name="dynabowla Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="dynabowla">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="dynabowlb">
+    <image file="Dynamite Bowl (Japan).png" />
+  </element>
+
+  <view name="dynabowlb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="dynabowlb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="elthlead">
+    <image file="Elthlead (Japan).png" />
+  </element>
+
+  <view name="elthlead Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="elthlead">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="emperor">
+    <image file="Empereur, L&#39; (Japan).png" />
+  </element>
+
+  <view name="emperor Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="emperor">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="emperora">
+    <image file="Empereur, L&#39; (Japan).png" />
+  </element>
+
+  <view name="emperora Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="emperora">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="eurosens">
+    <image file="Europe Sensen (Japan).png" />
+  </element>
+
+  <view name="eurosens Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="eurosens">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="famibill">
+    <image file="Family Billiards (Japan).png" />
+  </element>
+
+  <view name="famibill Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="famibill">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="famibillb">
+    <image file="Family Billiards (Japan).png" />
+  </element>
+
+  <view name="famibillb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="famibillb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="famiboxi">
+    <image file="Family Boxing - MSX Title Match (Japan).png" />
+  </element>
+
+  <view name="famiboxi Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="famiboxi">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="famipar2">
+    <image file="Famicle Parodic (Japan).png" />
+  </element>
+
+  <view name="famipar2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="famipar2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="famiparo">
+    <image file="Famicle Parodic (Japan).png" />
+  </element>
+
+  <view name="famiparo Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="famiparo">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="fantzon2">
+    <image file="Fantasy Zone II - The Tears of Opa-Opa (Japan).png" />
+  </element>
+
+  <view name="fantzon2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="fantzon2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="fantzon2a">
+    <image file="Fantasy Zone II - The Tears of Opa-Opa (Japan).png" />
+  </element>
+
+  <view name="fantzon2a Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="fantzon2a">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="fleetco2">
+    <image file="Fleet Commander II - Koukon no Kaiiki (Japan).png" />
+  </element>
+
+  <view name="fleetco2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="fleetco2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="fleetco2a">
+    <image file="Fleet Commander II - Koukon no Kaiiki (Japan).png" />
+  </element>
+
+  <view name="fleetco2a Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="fleetco2a">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="gakumono">
+    <image file="Gakuen Monogatari - High School Story (Japan).png" />
+  </element>
+
+  <view name="gakumono Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="gakumono">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="garyuou">
+    <image file="Garyuu Ou (Japan).png" />
+  </element>
+
+  <view name="garyuou Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="garyuou">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="garyuoua">
+    <image file="Garyuu Ou (Japan).png" />
+  </element>
+
+  <view name="garyuoua Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="garyuoua">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="genchohi">
+    <image file="Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan).png" />
+  </element>
+
+  <view name="genchohi Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="genchohi">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="genchohia">
+    <image file="Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan).png" />
+  </element>
+
+  <view name="genchohia Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="genchohia">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="genghis">
+    <image file="Aoki Ookami to Shiroki Mejika - Genghis Khan (Japan).png" />
+  </element>
+
+  <view name="genghis Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="genghis">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="genghisa">
+    <image file="Aoki Ookami to Shiroki Mejika - Genghis Khan (Japan).png" />
+  </element>
+
+  <view name="genghisa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="genghisa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="ggoemon">
+    <image file="Ganbare Goemon! - Karakuri Douchuu (Japan).png" />
+  </element>
+
+  <view name="ggoemon Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="ggoemon">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="ggoemona">
+    <image file="Ganbare Goemon! - Karakuri Douchuu (Japan).png" />
+  </element>
+
+  <view name="ggoemona Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="ggoemona">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="ggoemonb">
+    <image file="Ganbare Goemon! - Karakuri Douchuu (Japan).png" />
+  </element>
+
+  <view name="ggoemonb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="ggoemonb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="grlyblok">
+    <image file="Girly Block (Japan).png" />
+  </element>
+
+  <view name="grlyblok Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="grlyblok">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="grlybloka">
+    <image file="Girly Block (Japan).png" />
+  </element>
+
+  <view name="grlybloka Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="grlybloka">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="grlyblokb">
+    <image file="Girly Block (Japan).png" />
+  </element>
+
+  <view name="grlyblokb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="grlyblokb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="grlyblokc">
+    <image file="Girly Block (Japan).png" />
+  </element>
+
+  <view name="grlyblokc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="grlyblokc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="hainomaj">
+    <image file="Hai no Majutsushi (Japan).png" />
+  </element>
+
+  <view name="hainomaj Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="hainomaj">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="hainomaja">
+    <image file="Hai no Majutsushi (Japan).png" />
+  </element>
+
+  <view name="hainomaja Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="hainomaja">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="hardball">
+    <image file="Hard Ball (Japan).png" />
+  </element>
+
+  <view name="hardball Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="hardball">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="herolanc">
+    <image file="Heroes of the Lance (Japan).png" />
+  </element>
+
+  <view name="herolanc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="herolanc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="higemaru">
+    <image file="Higemaru Makai Shima - Nanatsu no Shima Daibouken (Japan).png" />
+  </element>
+
+  <view name="higemaru Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="higemaru">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="higemarua">
+    <image file="Higemaru Makai Shima - Nanatsu no Shima Daibouken (Japan).png" />
+  </element>
+
+  <view name="higemarua Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="higemarua">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="hinotori">
+    <image file="Hinotori - Houou Hen (Japan).png" />
+  </element>
+
+  <view name="hinotori Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="hinotori">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="hinotoria">
+    <image file="Hinotori - Houou Hen (Japan).png" />
+  </element>
+
+  <view name="hinotoria Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="hinotoria">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="hinotorib">
+    <image file="Hinotori - Houou Hen (Japan).png" />
+  </element>
+
+  <view name="hinotorib Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="hinotorib">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="holein1s">
+    <image file="Hole in One Special (Japan).png" />
+  </element>
+
+  <view name="holein1s Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="holein1s">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="holein1sa">
+    <image file="Hole in One Special (Japan).png" />
+  </element>
+
+  <view name="holein1sa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="holein1sa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="hydlide3">
+    <image file="Hydlide 3 - The Space Memories (Japan).png" />
+  </element>
+
+  <view name="hydlide3 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="hydlide3">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="hydlide3a">
+    <image file="Hydlide 3 - The Space Memories (Japan).png" />
+  </element>
+
+  <view name="hydlide3a Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="hydlide3a">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="hydlide3b">
+    <image file="Hydlide 3 - The Space Memories (Japan).png" />
+  </element>
+
+  <view name="hydlide3b Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="hydlide3b">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="ikari">
+    <image file="Ikari (Japan).png" />
+  </element>
+
+  <view name="ikari Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="ikari">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="inindo">
+    <image file="Inindou - Datou Nobunaga (Japan).png" />
+  </element>
+
+  <view name="inindo Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="inindo">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="inindoa">
+    <image file="Inindou - Datou Nobunaga (Japan).png" />
+  </element>
+
+  <view name="inindoa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="inindoa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="ishinara">
+    <image file="Ishin no Arashi (Japan).png" />
+  </element>
+
+  <view name="ishinara Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="ishinara">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="labyrint">
+    <image file="Labyrinth (Japan).png" />
+  </element>
+
+  <view name="labyrint Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="labyrint">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="lupin">
+    <image file="Lupin Sansei - Cagliostro no Shiro (Japan).png" />
+  </element>
+
+  <view name="lupin Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="lupin">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="lupin2">
+    <image file="Lupin Sansei - Babylon no Ougon Densetsu (Japan).png" />
+  </element>
+
+  <view name="lupin2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="lupin2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="lupin2a">
+    <image file="Lupin Sansei - Babylon no Ougon Densetsu (Japan).png" />
+  </element>
+
+  <view name="lupin2a Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="lupin2a">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="lupin2b">
+    <image file="Lupin Sansei - Babylon no Ougon Densetsu (Japan).png" />
+  </element>
+
+  <view name="lupin2b Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="lupin2b">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="lupina">
+    <image file="Lupin Sansei - Cagliostro no Shiro (Japan).png" />
+  </element>
+
+  <view name="lupina Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="lupina">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="lupinb">
+    <image file="Lupin Sansei - Cagliostro no Shiro (Japan).png" />
+  </element>
+
+  <view name="lupinb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="lupinb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="madrider">
+    <image file="Mad Rider (Japan).png" />
+  </element>
+
+  <view name="madrider Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="madrider">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="madridera">
+    <image file="Mad Rider (Japan).png" />
+  </element>
+
+  <view name="madridera Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="madridera">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="malayahi">
+    <image file="Malaya no Hibou (Japan).png" />
+  </element>
+
+  <view name="malayahi Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="malayahi">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="malayahia">
+    <image file="Malaya no Hibou (Japan).png" />
+  </element>
+
+  <view name="malayahia Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="malayahia">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="mgear">
+    <image file="Metal Gear (Japan).png" />
+  </element>
+
+  <view name="mgear Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="mgear">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="mgearb">
+    <image file="Metal Gear (Japan).png" />
+  </element>
+
+  <view name="mgearb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="mgearb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="mikkoku">
+    <image file="Maison Ikkoku - Omoide no Photograph (Japan).png" />
+  </element>
+
+  <view name="mikkoku Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="mikkoku">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="mikkokuk">
+    <image file="Maison Ikkoku - Kanketsu Hen - Sayonara, Soshite... (Japan).png" />
+  </element>
+
+  <view name="mikkokuk Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="mikkokuk">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="mikkokuka">
+    <image file="Maison Ikkoku - Kanketsu Hen - Sayonara, Soshite... (Japan).png" />
+  </element>
+
+  <view name="mikkokuka Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="mikkokuka">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="mikkokukb">
+    <image file="Maison Ikkoku - Kanketsu Hen - Sayonara, Soshite... (Japan).png" />
+  </element>
+
+  <view name="mikkokukb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="mikkokukb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="murdclub">
+    <image file="Final Mystery Murder Club - Satsujin Club (Japan).png" />
+  </element>
+
+  <view name="murdclub Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="murdclub">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="nekkejud">
+    <image file="Nekketsu Juudou (Japan).png" />
+  </element>
+
+  <view name="nekkejud Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="nekkejud">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="nekkejuda">
+    <image file="Nekketsu Juudou (Japan).png" />
+  </element>
+
+  <view name="nekkejuda Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="nekkejuda">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="nekkejudb">
+    <image file="Nekketsu Juudou (Japan).png" />
+  </element>
+
+  <view name="nekkejudb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="nekkejudb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="ninjakun">
+    <image file="Ninja-kun - Asura no Shou (Japan).png" />
+  </element>
+
+  <view name="ninjakun Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="ninjakun">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="ninjakuna">
+    <image file="Ninja-kun - Asura no Shou (Japan).png" />
+  </element>
+
+  <view name="ninjakuna Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="ninjakuna">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="ninjakunb">
+    <image file="Ninja-kun - Asura no Shou (Japan).png" />
+  </element>
+
+  <view name="ninjakunb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="ninjakunb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="nobubufu">
+    <image file="Nobunaga no Yabou - Bushou Fuuun Roku (Japan).png" />
+  </element>
+
+  <view name="nobubufu Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="nobubufu">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="nobubufua">
+    <image file="Nobunaga no Yabou - Bushou Fuuun Roku (Japan).png" />
+  </element>
+
+  <view name="nobubufua Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="nobubufua">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="nobucho">
+    <image file="Nobunaga no Yabou - Zenkoku Ban (Japan).png" />
+  </element>
+
+  <view name="nobucho Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="nobucho">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="nobunag6">
+    <image file="Nobunaga no Yabou - Sengoku Gunyuuden (Japan).png" />
+  </element>
+
+  <view name="nobunag6 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="nobunag6">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="nobunaga">
+    <image file="Nobunaga no Yabou - Sengoku Gunyuuden (Japan).png" />
+  </element>
+
+  <view name="nobunaga Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="nobunaga">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="nobuseng">
+    <image file="Nobunaga no Yabou - Sengoku Gunyuuden (Japan).png" />
+  </element>
+
+  <view name="nobuseng Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="nobuseng">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="nobuzenk">
+    <image file="Nobunaga no Yabou - Zenkoku Ban (Japan).png" />
+  </element>
+
+  <view name="nobuzenk Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="nobuzenk">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="nobuzenka">
+    <image file="Nobunaga no Yabou - Zenkoku Ban (Japan).png" />
+  </element>
+
+  <view name="nobuzenka Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="nobuzenka">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="nobuzenkb">
+    <image file="Nobunaga no Yabou - Zenkoku Ban (Japan).png" />
+  </element>
+
+  <view name="nobuzenkb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="nobuzenkb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="ogre">
+    <image file="Ogre (Japan).png" />
+  </element>
+
+  <view name="ogre Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="ogre">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="ouketani">
+    <image file="Ouke no Tani - El Giza no Fuuin (Japan).png" />
+  </element>
+
+  <view name="ouketani Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="ouketani">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="ouketania">
+    <image file="Ouke no Tani - El Giza no Fuuin (Japan).png" />
+  </element>
+
+  <view name="ouketania Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="ouketania">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="outrun">
+    <image file="Out Run (Japan).png" />
+  </element>
+
+  <view name="outrun Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="outrun">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="outruna">
+    <image file="Out Run (Japan).png" />
+  </element>
+
+  <view name="outruna Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="outruna">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="outrunb">
+    <image file="Out Run (Japan).png" />
+  </element>
+
+  <view name="outrunb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="outrunb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="pacmania">
+    <image file="Pac-Mania (Japan).png" />
+  </element>
+
+  <view name="pacmania Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="pacmania">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="pacmaniaa">
+    <image file="Pac-Mania (Japan).png" />
+  </element>
+
+  <view name="pacmaniaa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="pacmaniaa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="penguin">
+    <image file="Penguin-kun Wars 2 (Japan).png" />
+  </element>
+
+  <view name="penguin Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="penguin">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="penguina">
+    <image file="Penguin-kun Wars 2 (Japan).png" />
+  </element>
+
+  <view name="penguina Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="penguina">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="penguinb">
+    <image file="Penguin-kun Wars 2 (Japan).png" />
+  </element>
+
+  <view name="penguinb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="penguinb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="penguinc">
+    <image file="Penguin-kun Wars 2 (Japan).png" />
+  </element>
+
+  <view name="penguinc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="penguinc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="predator">
+    <image file="Predator (Japan).png" />
+  </element>
+
+  <view name="predator Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="predator">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="projcta2">
+    <image file="Project A2 - Shijousaidai no Hyouteki (Japan).png" />
+  </element>
+
+  <view name="projcta2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="projcta2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="proyakfn">
+    <image file="Pro Yakyuu Fan - Telenet Stadium (Japan).png" />
+  </element>
+
+  <view name="proyakfn Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="proyakfn">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="quinpl">
+    <image file="Quinpl (Japan).png" />
+  </element>
+
+  <view name="quinpl Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="quinpl">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="rastan">
+    <image file="Rastan Saga (Japan).png" />
+  </element>
+
+  <view name="rastan Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="rastan">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="retjelda">
+    <image file="Return of Jelda (Japan).png" />
+  </element>
+
+  <view name="retjelda Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="retjelda">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="retjeldaa">
+    <image file="Return of Jelda (Japan).png" />
+  </element>
+
+  <view name="retjeldaa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="retjeldaa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="royalbld">
+    <image file="Royal Blood (Japan).png" />
+  </element>
+
+  <view name="royalbld Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="royalbld">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="royalblda">
+    <image file="Royal Blood (Japan).png" />
+  </element>
+
+  <view name="royalblda Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="royalblda">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="sangoku2">
+    <image file="Sangokushi II (Japan).png" />
+  </element>
+
+  <view name="sangoku2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="sangoku2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="sanpei2">
+    <image file="Tsurikichi Sanpei - Tsuri Sennin Hen (Japan).png" />
+  </element>
+
+  <view name="sanpei2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="sanpei2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="sanpei2a">
+    <image file="Tsurikichi Sanpei - Tsuri Sennin Hen (Japan).png" />
+  </element>
+
+  <view name="sanpei2a Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="sanpei2a">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="sanpei2b">
+    <image file="Tsurikichi Sanpei - Tsuri Sennin Hen (Japan).png" />
+  </element>
+
+  <view name="sanpei2b Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="sanpei2b">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="sanpei2c">
+    <image file="Tsurikichi Sanpei - Tsuri Sennin Hen (Japan).png" />
+  </element>
+
+  <view name="sanpei2c Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="sanpei2c">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="scramble">
+    <image file="Scramble Formation (Japan).png" />
+  </element>
+
+  <view name="scramble Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="scramble">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="scramblea">
+    <image file="Scramble Formation (Japan).png" />
+  </element>
+
+  <view name="scramblea Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="scramblea">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="seikima2">
+    <image file="Seikima II Special - Akuma no Gyakushuu (Japan).png" />
+  </element>
+
+  <view name="seikima2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="seikima2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="seikima2a">
+    <image file="Seikima II Special - Akuma no Gyakushuu (Japan).png" />
+  </element>
+
+  <view name="seikima2a Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="seikima2a">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="seikima2b">
+    <image file="Seikima II Special - Akuma no Gyakushuu (Japan).png" />
+  </element>
+
+  <view name="seikima2b Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="seikima2b">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="seikima2c">
+    <image file="Seikima II Special - Akuma no Gyakushuu (Japan).png" />
+  </element>
+
+  <view name="seikima2c Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="seikima2c">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="shanghai">
+    <image file="Shanghai (Japan).png" />
+  </element>
+
+  <view name="shanghai Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="shanghai">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="shiryo">
+    <image file="Shiryou Sensen - War of the Dead (Japan).png" />
+  </element>
+
+  <view name="shiryo Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="shiryo">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="shiryo2">
+    <image file="Shiryou Sensen - War of the Dead (Japan).png" />
+  </element>
+
+  <view name="shiryo2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="shiryo2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="shiryo2a">
+    <image file="Shiryou Sensen - War of the Dead (Japan).png" />
+  </element>
+
+  <view name="shiryo2a Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="shiryo2a">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="shiryo2b">
+    <image file="Shiryou Sensen - War of the Dead (Japan).png" />
+  </element>
+
+  <view name="shiryo2b Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="shiryo2b">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="shiryoa">
+    <image file="Shiryou Sensen - War of the Dead (Japan).png" />
+  </element>
+
+  <view name="shiryoa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="shiryoa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="spmanbow">
+    <image file="Space Manbow (Japan).png" />
+  </element>
+
+  <view name="spmanbow Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="spmanbow">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="srambosp">
+    <image file="Super Rambo Special (Japan).png" />
+  </element>
+
+  <view name="srambosp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="srambosp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="srambospa">
+    <image file="Super Rambo Special (Japan).png" />
+  </element>
+
+  <view name="srambospa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="srambospa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="srambospb">
+    <image file="Super Rambo Special (Japan).png" />
+  </element>
+
+  <view name="srambospb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="srambospb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="srunner">
+    <image file="Super Runner (Japan).png" />
+  </element>
+
+  <view name="srunner Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="srunner">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="srunnerb">
+    <image file="Super Runner (Japan).png" />
+  </element>
+
+  <view name="srunnerb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="srunnerb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="starvirg">
+    <image file="Star Virgin (Japan).png" />
+  </element>
+
+  <view name="starvirg Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="starvirg">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="starvirga">
+    <image file="Star Virgin (Japan).png" />
+  </element>
+
+  <view name="starvirga Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="starvirga">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="starvirgb">
+    <image file="Star Virgin (Japan).png" />
+  </element>
+
+  <view name="starvirgb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="starvirgb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="stramars">
+    <image file="Strategic Mars (Japan).png" />
+  </element>
+
+  <view name="stramars Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="stramars">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="stramarsa">
+    <image file="Strategic Mars (Japan).png" />
+  </element>
+
+  <view name="stramarsa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="stramarsa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="stramarsb">
+    <image file="Strategic Mars (Japan).png" />
+  </element>
+
+  <view name="stramarsb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="stramarsb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="striton">
+    <image file="Super Tritorn (Japan).png" />
+  </element>
+
+  <view name="striton Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="striton">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="stritonb">
+    <image file="Super Tritorn (Japan).png" />
+  </element>
+
+  <view name="stritonb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="stritonb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="suikoden">
+    <image file="Suikoden - Tenmei no Chikai (Japan).png" />
+  </element>
+
+  <view name="suikoden Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="suikoden">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="suikodena">
+    <image file="Suikoden - Tenmei no Chikai (Japan).png" />
+  </element>
+
+  <view name="suikodena Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="suikodena">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="supdaisn">
+    <image file="Super Daisenryaku (Japan).png" />
+  </element>
+
+  <view name="supdaisn Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="supdaisn">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="tetrisa">
+    <image file="Tetris (Japan).png" />
+  </element>
+
+  <view name="tetrisa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="tetrisa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="topzip">
+    <image file="Topple Zip (Japan).png" />
+  </element>
+
+  <view name="topzip Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="topzip">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="uruseiya">
+    <image file="Urusei Yatsura - Koi no Survival Birthday (Japan).png" />
+  </element>
+
+  <view name="uruseiya Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="uruseiya">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="uruseiyaa">
+    <image file="Urusei Yatsura - Koi no Survival Birthday (Japan).png" />
+  </element>
+
+  <view name="uruseiyaa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="uruseiyaa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="woodypoc">
+    <image file="Woody Poco (Japan).png" />
+  </element>
+
+  <view name="woodypoc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="woodypoc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="woodypoca">
+    <image file="Woody Poco (Japan).png" />
+  </element>
+
+  <view name="woodypoca Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="woodypoca">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="xevious">
+    <image file="Xevious - Fardraut Saga (Japan).png" />
+  </element>
+
+  <view name="xevious Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="xevious">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="xeviousa">
+    <image file="Xevious - Fardraut Saga (Japan).png" />
+  </element>
+
+  <view name="xeviousa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="xeviousa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="yaksa">
+    <image file="Yaksa (Japan).png" />
+  </element>
+
+  <view name="yaksa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="yaksa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="yuurei">
+    <image file="Yuurei-kun (Japan).png" />
+  </element>
+
+  <view name="yuurei Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="yuurei">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="yuureib">
+    <image file="Yuurei-kun (Japan).png" />
+  </element>
+
+  <view name="yuureib Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="yuureib">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="zanacex">
+    <image file="Zanac Ex (Japan).png" />
+  </element>
+
+  <view name="zanacex Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="zanacex">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="zanacexa">
+    <image file="Zanac Ex (Japan).png" />
+  </element>
+
+  <view name="zanacexa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="zanacexa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="zoids">
+    <image file="Zoids - Chuuou Tairiku no Tatakai (Japan).png" />
+  </element>
+
+  <view name="zoids Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="zoids">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="zoidsa">
+    <image file="Zoids - Chuuou Tairiku no Tatakai (Japan).png" />
+  </element>
+
+  <view name="zoidsa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="zoidsa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="zombihun">
+    <image file="Zombie Hunter (Japan).png" />
+  </element>
+
+  <view name="zombihun Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="zombihun">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="zombihuna">
+    <image file="Zombie Hunter (Japan).png" />
+  </element>
+
+  <view name="zombihuna Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="zombihuna">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+</mamelayout>
+
