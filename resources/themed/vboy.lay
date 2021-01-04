@@ -1,0 +1,440 @@
+<!-- default.lay file for The Bezel Project Nintendo Virtual Boy pack -->
+
+<mamelayout version="2">
+
+  <element name="vboy">
+    <image file="Nintendo-Virtual-Boy.png" />
+  </element>
+
+  <view name="Nintendo Virtual Boy System Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="vboy">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="3dtetris">
+    <image file="3-D Tetris (USA).png" />
+  </element>
+
+  <view name="3dtetris Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="3dtetris">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="boundh">
+    <image file="Bound High (Japan) (En) (Proto).png" />
+  </element>
+
+  <view name="boundh Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="boundh">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="galactic">
+    <image file="Galactic Pinball (Japan, USA).png" />
+  </element>
+
+  <view name="galactic Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="galactic">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="golf">
+    <image file="Golf (USA).png" />
+  </element>
+
+  <view name="golf Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="golf">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="innsmout">
+    <image file="Innsmouth no Yakata (Japan).png" />
+  </element>
+
+  <view name="innsmout Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="innsmout">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="jackbros">
+    <image file="Jack Bros. (USA).png" />
+  </element>
+
+  <view name="jackbros Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="jackbros">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="jackbrosj">
+    <image file="Jack Bros. no Meiro de Hiihoo! (Japan).png" />
+  </element>
+
+  <view name="jackbrosj Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="jackbrosj">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="mariocla">
+    <image file="Mario Clash (Japan, USA).png" />
+  </element>
+
+  <view name="mariocla Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="mariocla">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="marioten">
+    <image file="Mario&#39;s Tennis (Japan, USA).png" />
+  </element>
+
+  <view name="marioten Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="marioten">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="nesterfb">
+    <image file="Nester&#39;s Funky Bowling (USA).png" />
+  </element>
+
+  <view name="nesterfb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="nesterfb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="nikochan">
+    <image file="Niko-chan Battle (Japan) (Proto).png" />
+  </element>
+
+  <view name="nikochan Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="nikochan">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="panicbom">
+    <image file="Panic Bomber (USA).png" />
+  </element>
+
+  <view name="panicbom Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="panicbom">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="redalarm">
+    <image file="Red Alarm (USA).png" />
+  </element>
+
+  <view name="redalarm Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="redalarm">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="redalarmj">
+    <image file="Red Alarm (Japan).png" />
+  </element>
+
+  <view name="redalarmj Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="redalarmj">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="sdgundam">
+    <image file="SD Gundam - Dimension War (Japan).png" />
+  </element>
+
+  <view name="sdgundam Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="sdgundam">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="spaceinv">
+    <image file="Space Invaders - Virtual Collection (Japan).png" />
+  </element>
+
+  <view name="spaceinv Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="spaceinv">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="spacepin">
+    <image file="Space Pinball (Japan) (En) (Proto).png" />
+  </element>
+
+  <view name="spacepin Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="spacepin">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="ssquash">
+    <image file="Space Squash (Japan).png" />
+  </element>
+
+  <view name="ssquash Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="ssquash">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="telerobo">
+    <image file="Teleroboxer (Japan, USA).png" />
+  </element>
+
+  <view name="telerobo Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="telerobo">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="tobidase">
+    <image file="Tobidase! Panibon (Japan).png" />
+  </element>
+
+  <view name="tobidase Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="tobidase">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="vbowling">
+    <image file="Virtual Bowling (Japan).png" />
+  </element>
+
+  <view name="vbowling Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="vbowling">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="vfishing">
+    <image file="Virtual Fishing (Japan).png" />
+  </element>
+
+  <view name="vfishing Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="vfishing">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="vforce">
+    <image file="Vertical Force (USA).png" />
+  </element>
+
+  <view name="vforce Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="vforce">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="vforcej">
+    <image file="Vertical Force (Japan).png" />
+  </element>
+
+  <view name="vforcej Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="vforcej">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="vgolf">
+    <image file="T&amp;E Virtual Golf (Japan).png" />
+  </element>
+
+  <view name="vgolf Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="vgolf">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="vlab">
+    <image file="Virtual Lab (Japan).png" />
+  </element>
+
+  <view name="vlab Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="vlab">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="vleague">
+    <image file="Virtual League Baseball (USA).png" />
+  </element>
+
+  <view name="vleague Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="vleague">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="vproyak">
+    <image file="Virtual Pro Yakyuu &#39;95 (Japan).png" />
+  </element>
+
+  <view name="vproyak Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="vproyak">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="vtetris">
+    <image file="V-Tetris (Japan).png" />
+  </element>
+
+  <view name="vtetris Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="vtetris">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="wariolnd">
+    <image file="Virtual Boy Wario Land (Japan, USA).png" />
+  </element>
+
+  <view name="wariolnd Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="wariolnd">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+</mamelayout>
+
