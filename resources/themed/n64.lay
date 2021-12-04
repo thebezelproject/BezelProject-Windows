@@ -17,7 +17,7 @@
   </view>
 
   <element name="007goldn">
-    <image file="007 - GoldenEye (USA).png" />
+    <image file="GoldenEye 007 (USA).png" />
   </element>
 
   <view name="007goldn Artwork">
@@ -31,7 +31,7 @@
   </view>
 
   <element name="007goldnj">
-    <image file="007 - GoldenEye (USA).png" />
+    <image file="GoldenEye 007 (USA).png" />
   </element>
 
   <view name="007goldnj Artwork">
@@ -45,7 +45,7 @@
   </view>
 
   <element name="007goldnu">
-    <image file="007 - GoldenEye (USA).png" />
+    <image file="GoldenEye 007 (USA).png" />
   </element>
 
   <view name="007goldnu Artwork">
