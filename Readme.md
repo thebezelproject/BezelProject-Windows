@@ -43,6 +43,11 @@ directories (the default). If you use full paths for these two directories in
 the Retroarch.cfg file, this application will not work with your Retroarch
 installation.
 
+This utility will created custom cfg files in the Retroarch main directory for
+any Bezel pack installed for the Retroarch platform. Use the name of the cfg
+file on the command line when Retroarch is started.
+Example: retroarch.exe -c "retroarch_mastersystem.cfg"
+
 Overview
 --------
 
