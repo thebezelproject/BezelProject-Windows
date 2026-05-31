@@ -1,0 +1,76 @@
+<!-- default.lay file for The Bezel Project Panasonic 3DO pack -->
+
+<mamelayout version="2">
+
+  <element name="3do">
+    <image file="Panasonic-3DO.png" />
+  </element>
+
+  <view name="Panasonic 3DO System Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="3do">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="cpquazar">
+    <image file="Captain Quazar (USA).png" />
+  </element>
+
+  <view name="cpquazar Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="cpquazar">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="cowcasn">
+    <image file="Cowboy Casino (USA).png" />
+  </element>
+
+  <view name="cowcasn Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="cowcasn">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="espnfit">
+    <image file="ESPN Fitness Pros - Step Aerobics (USA).png" />
+  </element>
+
+  <view name="espnfit Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="espnfit">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="vpreika">
+    <image file="Virtual Puppet Reika (Japan).png" />
+  </element>
+
+  <view name="vpreika Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="vpreika">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+</mamelayout>
+
