@@ -1,0 +1,3716 @@
+<!-- default.lay file for The Bezel Project Atari ST pack -->
+
+<mamelayout version="2">
+
+  <element name="st_flop">
+    <image file="Atari-ST.png" />
+  </element>
+
+  <view name="Atari ST System Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="st_flop">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="10frame">
+    <image file="10th Frame (1987)(Access)[cr].png" />
+  </element>
+
+  <view name="10frame Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="10frame">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="1943">
+    <image file="1943 (1987)(Probe Software).png" />
+  </element>
+
+  <view name="1943 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="1943">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="500gp">
+    <image file="Grand Prix 500cc (1987)(Microids)(fr)[cr CGC].png" />
+  </element>
+
+  <view name="500gp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="500gp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="5thgear">
+    <image file="5th Gear (1988)(Hewson)[cr Replicants][t].png" />
+  </element>
+
+  <view name="5thgear Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="5thgear">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="aburner">
+    <image file="Afterburner (1988)(Activision).png" />
+  </element>
+
+  <view name="aburner Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="aburner">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="academy">
+    <image file="Academy - Tau Ceti 2 (1987)(CLR Group)[h].png" />
+  </element>
+
+  <view name="academy Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="academy">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="actionfg">
+    <image file="Action Fighter (1989)(Firebird)[cr Replicants].png" />
+  </element>
+
+  <view name="actionfg Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="actionfg">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="actnserv">
+    <image file="Action Service (1988)(Cobra Soft)[cr Delight].png" />
+  </element>
+
+  <view name="actnserv Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="actnserv">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="addiball">
+    <image file="Addicta Ball (1987)(Alligata)[cr].png" />
+  </element>
+
+  <view name="addiball Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="addiball">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="advfruit">
+    <image file="Advanced Fruit Machine Simulator (1987)(Code Masters)[cr Medway Boys].png" />
+  </element>
+
+  <view name="advfruit Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="advfruit">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="advrobin">
+    <image file="Adventures of Robin Hood, The (1991)(Millennium)(M4)[cr Elite].png" />
+  </element>
+
+  <view name="advrobin Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="advrobin">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="advrugby">
+    <image file="Advanced Rugby Simulator (1988)(Code Masters)[cr].png" />
+  </element>
+
+  <view name="advrugby Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="advrugby">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="alienwrl">
+    <image file="Alien World (1992)(HiTEC Software)[cr Cynix].png" />
+  </element>
+
+  <view name="alienwrl Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="alienwrl">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="altreal">
+    <image file="Alternate Reality - The City v2.0 (1986)(Datasoft).png" />
+  </element>
+
+  <view name="altreal Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="altreal">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="anarchy">
+    <image file="Anarchy (1990)(Psygnosis)[cr D-Bug][b].png" />
+  </element>
+
+  <view name="anarchy Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="anarchy">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="anotherw">
+    <image file="Another World (1991)(Delphine)(Disk 2 of 2)[cr].png" />
+  </element>
+
+  <view name="anotherw Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="anotherw">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="apprent">
+    <image file="Apprentice (1990)(Rainbow Arts)[cr Replicants][t].png" />
+  </element>
+
+  <view name="apprent Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="apprent">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="archipel">
+    <image file="Archipelagos (1989)(Logotron)[cr].png" />
+  </element>
+
+  <view name="archipel Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="archipel">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="arctfox">
+    <image file="Arctic Fox (1986)(Electronic Arts).png" />
+  </element>
+
+  <view name="arctfox Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="arctfox">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="artdream">
+    <image file="Artificial Dreams (1988)(HTL).png" />
+  </element>
+
+  <view name="artdream Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="artdream">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="atax">
+    <image file="Atax (1988)(Ramware).png" />
+  </element>
+
+  <view name="atax Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="atax">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="atomix">
+    <image file="Atomino (1990)(Psygnosis)(de).png" />
+  </element>
+
+  <view name="atomix Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="atomix">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="backgamm">
+    <image file="Backgammon Royal (1991)(CP Software)(M3)[cr Hotline].png" />
+  </element>
+
+  <view name="backgamm Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="backgamm">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ballistx">
+    <image file="Ballistic v2.4 (1991)(Chapo).png" />
+  </element>
+
+  <view name="ballistx Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ballistx">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="balpow90">
+    <image file="Balance of Power - The 1990 Edition (1990)(Mindscape).png" />
+  </element>
+
+  <view name="balpow90 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="balpow90">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="barbpal">
+    <image file="Barbarian (1987)(Palace).png" />
+  </element>
+
+  <view name="barbpal Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="barbpal">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="beastlrd">
+    <image file="Beast Lord (1993)(Grandslam)(Disk 2 of 2)[cr Cynix].png" />
+  </element>
+
+  <view name="beastlrd Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="beastlrd">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="bhawk42">
+    <image file="Battle Hawks 1942 (1988)(LucasFilm)[cr].png" />
+  </element>
+
+  <view name="bhawk42 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="bhawk42">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="blktiger">
+    <image file="Black Tiger (1989)(U.S. Gold)[cr Replicants].png" />
+  </element>
+
+  <view name="blktiger Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="blktiger">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="blockout">
+    <image file="Block Out (1990)(California Dreams)[cr].png" />
+  </element>
+
+  <view name="blockout Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="blockout">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="bloodmon">
+    <image file="Blood Money (1989)(Psygnosis)[b].png" />
+  </element>
+
+  <view name="bloodmon Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="bloodmon">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="blstroid">
+    <image file="Blasteroids (1987)(Image Works)[cr Atari Legend][t].png" />
+  </element>
+
+  <view name="blstroid Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="blstroid">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="bluesb">
+    <image file="Blues Brothers, The (1991)(Titus)[cr Elite][t].png" />
+  </element>
+
+  <view name="bluesb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="bluesb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="blzthndr">
+    <image file="Blazing Thunder (1991)(HiTEC Software)[cr Replicants].png" />
+  </element>
+
+  <view name="blzthndr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="blzthndr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="bmx">
+    <image file="BMX Simulator (1988)(ECS Distribution).png" />
+  </element>
+
+  <view name="bmx Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="bmx">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="bobwinnr">
+    <image file="Bob Winner (1987)(Loriciel)(fr)[cr BOSS].png" />
+  </element>
+
+  <view name="bobwinnr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="bobwinnr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="bombjack">
+    <image file="Bombjack (1988)(Elite).png" />
+  </element>
+
+  <view name="bombjack Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="bombjack">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="bridgepl">
+    <image file="Bridge Player 2000 With Tutor (1987)(HiSoft)[h Guardians of Logik].png" />
+  </element>
+
+  <view name="bridgepl Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="bridgepl">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="btlchess">
+    <image file="Battle Chess (1989)(Interplay).png" />
+  </element>
+
+  <view name="btlchess Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="btlchess">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="btlprobe">
+    <image file="Battle Probe (1988)(Capital Software).png" />
+  </element>
+
+  <view name="btlprobe Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="btlprobe">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="bumpy">
+    <image file="Bumpy (1991)(Loriciel)(fr).png" />
+  </element>
+
+  <view name="bumpy Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="bumpy">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="burgermn">
+    <image file="Burger Man (1991)(Byte Back)[cr Elite][t].png" />
+  </element>
+
+  <view name="burgermn Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="burgermn">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="camelot">
+    <image file="Conquests of Camelot v1.019.000 (1990)(Sierra)(Disk 2 of 4).png" />
+  </element>
+
+  <view name="camelot Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="camelot">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="capblood">
+    <image file="Captain Blood (1988)(ERE)(M3)[cr].png" />
+  </element>
+
+  <view name="capblood Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="capblood">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="capfizz">
+    <image file="Captain Fizz (1989)(Psyclapse)(M3).png" />
+  </element>
+
+  <view name="capfizz Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="capfizz">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="carrierc">
+    <image file="Carrier Command (1988)(Microprose).png" />
+  </element>
+
+  <view name="carrierc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="carrierc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="cartncap">
+    <image file="Cartoon Capers (1990)(Mandarin Software).png" />
+  </element>
+
+  <view name="cartncap Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="cartncap">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="catch23">
+    <image file="Catch 23 (1987)(Martech)[cr BOSS].png" />
+  </element>
+
+  <view name="catch23 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="catch23">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ccastles">
+    <image file="Crystal Castles (1986)(Atari).png" />
+  </element>
+
+  <view name="ccastles Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ccastles">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="champbb">
+    <image file="Championship Baseball (1987)(Activision)[b].png" />
+  </element>
+
+  <view name="champbb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="champbb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="champcrk">
+    <image file="Championship Cricket (1988)(Crysys).png" />
+  </element>
+
+  <view name="champcrk Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="champcrk">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="champwrs">
+    <image file="Championship Wrestling (1986)(Epyx)[cr BOSS].png" />
+  </element>
+
+  <view name="champwrs Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="champwrs">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="chase">
+    <image file="Chase (1988)(Barker, T.).png" />
+  </element>
+
+  <view name="chase Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="chase">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="chasehq">
+    <image file="Chase HQ (1989)(Ocean).png" />
+  </element>
+
+  <view name="chasehq Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="chasehq">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="chesssim">
+    <image file="Chess Simulator (1990)(Infogrames)[cr Empire].png" />
+  </element>
+
+  <view name="chesssim Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="chesssim">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="chicag30">
+    <image file="Chicago 30&#39;s (1988)(US Gold)[cr MCA].png" />
+  </element>
+
+  <view name="chicag30 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="chicag30">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="chipchal">
+    <image file="Chips Challenge (1990)(Epyx)[cr Replicants].png" />
+  </element>
+
+  <view name="chipchal Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="chipchal">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="chsp2150">
+    <image file="Chess Player 2150 (1989)(Oxford).png" />
+  </element>
+
+  <view name="chsp2150 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="chsp2150">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="chsp2150a">
+    <image file="Chess Player 2150 (1989)(Oxford).png" />
+  </element>
+
+  <view name="chsp2150a Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="chsp2150a">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="chuckie">
+    <image file="Chuckie Egg (1988)(Pick &amp; Choose)[h D-Bug][t].png" />
+  </element>
+
+  <view name="chuckie Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="chuckie">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="chuckie2">
+    <image file="Chuckie Egg II (1989)(Pick &amp; Choose)[cr].png" />
+  </element>
+
+  <view name="chuckie2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="chuckie2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="cloudkng">
+    <image file="Cloud Kingdoms (1990)(Millennium)[cr].png" />
+  </element>
+
+  <view name="cloudkng Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="cloudkng">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="cm2000">
+    <image file="Chessmaster 2000 (1987)(Software Toolworks).png" />
+  </element>
+
+  <view name="cm2000 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="cm2000">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="contcirc">
+    <image file="Continental Circus (1989)(Sales Curve)[cr Replicants].png" />
+  </element>
+
+  <view name="contcirc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="contcirc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="corruptn">
+    <image file="Corruption (1988)(Magentic Scrolls).png" />
+  </element>
+
+  <view name="corruptn Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="corruptn">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="cquest2">
+    <image file="Chrono Quest II (1988)(Psygnosis)(Disk 2 of 3).png" />
+  </element>
+
+  <view name="cquest2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="cquest2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="cricketc">
+    <image file="Cricket Captain (1989)(D&amp;H Games).png" />
+  </element>
+
+  <view name="cricketc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="cricketc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="crkdown">
+    <image file="Crack Down (1990)(U.S. Gold)[cr MCA].png" />
+  </element>
+
+  <view name="crkdown Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="crkdown">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="cyberbal">
+    <image file="Cyberball (1990)(Domark)[cr MCA].png" />
+  </element>
+
+  <view name="cyberbal Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="cyberbal">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="cybercn3">
+    <image file="Cybercon III (1991)(U.S. Gold).png" />
+  </element>
+
+  <view name="cybercn3 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="cybercn3">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="damesim">
+    <image file="Dames Simulator (1990)(Infogrames)(FR)[b].png" />
+  </element>
+
+  <view name="damesim Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="damesim">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="dariusp">
+    <image file="Darius + (1989)(The Edge)[cr Empire].png" />
+  </element>
+
+  <view name="dariusp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dariusp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="dayviper">
+    <image file="Day of the Viper (1989)(Accolade).png" />
+  </element>
+
+  <view name="dayviper Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dayviper">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ddragon">
+    <image file="Double Dragon (1988)(Tradewest).png" />
+  </element>
+
+  <view name="ddragon Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ddragon">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ddragon2">
+    <image file="Double Dragon II - The Revenge (1989)(Tradewest)[cr Vapour].png" />
+  </element>
+
+  <view name="ddragon2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ddragon2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="deep">
+    <image file="Deep. The (1988)(U.S. Gold)[h BBC].png" />
+  </element>
+
+  <view name="deep Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="deep">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="dejavu">
+    <image file="Deja Vu (1987)(ICOM Simulations)[a].png" />
+  </element>
+
+  <view name="dejavu Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dejavu">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="deliver">
+    <image file="Deliverance (1992)(21st Century Entertainment)(Disk 1 of 2)[cr Cynix][t].png" />
+  </element>
+
+  <view name="deliver Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="deliver">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="demonblu">
+    <image file="Demon Blue (19xx)(Micro Value)[cr Replicants][b].png" />
+  </element>
+
+  <view name="demonblu Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="demonblu">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="demoniak">
+    <image file="Demoniak (1991)(Palace).png" />
+  </element>
+
+  <view name="demoniak Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="demoniak">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="dicktr">
+    <image file="Dick Tracy (1990)(Titus)(Disk 2 of 2).png" />
+  </element>
+
+  <view name="dicktr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dicktr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="disc">
+    <image file="Disc (19xx)(Frank Walter)(de)(PD).png" />
+  </element>
+
+  <view name="disc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="disc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="dizzydic">
+    <image file="Dizzy Dice (1990)(Smash 16)[cr Elite].png" />
+  </element>
+
+  <view name="dizzydic Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dizzydic">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="drakkhen">
+    <image file="Drakkhen v1.1 (1989)(Infogrames)(Disk 2 of 4).png" />
+  </element>
+
+  <view name="drakkhen Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="drakkhen">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="driller">
+    <image file="Driller (1988)(Incentive Software).png" />
+  </element>
+
+  <view name="driller Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="driller">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="dspirit">
+    <image file="Dragon Spirit (1989)(Domark)[cr Replicants].png" />
+  </element>
+
+  <view name="dspirit Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dspirit">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="dynawars">
+    <image file="Dynasty Wars (1990)(U.S. Gold)[cr Medway Boys].png" />
+  </element>
+
+  <view name="dynawars Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dynawars">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="eastwest">
+    <image file="Berlin 1948 (1989)(Time Warp)(de)[cr MCA].png" />
+  </element>
+
+  <view name="eastwest Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="eastwest">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="elementl">
+    <image file="Elemental (1988)(Lankhor)(fr)[b].png" />
+  </element>
+
+  <view name="elementl Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="elementl">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="elfmv">
+    <image file="Elf (1988)(MicroValue)[cr Blade Runners].png" />
+  </element>
+
+  <view name="elfmv Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="elfmv">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="elite">
+    <image file="Elite (1988)(Firebird)[a][cp manual].png" />
+  </element>
+
+  <view name="elite Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="elite">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="enterpr">
+    <image file="Enterprise (1989)(Atari).png" />
+  </element>
+
+  <view name="enterpr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="enterpr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="erik">
+    <image file="Erik (1992)(Atlantis)[cr Elite].png" />
+  </element>
+
+  <view name="erik Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="erik">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="esb">
+    <image file="Star Wars - The Empire Strikes Back (1988)(Domark).png" />
+  </element>
+
+  <view name="esb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="esb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="exolon">
+    <image file="Exolon (1987)(Hewson).png" />
+  </element>
+
+  <view name="exolon Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="exolon">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="eyehorus">
+    <image file="Eye of Horus, The (1989)(Logotron)[b].png" />
+  </element>
+
+  <view name="eyehorus Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="eyehorus">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="f19sf">
+    <image file="F-19 Stealth Fighter v1.02 (1988)(MicroProse)[cr FOF].png" />
+  </element>
+
+  <view name="f19sf Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="f19sf">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="faceoff">
+    <image file="Face Off (1988)(Anco)[cr].png" />
+  </element>
+
+  <view name="faceoff Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="faceoff">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="faceoffa">
+    <image file="Face Off (1988)(Anco)[cr].png" />
+  </element>
+
+  <view name="faceoffa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="faceoffa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="fbmang2">
+    <image file="Football Manager 2 (1990)(Ubi Soft).png" />
+  </element>
+
+  <view name="fbmang2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="fbmang2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ferrari">
+    <image file="Ferrari Formula One (1989)(Electronic Arts)[cr Replicants].png" />
+  </element>
+
+  <view name="ferrari Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ferrari">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="firefor2">
+    <image file="Fire and Forget II - The Death Convoy (1990)(Titus)[cr][t].png" />
+  </element>
+
+  <view name="firefor2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="firefor2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="flimboqs">
+    <image file="Flimbo&#39;s Quest (demo) (1990)(System 3).png" />
+  </element>
+
+  <view name="flimboqs Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="flimboqs">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="foundwst">
+    <image file="Foundation&#39;s Waste (1988)(Exocet Software)[b].png" />
+  </element>
+
+  <view name="foundwst Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="foundwst">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="foundwstc">
+    <image file="Foundation&#39;s Waste (1988)(Exocet Software)[b].png" />
+  </element>
+
+  <view name="foundwstc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="foundwstc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="fullmp">
+    <image file="Full Metal Planete (1989)(HiTEC Software).png" />
+  </element>
+
+  <view name="fullmp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="fullmp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="futbaskt">
+    <image file="Future Basketball (1990)(Hewson)[cr Replicants].png" />
+  </element>
+
+  <view name="futbaskt Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="futbaskt">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="futwars">
+    <image file="Future Wars - Time Travellers (1989)(Delphine)[cr][b].png" />
+  </element>
+
+  <view name="futwars Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="futwars">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="fwdizzy">
+    <image file="Fantasy World Dizzy (1991)(Code Masters)[cr BBC].png" />
+  </element>
+
+  <view name="fwdizzy Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="fwdizzy">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="gameovr2">
+    <image file="Game Over II (1988)(Dinamic).png" />
+  </element>
+
+  <view name="gameovr2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="gameovr2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="gazza">
+    <image file="Gazza&#39;s Super Soccer (1989)(Empire)(M4)[cr Replicants].png" />
+  </element>
+
+  <view name="gazza Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="gazza">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="gemiwing">
+    <image file="Gemini Wings (1989)(Tecmo).png" />
+  </element>
+
+  <view name="gemiwing Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="gemiwing">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="getdextr">
+    <image file="Get Dexter 2 (1988)(ERE)[cr Blade Runners].png" />
+  </element>
+
+  <view name="getdextr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="getdextr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="gforce2">
+    <image file="Galaxy Force II (1989)(Activision)[cr].png" />
+  </element>
+
+  <view name="gforce2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="gforce2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ghouls">
+    <image file="Ghouls &#39;n&#39; Ghosts (1988)(U.S. Gold)[cr Empire].png" />
+  </element>
+
+  <view name="ghouls Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ghouls">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="gng">
+    <image file="Ghosts &#39;n&#39; Goblins (1990)(Elite)[cr Replicants][t].png" />
+  </element>
+
+  <view name="gng Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="gng">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="gomoku">
+    <image file="Gomoku and Renju (1988)(Bray Researech)[monochrome].png" />
+  </element>
+
+  <view name="gomoku Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="gomoku">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="gravity">
+    <image file="Gravity (1990)(Image Works)[cr].png" />
+  </element>
+
+  <view name="gravity Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="gravity">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="growth">
+    <image file="Growth (19xx)(T. Barker).png" />
+  </element>
+
+  <view name="growth Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="growth">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="guardang">
+    <image file="Guardian Angel, The (1989)(Dinamic - Iron Byte)[cr V8][b].png" />
+  </element>
+
+  <view name="guardang Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="guardang">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="guildthv">
+    <image file="Guild of Thieves, The v1.0 (1987)(Magnetic Scrolls)[cr 42-Crew].png" />
+  </element>
+
+  <view name="guildthv Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="guildthv">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="hacker2">
+    <image file="Hacker 2 (1988)(Activision).png" />
+  </element>
+
+  <view name="hacker2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="hacker2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="hammrfst">
+    <image file="Hammerfist (1990)(Vivid Image)[cr Empire - Equinox].png" />
+  </element>
+
+  <view name="hammrfst Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="hammrfst">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="hardball">
+    <image file="Hardball (1987)(Accolade).png" />
+  </element>
+
+  <view name="hardball Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="hardball">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="hardnova">
+    <image file="Hard Nova (1991)(Electronic Arts)(Disk 2 of 4)[cr Elite].png" />
+  </element>
+
+  <view name="hardnova Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="hardnova">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="harley">
+    <image file="Harley Davidson (1990)(Mindscape).png" />
+  </element>
+
+  <view name="harley Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="harley">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="hellraid">
+    <image file="Hellraider (1990)(ARC)[cr Medway Boys].png" />
+  </element>
+
+  <view name="hellraid Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="hellraid">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="herolanc">
+    <image file="Heroes of the Lance v1.0 (1988)(SSI)[cr][b].png" />
+  </element>
+
+  <view name="herolanc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="herolanc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="highwaye">
+    <image file="Highway Encounter (demo) (1990)(Vortex)(proto).png" />
+  </element>
+
+  <view name="highwaye Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="highwaye">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="hillstrt">
+    <image file="Hill Street Blues v1.11 (1991-03-26)(Krisalis)(M5)[cr Replicants].png" />
+  </element>
+
+  <view name="hillstrt Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="hillstrt">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="hostages">
+    <image file="Hostages (1988)(Infogrames)(Disk 2 of 2)[b].png" />
+  </element>
+
+  <view name="hostages Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="hostages">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="hotshot">
+    <image file="Gary Lineker&#39;s Hot-Shot (19xx)(Gremlin)[cr Elite].png" />
+  </element>
+
+  <view name="hotshot Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="hotshot">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="houndshd">
+    <image file="Hound of Shadow, The (1989)(Electronic Arts)(Disk 2 of 3).png" />
+  </element>
+
+  <view name="houndshd Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="houndshd">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="huntrklr">
+    <image file="Hunter Killer v1.01 (1990)(Mastertronics).png" />
+  </element>
+
+  <view name="huntrklr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="huntrklr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="hyperbwl">
+    <image file="Hyperbowl (1988)(Mastertronic).png" />
+  </element>
+
+  <view name="hyperbwl Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="hyperbwl">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="iball">
+    <image file="I, Ball (1987)(Firebird).png" />
+  </element>
+
+  <view name="iball Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="iball">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="icepalac">
+    <image file="Beyond the Ice Palace (1988)(Elite).png" />
+  </element>
+
+  <view name="icepalac Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="icepalac">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="immortal">
+    <image file="Immortal, The (1990)(Electronic Arts)[cr Delight].png" />
+  </element>
+
+  <view name="immortal Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="immortal">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="indy">
+    <image file="Indiana Jones and the Temple of Doom (1985)(U.S. Gold).png" />
+  </element>
+
+  <view name="indy Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="indy">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ininjarb">
+    <image file="International Ninja Rabbits (1993)(Micro Value)(GB)[cr Cynix].png" />
+  </element>
+
+  <view name="ininjarb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ininjarb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="intphase">
+    <image file="Interphase (1990)(Image Works).png" />
+  </element>
+
+  <view name="intphase Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="intphase">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="inttruck">
+    <image file="International Truck Racing (1992)(Zeppelin)[cr Elite].png" />
+  </element>
+
+  <view name="inttruck Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="inttruck">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="italy90">
+    <image file="Italy 1990 (1990)(U.S. Gold)[cr Empire].png" />
+  </element>
+
+  <view name="italy90 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="italy90">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ivanhoe">
+    <image file="Ivanhoe (1989)(Ocean)[cr][t].png" />
+  </element>
+
+  <view name="ivanhoe Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ivanhoe">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="jedi">
+    <image file="Star Wars - Return of the Jedi (1987)(LucasFilm Ltd).png" />
+  </element>
+
+  <view name="jedi Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="jedi">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="jpond">
+    <image file="James Pond - Underwater Agent (1990)(Vectordean)[b].png" />
+  </element>
+
+  <view name="jpond Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="jpond">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="kickoff2">
+    <image file="Kick Off 2 - Return to Europe v2.1e (1990)(Anco)[cr Elite].png" />
+  </element>
+
+  <view name="kickoff2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="kickoff2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="kickoff2fw">
+    <image file="Kick Off 2 - Return to Europe v2.1e (1990)(Anco)[cr Elite].png" />
+  </element>
+
+  <view name="kickoff2fw Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="kickoff2fw">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="kickoff2re">
+    <image file="Kick Off 2 - Return to Europe v2.1e (1990)(Anco)[cr Elite].png" />
+  </element>
+
+  <view name="kickoff2re Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="kickoff2re">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="kickoff2wt">
+    <image file="Kick Off 2 - Winning Tactics (1991)(Anco)[h Hotline - MCA][data disk].png" />
+  </element>
+
+  <view name="kickoff2wt Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="kickoff2wt">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="kilcloud">
+    <image file="Killing Cloud, The (1991)(Image Works)(M3)(Disk 1 of 2)(Disk A)[cr Replicants].png" />
+  </element>
+
+  <view name="kilcloud Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="kilcloud">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="kingqst3">
+    <image file="King&#39;s Quest III - To Heir Is Human (1986)(Sierra)[cr Delight].png" />
+  </element>
+
+  <view name="kingqst3 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="kingqst3">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="klax">
+    <image file="klax (1990)(Atari - Tengen).png" />
+  </element>
+
+  <view name="klax Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="klax">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="lasersqd">
+    <image file="Laser Squad (1989)(Blade Software)[cr Replicants].png" />
+  </element>
+
+  <view name="lasersqd Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="lasersqd">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="lastnin3">
+    <image file="Last Ninja 3 (1991)(System 3)[cr Replicants][t].png" />
+  </element>
+
+  <view name="lastnin3 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="lastnin3">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="leadbg">
+    <image file="Leader Board Pro Golf Simulator (1986)(Access)[cr].png" />
+  </element>
+
+  <view name="leadbg Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="leadbg">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="leadbgt1">
+    <image file="Leader Board Pro Golf Simulator Tournament Disk 1 (1986)(Access)[cr].png" />
+  </element>
+
+  <view name="leadbgt1 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="leadbgt1">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="leviathan">
+    <image file="Leviathan (1987)(English Software)[cr].png" />
+  </element>
+
+  <view name="leviathan Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="leviathan">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="lightcor">
+    <image file="Light Corridor, The (1990)(Infogrames).png" />
+  </element>
+
+  <view name="lightcor Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="lightcor">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="locomotn">
+    <image file="Locomotion (1992)(Kingsoft)[cr].png" />
+  </element>
+
+  <view name="locomotn Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="locomotn">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="lslarry">
+    <image file="Leisure Suit Larry in the Land of the Lounge Lizards (1987)(Sierra)[cr Starman].png" />
+  </element>
+
+  <view name="lslarry Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="lslarry">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="luretemp">
+    <image file="Lure of the Temptress (demo-playable) (1992)(Virgin).png" />
+  </element>
+
+  <view name="luretemp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="luretemp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="lurkinh">
+    <image file="Lurking Horror, The r203 (1987-05-06)(Infocom).png" />
+  </element>
+
+  <view name="lurkinh Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="lurkinh">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="lxcess">
+    <image file="Lethal Xcess - Wings of Death (1991)(Eclipse)(Disk 1 of 2)(Disk A)[cr Elite][t].png" />
+  </element>
+
+  <view name="lxcess Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="lxcess">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mach3">
+    <image file="Mach 3 (1987)(Loriciel)[cr].png" />
+  </element>
+
+  <view name="mach3 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mach3">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mafdet">
+    <image file="Mafdet and the Book of the Dead (1988)(Software Horizons).png" />
+  </element>
+
+  <view name="mafdet Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mafdet">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="manhdeal">
+    <image file="Manhattan Dealers (1988)(Silmarils)[cr Elite].png" />
+  </element>
+
+  <view name="manhdeal Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="manhdeal">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mansell">
+    <image file="Nigel Mansell&#39;s World Championship (1992)(Gremlin)[cr].png" />
+  </element>
+
+  <view name="mansell Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mansell">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="manutd">
+    <image file="Manchester United Europe (1991)(Krisalis)[cr Elite].png" />
+  </element>
+
+  <view name="manutd Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="manutd">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="matrixmr">
+    <image file="Matrix Marauders (1991)(Psyclapse)[cr Replicants][t].png" />
+  </element>
+
+  <view name="matrixmr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="matrixmr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mean18">
+    <image file="Mean 18 (1986)(Accolade)[cr Klapauzius].png" />
+  </element>
+
+  <view name="mean18 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mean18">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="megatwin">
+    <image file="Mega Twins (1991)(U.S. Gold)(Disk 2 of 2)[cr Replicants].png" />
+  </element>
+
+  <view name="megatwin Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="megatwin">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mercenry">
+    <image file="Mercenary - Escape From Targ (1986)(Novasoft).png" />
+  </element>
+
+  <view name="mercenry Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mercenry">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="metrox">
+    <image file="Metro-Cross (1985)(Probe).png" />
+  </element>
+
+  <view name="metrox Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="metrox">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="midwintr">
+    <image file="Midwinter (1990)(Rainbird)(Disk 1 of 2).png" />
+  </element>
+
+  <view name="midwintr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="midwintr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mindwhel">
+    <image file="Mindwheel (1984)(Synapse)[cr Atari Legend].png" />
+  </element>
+
+  <view name="mindwhel Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mindwhel">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="monstbus">
+    <image file="Monster Business (1991)(Eclipse)[cr][t].png" />
+  </element>
+
+  <view name="monstbus Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="monstbus">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mortviel">
+    <image file="Manoir de Mortevielle, Le (1987)(Lankhor)(fr).png" />
+  </element>
+
+  <view name="mortviel Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mortviel">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="nevermnd">
+    <image file="Never Mind (1989)(Psygnosis)[cr Replicants].png" />
+  </element>
+
+  <view name="nevermnd Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="nevermnd">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="nightwlk">
+    <image file="Night Walk (1988)(Alternative Software).png" />
+  </element>
+
+  <view name="nightwlk Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="nightwlk">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ninjarab">
+    <image file="Ninja Rabbits (1991)(Micro Value)[cr Replicants][b].png" />
+  </element>
+
+  <view name="ninjarab Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ninjarab">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="nitrobc">
+    <image file="Nitro Boost Challenge (1989)(Code Masters)[cr Delight][t].png" />
+  </element>
+
+  <view name="nitrobc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="nitrobc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="noexcuse">
+    <image file="No Excuses (1988)(Arcana)(M4)[cr].png" />
+  </element>
+
+  <view name="noexcuse Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="noexcuse">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="northns">
+    <image file="North &amp; South (1989)(Infogrames)(M5).png" />
+  </element>
+
+  <view name="northns Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="northns">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="nshift">
+    <image file="Night Shift (1990)(LucasFilm)[cr Replicants].png" />
+  </element>
+
+  <view name="nshift Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="nshift">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="obliter">
+    <image file="Obliterator (1988)(Psygnosis)[cr ICS].png" />
+  </element>
+
+  <view name="obliter Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="obliter">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="oharrier">
+    <image file="Operation Harrier (1990)(U.S. Gold)[cr Empire].png" />
+  </element>
+
+  <view name="oharrier Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="oharrier">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="orbit2k">
+    <image file="Orbit 2000 (1991)(Byte Back)[cr Atari Legend][t +2 Mug U.K.].png" />
+  </element>
+
+  <view name="orbit2k Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="orbit2k">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="orgames">
+    <image file="Oriental Games (1990)(Micro Style)(Disk 2 of 2).png" />
+  </element>
+
+  <view name="orgames Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="orgames">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ostealth">
+    <image file="Operation Stealth v3.7 (1990)(U.S. Gold)(Disk 2 of 3)[cr].png" />
+  </element>
+
+  <view name="ostealth Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ostealth">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="othunder">
+    <image file="Operation Thunderbolt (1988)(Ocean)(Disk 2 of 3)[b].png" />
+  </element>
+
+  <view name="othunder Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="othunder">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="outcast">
+    <image file="Outcast (1987)(Mastertronic).png" />
+  </element>
+
+  <view name="outcast Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="outcast">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="overland">
+    <image file="Overlander v1.9 (1988-07-06)(Elite)[cr Blade Runners].png" />
+  </element>
+
+  <view name="overland Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="overland">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="overlanda">
+    <image file="Overlander v1.9 (1988-07-06)(Elite)[cr Blade Runners].png" />
+  </element>
+
+  <view name="overlanda Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="overlanda">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="pacmania">
+    <image file="Pac-Mania (1988)(Grandslam).png" />
+  </element>
+
+  <view name="pacmania Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="pacmania">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="pandora">
+    <image file="Pandora (19xx)(Firebird)[cr].png" />
+  </element>
+
+  <view name="pandora Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="pandora">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="paperboy">
+    <image file="Paperboy (1989)(Elite).png" />
+  </element>
+
+  <view name="paperboy Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="paperboy">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="passwnd2">
+    <image file="Passengers on The Wind II (1988)(Infogrames)[cr Automation].png" />
+  </element>
+
+  <view name="passwnd2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="passwnd2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="pawn">
+    <image file="Pawn, The (1986)(Magnetic Scrolls).png" />
+  </element>
+
+  <view name="pawn Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="pawn">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="piction">
+    <image file="Pictionary (1989)(Domark)(fr).png" />
+  </element>
+
+  <view name="piction Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="piction">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="pirabarb">
+    <image file="Pirates of the Barbary Coast (1987)(Star Soft)[cr BOSS][b].png" />
+  </element>
+
+  <view name="pirabarb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="pirabarb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="populopl">
+    <image file="Populous &amp; Populous - The promised Lands (1989)(Bullfrog)[m Delight].png" />
+  </element>
+
+  <view name="populopl Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="populopl">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="pquest">
+    <image file="Police Quest v2.0g (1987-03-12)(Sierra)(Disk 2 of 3).png" />
+  </element>
+
+  <view name="pquest Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="pquest">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="prison">
+    <image file="Prison (1989)(Krisalis)(Disk 1 of 2).png" />
+  </element>
+
+  <view name="prison Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="prison">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="redheat">
+    <image file="Red Heat (1989)(Ocean)[cr TDA].png" />
+  </element>
+
+  <view name="redheat Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="redheat">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="redstorm">
+    <image file="Red Storm Rising (1988)(MicroProse)[cr Replicants].png" />
+  </element>
+
+  <view name="redstorm Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="redstorm">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="resol101">
+    <image file="Resolution 101 (1990)(Millennium).png" />
+  </element>
+
+  <view name="resol101 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="resol101">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="revmutcm">
+    <image file="Revenge of the Mutant Camels (demo-playable) (1991)(Llamasoft)[STE].png" />
+  </element>
+
+  <view name="revmutcm Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="revmutcm">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="rghostb">
+    <image file="Real Ghostbusters, The (1987)(Data East).png" />
+  </element>
+
+  <view name="rghostb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="rghostb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="roadwars">
+    <image file="Roadwar Europa (1987)(SSI).png" />
+  </element>
+
+  <view name="roadwars Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="roadwars">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="robocod">
+    <image file="James Pond II - Codename Robocod (1992)(Vectordean)[cr Elite][t].png" />
+  </element>
+
+  <view name="robocod Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="robocod">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="robocop">
+    <image file="Robocop (1989)(Ocean)[cr Equinox][m Atariforce].png" />
+  </element>
+
+  <view name="robocop Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="robocop">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="rodymas3">
+    <image file="Rody &amp; Mastico III (1990)(Lankhor)(FR)[cr Brume].png" />
+  </element>
+
+  <view name="rodymas3 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="rodymas3">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="rotor">
+    <image file="Rotor (1989)(Arcana).png" />
+  </element>
+
+  <view name="rotor Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="rotor">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="sargon3">
+    <image file="Sargon III (1986)(Logotron)(US)[cr Bit Boys].png" />
+  </element>
+
+  <view name="sargon3 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="sargon3">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="sf2">
+    <image file="Street Fighter 2 (1992)(U.S. Gold)(Disk 1 of 3)[cr East Cracking Corporation][t].png" />
+  </element>
+
+  <view name="sf2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="sf2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="sharrie2">
+    <image file="Space Harrier 2 (1990)(Grandslam)[b].png" />
+  </element>
+
+  <view name="sharrie2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="sharrie2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="sharrier">
+    <image file="Space Harrier (1988)(Elite).png" />
+  </element>
+
+  <view name="sharrier Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="sharrier">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="sharriera">
+    <image file="Space Harrier (1988)(Elite).png" />
+  </element>
+
+  <view name="sharriera Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="sharriera">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="sidewind">
+    <image file="SideWinder (1988)(Mastertronic)[cr Blade Runners].png" />
+  </element>
+
+  <view name="sidewind Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="sidewind">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="silkworm">
+    <image file="Silk Worm (1988)(Tecmo).png" />
+  </element>
+
+  <view name="silkworm Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="silkworm">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="sinbad">
+    <image file="Sinbad and the Throne of the Falcon (1988)(Cinemaware)(Disk 2 of 2)[cr Union].png" />
+  </element>
+
+  <view name="sinbad Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="sinbad">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="sphericl">
+    <image file="Spherical (1989)(Rainbow Arts).png" />
+  </element>
+
+  <view name="sphericl Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="sphericl">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="spitimag">
+    <image file="Spitting Image (1988)(Domark)[cr Warrior].png" />
+  </element>
+
+  <view name="spitimag Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="spitimag">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="starfl">
+    <image file="Starflight (1986)(Electronic Arts).png" />
+  </element>
+
+  <view name="starfl Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="starfl">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="stargld2">
+    <image file="Starglider 2 (1988)(Rainbird)[cr Union].png" />
+  </element>
+
+  <view name="stargld2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="stargld2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="starglid">
+    <image file="Starglider (1987)(Rainbird).png" />
+  </element>
+
+  <view name="starglid Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="starglid">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="steel">
+    <image file="Steel (1989)(Hewson)(GB).png" />
+  </element>
+
+  <view name="steel Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="steel">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="stormstr">
+    <image file="Storm Master (1991)(Silmarils)[cr Replicants].png" />
+  </element>
+
+  <view name="stormstr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="stormstr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="strider">
+    <image file="Strider (1989)(U.S. Gold)[cr Replicants][t].png" />
+  </element>
+
+  <view name="strider Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="strider">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="striker">
+    <image file="Striker (1992)(Rage Software)[cr Elite].png" />
+  </element>
+
+  <view name="striker Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="striker">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="stryx">
+    <image file="Stryx (1989)(Psyclapse)[cr Replicants][t].png" />
+  </element>
+
+  <view name="stryx Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="stryx">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="sundog">
+    <image file="Sundog - Frozen Legacy v3.0 (1985)(FTL).png" />
+  </element>
+
+  <view name="sundog Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="sundog">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="swap">
+    <image file="Swap (1990)(Microids)[cr Empire].png" />
+  </element>
+
+  <view name="swap Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="swap">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="tauceti">
+    <image file="Tau Ceti (1986)(CRL)[b].png" />
+  </element>
+
+  <view name="tauceti Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="tauceti">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="tburner">
+    <image file="Thunder Burner (1991)(Loriciel)[cr Replicants][t].png" />
+  </element>
+
+  <view name="tburner Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="tburner">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="tdriv">
+    <image file="Test Drive (1987)(Accolade).png" />
+  </element>
+
+  <view name="tdriv Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="tdriv">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="tenniscp">
+    <image file="Tennis Cup (1992)(Loriciel)(FR).png" />
+  </element>
+
+  <view name="tenniscp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="tenniscp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="terramex">
+    <image file="Terramex (1987)(Argus Press)[b].png" />
+  </element>
+
+  <view name="terramex Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="terramex">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="thdrcats">
+    <image file="Thunder Cats (1988)(Elite)[cr MCA].png" />
+  </element>
+
+  <view name="thdrcats Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="thdrcats">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="thrust">
+    <image file="Thrust (1988)(Firebird)[cr Hotline].png" />
+  </element>
+
+  <view name="thrust Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="thrust">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="tiebreak">
+    <image file="Tie Brake (1989)(Starbyte)[cr MCA][t].png" />
+  </element>
+
+  <view name="tiebreak Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="tiebreak">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="timemag">
+    <image file="Time and Magik (1988)(Datasoft).png" />
+  </element>
+
+  <view name="timemag Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="timemag">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="tintin">
+    <image file="Tintin on the Moon (1989)(Infogrames)(M3)[cr V8].png" />
+  </element>
+
+  <view name="tintin Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="tintin">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="toutrun">
+    <image file="Turbo Outrun (1989)(U.S. Gold)[b].png" />
+  </element>
+
+  <view name="toutrun Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="toutrun">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="trailblz">
+    <image file="Trail Blazers (1987)(Gremlin)(GB)[cr Lucas].png" />
+  </element>
+
+  <view name="trailblz Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="trailblz">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="trauma">
+    <image file="Trauma (1987)(ERE)[cr BOSS][b].png" />
+  </element>
+
+  <view name="trauma Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="trauma">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="trinity">
+    <image file="Trinity (1986)(Infocom)[cr Atariforce].png" />
+  </element>
+
+  <view name="trinity Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="trinity">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="trivianb">
+    <image file="Trivial Pursuit - A new Beginning (1984)(Domark).png" />
+  </element>
+
+  <view name="trivianb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="trivianb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="turricn2">
+    <image file="Turrican II (1991)(Rainbow Arts)[b].png" />
+  </element>
+
+  <view name="turricn2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="turricn2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="tvfootbl">
+    <image file="TV Sports Football (1988)(Cinemaware)[cr MCA].png" />
+  </element>
+
+  <view name="tvfootbl Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="tvfootbl">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ums">
+    <image file="Universal Military Simulator, The - Scenery Disk 2 (1987)(Intergalactic Development).png" />
+  </element>
+
+  <view name="ums Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ums">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="univers3">
+    <image file="Universe 3 (1989)(Omnitrend Software)(Disk 2 of 2)(Datas)[cr MCA].png" />
+  </element>
+
+  <view name="univers3 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="univers3">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="untouch">
+    <image file="Untouchables, The (1989)(Ocean)(Disk 2 of 2)[cr MCA][t].png" />
+  </element>
+
+  <view name="untouch Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="untouch">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="vindictr">
+    <image file="Vindicators (1989)(Domark)(Disk 2 of 2)[b].png" />
+  </element>
+
+  <view name="vindictr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="vindictr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="virus">
+    <image file="Virus (1988)(Braben, D.J.)[cr BCS].png" />
+  </element>
+
+  <view name="virus Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="virus">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="wander3d">
+    <image file="Wanderer (1986)(Langlois)[cr Tsunoo Rhilty].png" />
+  </element>
+
+  <view name="wander3d Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="wander3d">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="warlock">
+    <image file="Warlock&#39;s Quest (1988)(ERE)[cr Blade Runners].png" />
+  </element>
+
+  <view name="warlock Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="warlock">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="warlocke">
+    <image file="Warlock - The Avenger (1990)(Millennium)[cr Replicants][t].png" />
+  </element>
+
+  <view name="warlocke Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="warlocke">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="warmidle">
+    <image file="War in Middle Earth (1988)(Melbourne House)(Disk 1 of 2)[disk 2 missing].png" />
+  </element>
+
+  <view name="warmidle Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="warmidle">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="wcbox">
+    <image file="World Championship Boxing Manager (1991)(Goliath Games)(GB).png" />
+  </element>
+
+  <view name="wcbox Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="wcbox">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="wildstrt">
+    <image file="Wild Streets (1990)(Titus).png" />
+  </element>
+
+  <view name="wildstrt Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="wildstrt">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="xenon">
+    <image file="Xenon (1988)(Arcadia).png" />
+  </element>
+
+  <view name="xenon Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="xenon">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="xout">
+    <image file="X-Out (1990)(Rainbow Arts).png" />
+  </element>
+
+  <view name="xout Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="xout">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+</mamelayout>
+

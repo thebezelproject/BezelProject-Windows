@@ -72,5 +72,19 @@
     </element>
   </view>
 
+  <element name="virtuoso">
+    <image file="Virtuoso (USA).png" />
+  </element>
+
+  <view name="virtuoso Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="virtuoso">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
 </mamelayout>
 

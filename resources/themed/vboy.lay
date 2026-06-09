@@ -11,9 +11,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="vboy">
+    <element ref="vboy">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="3dtetris">
@@ -25,13 +25,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="3dtetris">
+    <element ref="3dtetris">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="boundh">
-    <image file="Bound High (Japan) (En) (Proto).png" />
+    <image file="Bound High (World) (Proto 2).png" />
   </element>
 
   <view name="boundh Artwork">
@@ -39,13 +39,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="boundh">
+    <element ref="boundh">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="galactic">
-    <image file="Galactic Pinball (Japan, USA).png" />
+    <image file="Galactic Pinball (Japan, USA) (En).png" />
   </element>
 
   <view name="galactic Artwork">
@@ -53,9 +53,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="galactic">
+    <element ref="galactic">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="golf">
@@ -67,23 +67,37 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="golf">
+    <element ref="golf">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="innsmout">
-    <image file="Innsmouth no Yakata (Japan).png" />
+  <element name="hyperfgt">
+    <image file="Hyper Fighting (World) (Aftermarket) (Unl).png" />
   </element>
 
-  <view name="innsmout Artwork">
+  <view name="hyperfgt Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="innsmout">
+    <element ref="hyperfgt">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="insmouse">
+    <image file="Innsmouth no Yakata (Japan).png" />
+  </element>
+
+  <view name="insmouse Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="insmouse">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="jackbros">
@@ -95,9 +109,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="jackbros">
+    <element ref="jackbros">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="jackbrosj">
@@ -109,13 +123,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="jackbrosj">
+    <element ref="jackbrosj">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="mariocla">
-    <image file="Mario Clash (Japan, USA).png" />
+    <image file="Mario Clash (Japan, USA) (En).png" />
   </element>
 
   <view name="mariocla Artwork">
@@ -123,13 +137,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="mariocla">
+    <element ref="mariocla">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="marioten">
-    <image file="Mario&#39;s Tennis (Japan, USA).png" />
+    <image file="Mario&#39;s Tennis (Japan, USA) (En).png" />
   </element>
 
   <view name="marioten Artwork">
@@ -137,9 +151,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="marioten">
+    <element ref="marioten">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="nesterfb">
@@ -151,9 +165,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="nesterfb">
+    <element ref="nesterfb">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="nikochan">
@@ -165,9 +179,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="nikochan">
+    <element ref="nikochan">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="panicbom">
@@ -179,23 +193,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="panicbom">
+    <element ref="panicbom">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="redalarm">
-    <image file="Red Alarm (USA).png" />
-  </element>
-
-  <view name="redalarm Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="redalarm">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="redalarmj">
@@ -207,9 +207,23 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="redalarmj">
+    <element ref="redalarmj">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="redalarm">
+    <image file="Red Alarm (USA).png" />
+  </element>
+
+  <view name="redalarm Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="redalarm">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="sdgundam">
@@ -221,9 +235,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="sdgundam">
+    <element ref="sdgundam">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="spaceinv">
@@ -235,9 +249,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="spaceinv">
+    <element ref="spaceinv">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="spacepin">
@@ -249,9 +263,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="spacepin">
+    <element ref="spacepin">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="ssquash">
@@ -263,93 +277,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="ssquash">
+    <element ref="ssquash">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="telerobo">
-    <image file="Teleroboxer (Japan, USA).png" />
-  </element>
-
-  <view name="telerobo Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="telerobo">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="tobidase">
-    <image file="Tobidase! Panibon (Japan).png" />
-  </element>
-
-  <view name="tobidase Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="tobidase">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="vbowling">
-    <image file="Virtual Bowling (Japan).png" />
-  </element>
-
-  <view name="vbowling Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="vbowling">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="vfishing">
-    <image file="Virtual Fishing (Japan).png" />
-  </element>
-
-  <view name="vfishing Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="vfishing">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="vforce">
-    <image file="Vertical Force (USA).png" />
-  </element>
-
-  <view name="vforce Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="vforce">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="vforcej">
-    <image file="Vertical Force (Japan).png" />
-  </element>
-
-  <view name="vforcej Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="vforcej">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="vgolf">
@@ -361,9 +291,107 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="vgolf">
+    <element ref="vgolf">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="telerobo">
+    <image file="Teleroboxer (Japan, USA) (En).png" />
+  </element>
+
+  <view name="telerobo Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="telerobo">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="tobidase">
+    <image file="Tobidase! Panibon (Japan).png" />
+  </element>
+
+  <view name="tobidase Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="tobidase">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="vforcej">
+    <image file="Vertical Force (Japan).png" />
+  </element>
+
+  <view name="vforcej Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="vforcej">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="vforce">
+    <image file="Vertical Force (USA).png" />
+  </element>
+
+  <view name="vforce Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="vforce">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="vbowling">
+    <image file="Virtual Bowling (Japan) (En).png" />
+  </element>
+
+  <view name="vbowling Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="vbowling">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="wariolnd">
+    <image file="Virtual Boy Wario Land (Japan, USA) (En).png" />
+  </element>
+
+  <view name="wariolnd Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="wariolnd">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="vfishing">
+    <image file="Virtual Fishing (Japan).png" />
+  </element>
+
+  <view name="vfishing Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="vfishing">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="vlab">
@@ -375,9 +403,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="vlab">
+    <element ref="vlab">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="vleague">
@@ -389,9 +417,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="vleague">
+    <element ref="vleague">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="vproyak">
@@ -403,13 +431,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="vproyak">
+    <element ref="vproyak">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="vtetris">
-    <image file="V-Tetris (Japan).png" />
+    <image file="V-Tetris (Japan) (En).png" />
   </element>
 
   <view name="vtetris Artwork">
@@ -417,23 +445,23 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="vtetris">
+    <element ref="vtetris">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="wariolnd">
-    <image file="Virtual Boy Wario Land (Japan, USA).png" />
+  <element name="waterwld">
+    <image file="Waterworld (USA).png" />
   </element>
 
-  <view name="wariolnd Artwork">
+  <view name="waterwld Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="wariolnd">
+    <element ref="waterwld">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
 </mamelayout>

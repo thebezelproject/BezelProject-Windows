@@ -11,9 +11,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="coleco">
+    <element ref="coleco">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="2010">
@@ -25,23 +25,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="2010">
+    <element ref="2010">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="2010p1">
-    <image file="2010 - The Graphic Action Game (USA).png" />
-  </element>
-
-  <view name="2010p1 Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="2010p1">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="2010p">
@@ -53,555 +39,23 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="2010p">
+    <element ref="2010p">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="31in1">
-    <image file="Cabbage Patch Kids - Adventures in the Park (USA, Europe) (Beta 1).png" />
+  <element name="2010p1">
+    <image file="2010 - The Graphic Action Game (USA).png" />
   </element>
 
-  <view name="31in1 Artwork">
+  <view name="2010p1 Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="31in1">
+    <element ref="2010p1">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="63in1">
-    <image file="Cabbage Patch Kids - Adventures in the Park (USA, Europe) (Beta 1).png" />
-  </element>
-
-  <view name="63in1 Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="63in1">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="alcazar">
-    <image file="Alcazar - The Forgotten Fortress (USA).png" />
-  </element>
-
-  <view name="alcazar Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="alcazar">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="alphazoo">
-    <image file="Alphabet Zoo (USA).png" />
-  </element>
-
-  <view name="alphazoo Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="alphazoo">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="amazing">
-    <image file="Amazing Bumpman (USA).png" />
-  </element>
-
-  <view name="amazing Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="amazing">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="antarct">
-    <image file="Antarctic Adventure (USA, Europe).png" />
-  </element>
-
-  <view name="antarct Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="antarct">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="aquatack">
-    <image file="Aquattack (USA).png" />
-  </element>
-
-  <view name="aquatack Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="aquatack">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="aquatacka">
-    <image file="Aquattack (USA).png" />
-  </element>
-
-  <view name="aquatacka Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="aquatacka">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="artduel">
-    <image file="Artillery Duel (USA).png" />
-  </element>
-
-  <view name="artduel Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="artduel">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="bcquest">
-    <image file="BC&#39;s Quest for Tires (USA).png" />
-  </element>
-
-  <view name="bcquest Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="bcquest">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="bcquestc">
-    <image file="BC&#39;s Quest for Tires (USA).png" />
-  </element>
-
-  <view name="bcquestc Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="bcquestc">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="bcquest2">
-    <image file="BC&#39;s Quest for Tires II - Grog&#39;s Revenge (USA).png" />
-  </element>
-
-  <view name="bcquest2 Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="bcquest2">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="bcquest2c">
-    <image file="BC&#39;s Quest for Tires II - Grog&#39;s Revenge (USA).png" />
-  </element>
-
-  <view name="bcquest2c Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="bcquest2c">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="bcquest2ca">
-    <image file="BC&#39;s Quest for Tires II - Grog&#39;s Revenge (USA).png" />
-  </element>
-
-  <view name="bcquest2ca Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="bcquest2ca">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="beamridr">
-    <image file="Beamrider (USA).png" />
-  </element>
-
-  <view name="beamridr Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="beamridr">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="blockrun">
-    <image file="Blockade Runner (USA).png" />
-  </element>
-
-  <view name="blockrun Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="blockrun">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="bdash">
-    <image file="Boulder Dash (USA).png" />
-  </element>
-
-  <view name="bdash Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="bdash">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="bdashp">
-    <image file="Boulder Dash (USA).png" />
-  </element>
-
-  <view name="bdashp Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="bdashp">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="brainstr">
-    <image file="Brain Strainers (USA).png" />
-  </element>
-
-  <view name="brainstr Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="brainstr">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="buckrog">
-    <image file="Buck Rogers - Planet of Zoom (USA, Europe).png" />
-  </element>
-
-  <view name="buckrog Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="buckrog">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="bnj">
-    <image file="Bump &#39;n&#39; Jump (USA, Europe).png" />
-  </element>
-
-  <view name="bnj Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="bnj">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="btime">
-    <image file="BurgerTime (USA, Europe).png" />
-  </element>
-
-  <view name="btime Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="btime">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="btimem">
-    <image file="BurgerTime (USA, Europe).png" />
-  </element>
-
-  <view name="btimem Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="btimem">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="cabbshow">
-    <image file="Cabbage Patch Kids - Picture Show (USA).png" />
-  </element>
-
-  <view name="cabbshow Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="cabbshow">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="cabbagea">
-    <image file="Cabbage Patch Kids - Adventures in the Park (USA, Europe).png" />
-  </element>
-
-  <view name="cabbagea Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="cabbagea">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="cabbage">
-    <image file="Cabbage Patch Kids - Adventures in the Park (USA, Europe).png" />
-  </element>
-
-  <view name="cabbage Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="cabbage">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="cabbagep1">
-    <image file="Cabbage Patch Kids - Adventures in the Park (USA, Europe).png" />
-  </element>
-
-  <view name="cabbagep1 Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="cabbagep1">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="cabbagep2">
-    <image file="Cabbage Patch Kids - Adventures in the Park (USA, Europe).png" />
-  </element>
-
-  <view name="cabbagep2 Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="cabbagep2">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="campaign">
-    <image file="Campaign &#39;84 (USA).png" />
-  </element>
-
-  <view name="campaign Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="campaign">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="carnival">
-    <image file="Carnival (USA, Europe).png" />
-  </element>
-
-  <view name="carnival Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="carnival">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="castelo">
-    <image file="Mr. Do!&#39;s Castle (USA).png" />
-  </element>
-
-  <view name="castelo Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="castelo">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="centiped">
-    <image file="Centipede (USA).png" />
-  </element>
-
-  <view name="centiped Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="centiped">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="choplift">
-    <image file="Choplifter! (USA).png" />
-  </element>
-
-  <view name="choplift Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="choplift">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="chucknor">
-    <image file="Chuck Norris - Superkicks (USA).png" />
-  </element>
-
-  <view name="chucknor Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="chucknor">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="congo">
-    <image file="Congo Bongo (USA).png" />
-  </element>
-
-  <view name="congo Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="congo">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="cavenger">
-    <image file="Cosmic Avenger (USA, Europe).png" />
-  </element>
-
-  <view name="cavenger Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="cavenger">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="cavengera">
-    <image file="Cosmic Avenger (USA, Europe).png" />
-  </element>
-
-  <view name="cavengera Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="cavengera">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="ccrisis">
-    <image file="Cosmic Crisis (Europe).png" />
-  </element>
-
-  <view name="ccrisis Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="ccrisis">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="dncfntsy">
-    <image file="Dance Fantasy (USA).png" />
-  </element>
-
-  <view name="dncfntsy Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="dncfntsy">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="decathln">
@@ -613,1913 +67,219 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="decathln">
+    <element ref="decathln">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="defender">
-    <image file="Defender (USA).png" />
+  <element name="adamusic">
+    <image file="Adam&#39;s Musicbox Demo (USA) (Demo).png" />
   </element>
 
-  <view name="defender Artwork">
+  <view name="adamusic Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="defender">
+    <element ref="adamusic">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="destruct">
-    <image file="Destructor (USA, Europe).png" />
+  <element name="musicbox">
+    <image file="Adam&#39;s Musicbox Demo (USA) (Demo).png" />
   </element>
 
-  <view name="destruct Artwork">
+  <view name="musicbox Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="destruct">
+    <element ref="musicbox">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="digdug">
-    <image file="Dig Dug (USA) (Proto).png" />
+  <element name="alcazar">
+    <image file="Alcazar - The Forgotten Fortress (USA).png" />
   </element>
 
-  <view name="digdug Artwork">
+  <view name="alcazar Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="digdug">
+    <element ref="alcazar">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="dkong">
-    <image file="Donkey Kong (USA).png" />
+  <element name="alphazoo">
+    <image file="Alphabet Zoo (USA).png" />
   </element>
 
-  <view name="dkong Artwork">
+  <view name="alphazoo Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="dkong">
+    <element ref="alphazoo">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="dkonga">
-    <image file="Donkey Kong (USA).png" />
+  <element name="amazing">
+    <image file="Amazing Bumpman (USA).png" />
   </element>
 
-  <view name="dkonga Artwork">
+  <view name="amazing Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="dkonga">
+    <element ref="amazing">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="dkongjr">
-    <image file="Donkey Kong Junior (USA, Europe).png" />
+  <element name="antarct">
+    <image file="Antarctic Adventure (USA, Europe).png" />
   </element>
 
-  <view name="dkongjr Artwork">
+  <view name="antarct Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="dkongjr">
+    <element ref="antarct">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="drseuss">
-    <image file="Dr. Seuss - Fix-Up the Mix-Up Puzzler (USA).png" />
+  <element name="aquatack">
+    <image file="Aquattack (USA).png" />
   </element>
 
-  <view name="drseuss Artwork">
+  <view name="aquatack Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="drseuss">
+    <element ref="aquatack">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="drgnfire">
-    <image file="Dragonfire (USA).png" />
+  <element name="aquatacka">
+    <image file="Aquattack (USA).png" />
   </element>
 
-  <view name="drgnfire Artwork">
+  <view name="aquatacka Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="drgnfire">
+    <element ref="aquatacka">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="mindmstr">
-    <image file="Escape from the Mindmaster (USA) (Proto).png" />
+  <element name="artduel">
+    <image file="Artillery Duel (USA).png" />
   </element>
 
-  <view name="mindmstr Artwork">
+  <view name="artduel Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="mindmstr">
+    <element ref="artduel">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="evolutio">
-    <image file="Evolution (Canada).png" />
+  <element name="bcquestc">
+    <image file="BC&#39;s Quest for Tires (Canada).png" />
   </element>
 
-  <view name="evolutio Artwork">
+  <view name="bcquestc Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="evolutio">
+    <element ref="bcquestc">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="evolutioc">
-    <image file="Evolution (Canada).png" />
+  <element name="bcquest">
+    <image file="BC&#39;s Quest for Tires (USA).png" />
   </element>
 
-  <view name="evolutioc Artwork">
+  <view name="bcquest Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="evolutioc">
+    <element ref="bcquest">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="evolutioa">
-    <image file="Evolution (Canada).png" />
+  <element name="bcquest2c">
+    <image file="BC&#39;s Quest for Tires II - Grog&#39;s Revenge (Canada).png" />
   </element>
 
-  <view name="evolutioa Artwork">
+  <view name="bcquest2c Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="evolutioa">
+    <element ref="bcquest2c">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="facemakr">
-    <image file="Facemaker (USA).png" />
+  <element name="bcquest2ca">
+    <image file="BC&#39;s Quest for Tires II - Grog&#39;s Revenge (Canada).png" />
   </element>
 
-  <view name="facemakr Artwork">
+  <view name="bcquest2ca Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="facemakr">
+    <element ref="bcquest2ca">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="fallguy">
-    <image file="Fall Guy (Europe) (Proto).png" />
+  <element name="bcquest2">
+    <image file="BC&#39;s Quest for Tires II - Grog&#39;s Revenge (USA).png" />
   </element>
 
-  <view name="fallguy Artwork">
+  <view name="bcquest2 Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="fallguy">
+    <element ref="bcquest2">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="fathom">
-    <image file="Fathom (USA).png" />
+  <element name="beamridr">
+    <image file="Beamrider (USA).png" />
   </element>
 
-  <view name="fathom Artwork">
+  <view name="beamridr Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="fathom">
+    <element ref="beamridr">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="flipslip">
-    <image file="Flipper Slipper (USA, Europe).png" />
-  </element>
-
-  <view name="flipslip Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="flipslip">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="flipslipa">
-    <image file="Flipper Slipper (USA, Europe).png" />
-  </element>
-
-  <view name="flipslipa Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="flipslipa">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="flipslipb">
-    <image file="Flipper Slipper (USA, Europe).png" />
-  </element>
-
-  <view name="flipslipb Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="flipslipb">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="fortune">
-    <image file="Fortune Builder (USA).png" />
-  </element>
-
-  <view name="fortune Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="fortune">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="fracfevr">
-    <image file="Fraction Fever (USA).png" />
-  </element>
-
-  <view name="fracfevr Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="fracfevr">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="ffreddy">
-    <image file="Frantic Freddy (USA).png" />
-  </element>
-
-  <view name="ffreddy Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="ffreddy">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="frenzy">
-    <image file="Frenzy (USA, Europe).png" />
-  </element>
-
-  <view name="frenzy Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="frenzy">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="frenzya">
-    <image file="Frenzy (USA, Europe).png" />
-  </element>
-
-  <view name="frenzya Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="frenzya">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="frenzya2">
-    <image file="Frenzy (USA, Europe).png" />
-  </element>
-
-  <view name="frenzya2 Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="frenzya2">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="frogger">
-    <image file="Frogger (USA).png" />
-  </element>
-
-  <view name="frogger Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="frogger">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="frogger2">
-    <image file="Frogger II - ThreeeDeep! (USA).png" />
-  </element>
-
-  <view name="frogger2 Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="frogger2">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="frontlin">
-    <image file="Front Line (USA, Europe).png" />
-  </element>
-
-  <view name="frontlin Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="frontlin">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="frontlina">
-    <image file="Front Line (USA, Europe).png" />
-  </element>
-
-  <view name="frontlina Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="frontlina">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="galaxian">
-    <image file="Galaxian (USA).png" />
-  </element>
-
-  <view name="galaxian Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="galaxian">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="galaxiana">
-    <image file="Galaxian (USA).png" />
-  </element>
-
-  <view name="galaxiana Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="galaxiana">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="apshai">
-    <image file="Gateway to Apshai (USA, Europe).png" />
-  </element>
-
-  <view name="apshai Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="apshai">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="gorf">
-    <image file="Gorf (USA, Europe).png" />
-  </element>
-
-  <view name="gorf Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="gorf">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="gustbust">
-    <image file="Gust Buster (USA).png" />
-  </element>
-
-  <view name="gustbust Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="gustbust">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="gyruss">
-    <image file="Gyruss (USA).png" />
-  </element>
-
-  <view name="gyruss Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="gyruss">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="hero">
-    <image file="H.E.R.O. - Helicopter Emergency Rescue Operation (USA).png" />
-  </element>
-
-  <view name="hero Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="hero">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="illusion">
-    <image file="Illusions (USA).png" />
-  </element>
-
-  <view name="illusion Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="illusion">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="onlyrock">
-    <image file="It&#39;s Only Rock &#39;N&#39; Roll (USA).png" />
-  </element>
-
-  <view name="onlyrock Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="onlyrock">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="jbond">
-    <image file="James Bond 007 (USA).png" />
-  </element>
-
-  <view name="jbond Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="jbond">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="joust">
-    <image file="Joust (USA) (Proto).png" />
-  </element>
-
-  <view name="joust Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="joust">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="jukebox">
-    <image file="Jukebox (USA).png" />
-  </element>
-
-  <view name="jukebox Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="jukebox">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="jmpmanjr">
-    <image file="Jumpman Junior (USA, Europe).png" />
-  </element>
-
-  <view name="jmpmanjr Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="jmpmanjr">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="jmpmanjra">
-    <image file="Jumpman Junior (USA, Europe).png" />
-  </element>
-
-  <view name="jmpmanjra Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="jmpmanjra">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="jungleh">
-    <image file="Jungle Hunt (USA).png" />
-  </element>
-
-  <view name="jungleh Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="jungleh">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="kubjpok">
-    <image file="Ken Uston Blackjack-Poker (USA, Europe).png" />
-  </element>
-
-  <view name="kubjpok Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="kubjpok">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="keykaper">
-    <image file="Keystone Kapers (USA).png" />
-  </element>
-
-  <view name="keykaper Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="keykaper">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="ladybug">
-    <image file="Lady Bug (USA, Europe).png" />
-  </element>
-
-  <view name="ladybug Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="ladybug">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="leeper">
-    <image file="Learning with Leeper (USA).png" />
-  </element>
-
-  <view name="leeper Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="leeper">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="linklogc">
-    <image file="Linking Logic (USA).png" />
-  </element>
-
-  <view name="linklogc Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="linklogc">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="logiclvl">
-    <image file="Logic Levels (USA).png" />
-  </element>
-
-  <view name="logiclvl Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="logiclvl">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="looping">
-    <image file="Looping (USA, Europe).png" />
-  </element>
-
-  <view name="looping Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="looping">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="mash">
-    <image file="M.A.S.H (Europe) (Proto).png" />
-  </element>
-
-  <view name="mash Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="mash">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="memmanor">
-    <image file="Memory Manor (USA).png" />
-  </element>
-
-  <view name="memmanor Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="memmanor">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="meteosho">
-    <image file="Meteoric Shower (Europe).png" />
-  </element>
-
-  <view name="meteosho Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="meteosho">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="mine2049">
-    <image file="Miner 2049er Starring Bounty Bob (USA, Europe).png" />
-  </element>
-
-  <view name="mine2049 Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="mine2049">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="mine2049a">
-    <image file="Miner 2049er Starring Bounty Bob (USA, Europe).png" />
-  </element>
-
-  <view name="mine2049a Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="mine2049a">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="monkey">
-    <image file="Monkey Academy (USA).png" />
-  </element>
-
-  <view name="monkey Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="monkey">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="monkeyp">
-    <image file="Monkey Academy (USA).png" />
-  </element>
-
-  <view name="monkeyp Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="monkeyp">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="monkeyp1">
-    <image file="Monkey Academy (USA).png" />
-  </element>
-
-  <view name="monkeyp1 Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="monkeyp1">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="montezum">
-    <image file="Montezuma&#39;s Revenge (USA).png" />
-  </element>
-
-  <view name="montezum Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="montezum">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="moonswpr">
-    <image file="Moonsweeper (USA, Europe).png" />
-  </element>
-
-  <view name="moonswpr Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="moonswpr">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="moonswpra">
-    <image file="Moonsweeper (USA, Europe).png" />
-  </element>
-
-  <view name="moonswpra Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="moonswpra">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="mtcracer">
-    <image file="Motocross Racer (USA).png" />
-  </element>
-
-  <view name="mtcracer Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="mtcracer">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="mtcracera">
-    <image file="Motocross Racer (USA).png" />
-  </element>
-
-  <view name="mtcracera Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="mtcracera">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="mking">
-    <image file="Mountain King (USA).png" />
-  </element>
-
-  <view name="mking Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="mking">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="mkinga">
-    <image file="Mountain King (USA).png" />
-  </element>
-
-  <view name="mkinga Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="mkinga">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="mtrap">
-    <image file="Mouse Trap (USA, Europe).png" />
-  </element>
-
-  <view name="mtrap Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="mtrap">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="mtrapa">
-    <image file="Mouse Trap (USA, Europe).png" />
-  </element>
-
-  <view name="mtrapa Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="mtrapa">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="mrdo">
-    <image file="Mr. Do! (USA, Europe).png" />
-  </element>
-
-  <view name="mrdo Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="mrdo">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="mrdoa">
-    <image file="Mr. Do! (USA, Europe).png" />
-  </element>
-
-  <view name="mrdoa Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="mrdoa">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="docastle">
-    <image file="Mr. Do!&#39;s Castle (USA).png" />
-  </element>
-
-  <view name="docastle Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="docastle">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="novablst">
-    <image file="Nova Blast (USA, Europe).png" />
-  </element>
-
-  <view name="novablst Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="novablst">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="oilswell">
-    <image file="Oil&#39;s Well (USA).png" />
-  </element>
-
-  <view name="oilswell Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="oilswell">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="oilswella">
-    <image file="Oil&#39;s Well (USA).png" />
-  </element>
-
-  <view name="oilswella Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="oilswella">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="omegrace">
-    <image file="Omega Race (USA, Europe).png" />
-  </element>
-
-  <view name="omegrace Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="omegrace">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="1on1">
-    <image file="One on One (USA).png" />
-  </element>
-
-  <view name="1on1 Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="1on1">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="pacman">
-    <image file="Pac-Man (USA) (Proto).png" />
-  </element>
-
-  <view name="pacman Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="pacman">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="pepper2">
-    <image file="Pepper II (USA, Europe).png" />
-  </element>
-
-  <view name="pepper2 Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="pepper2">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="pitfall2">
-    <image file="Pitfall II - Lost Caverns (USA).png" />
-  </element>
-
-  <view name="pitfall2 Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="pitfall2">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="pitfall">
-    <image file="Pitfall! (USA).png" />
-  </element>
-
-  <view name="pitfall Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="pitfall">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="pitstopa">
-    <image file="Pitstop (USA).png" />
-  </element>
-
-  <view name="pitstopa Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="pitstopa">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="popeye">
-    <image file="Popeye (USA).png" />
-  </element>
-
-  <view name="popeye Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="popeye">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="popeyea">
-    <image file="Popeye (USA).png" />
-  </element>
-
-  <view name="popeyea Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="popeyea">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="porkys">
-    <image file="Porky&#39;s (USA) (Proto).png" />
-  </element>
-
-  <view name="porkys Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="porkys">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="power">
-    <image file="Power Lords - Quest for Volcan (USA) (Proto).png" />
-  </element>
-
-  <view name="power Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="power">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="qbert">
-    <image file="Q-bert (USA).png" />
-  </element>
-
-  <view name="qbert Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="qbert">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="qberta">
-    <image file="Q-bert (USA).png" />
-  </element>
-
-  <view name="qberta Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="qberta">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="qbertqub">
-    <image file="Q-bert&#39;s Qubes (USA).png" />
-  </element>
-
-  <view name="qbertqub Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="qbertqub">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="qbertquba">
-    <image file="Q-bert&#39;s Qubes (USA).png" />
-  </element>
-
-  <view name="qbertquba Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="qbertquba">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="quintana">
-    <image file="Quest for Quintana Roo (USA).png" />
-  </element>
-
-  <view name="quintana Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="quintana">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="quintanaa">
-    <image file="Quest for Quintana Roo (USA).png" />
-  </element>
-
-  <view name="quintanaa Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="quintanaa">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="riveraid">
-    <image file="River Raid (USA).png" />
-  </element>
-
-  <view name="riveraid Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="riveraid">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="robinh">
-    <image file="Robin Hood (USA).png" />
-  </element>
-
-  <view name="robinh Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="robinh">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="robinha">
-    <image file="Robin Hood (USA).png" />
-  </element>
-
-  <view name="robinha Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="robinha">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="rocnrope">
-    <image file="Roc &#39;N Rope (USA, Europe).png" />
-  </element>
-
-  <view name="rocnrope Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="rocnrope">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="rockbolt">
-    <image file="Rock n&#39; Bolt (USA).png" />
-  </element>
-
-  <view name="rockbolt Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="rockbolt">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="rockbolta">
-    <image file="Rock n&#39; Bolt (USA).png" />
-  </element>
-
-  <view name="rockbolta Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="rockbolta">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="rocky">
-    <image file="Rocky - Super Action Boxing (USA, Europe).png" />
-  </element>
-
-  <view name="rocky Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="rocky">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="rollover">
-    <image file="Rolloverture (USA).png" />
-  </element>
-
-  <view name="rollover Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="rollover">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="sammylf">
-    <image file="Sammy Lightfoot (USA).png" />
-  </element>
-
-  <view name="sammylf Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="sammylf">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="sammylfa">
-    <image file="Sammy Lightfoot (USA).png" />
-  </element>
-
-  <view name="sammylfa Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="sammylfa">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="secalpha">
-    <image file="Sector Alpha (USA).png" />
-  </element>
-
-  <view name="secalpha Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="secalpha">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="sewersam">
-    <image file="Sewer Sam (USA).png" />
-  </element>
-
-  <view name="sewersam Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="sewersam">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="lancelot">
-    <image file="Sir Lancelot (USA).png" />
-  </element>
-
-  <view name="lancelot Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="lancelot">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="skiing">
-    <image file="Skiing (USA).png" />
-  </element>
-
-  <view name="skiing Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="skiing">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="skiinga">
-    <image file="Skiing (USA).png" />
-  </element>
-
-  <view name="skiinga Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="skiinga">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="slither">
-    <image file="Slither (USA, Europe).png" />
-  </element>
-
-  <view name="slither Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="slither">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="slurpy">
-    <image file="Slurpy (USA).png" />
-  </element>
-
-  <view name="slurpy Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="slurpy">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="smurfpnt">
-    <image file="Smurf - Paint &#39;n&#39; Play WORKSHOP (USA, Europe).png" />
-  </element>
-
-  <view name="smurfpnt Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="smurfpnt">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="smurf">
-    <image file="Smurf Rescue (USA, Europe).png" />
-  </element>
-
-  <view name="smurf Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="smurf">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="smurfa">
-    <image file="Smurf Rescue (USA, Europe).png" />
-  </element>
-
-  <view name="smurfa Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="smurfa">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="spacfury">
-    <image file="Space Fury (USA, Europe).png" />
-  </element>
-
-  <view name="spacfury Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="spacfury">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="spacfurya">
-    <image file="Space Fury (USA, Europe).png" />
-  </element>
-
-  <view name="spacfurya Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="spacfurya">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="panic">
-    <image file="Space Panic (USA, Europe).png" />
-  </element>
-
-  <view name="panic Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="panic">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="spectron">
-    <image file="Spectron (USA).png" />
-  </element>
-
-  <view name="spectron Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="spectron">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="spyhunt">
-    <image file="Spy Hunter (USA).png" />
-  </element>
-
-  <view name="spyhunt Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="spyhunt">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="spyhuntp1">
-    <image file="Spy Hunter (USA).png" />
-  </element>
-
-  <view name="spyhuntp1 Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="spyhuntp1">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="spyhuntp">
-    <image file="Spy Hunter (USA).png" />
-  </element>
-
-  <view name="spyhuntp Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="spyhuntp">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="squishem">
-    <image file="Squish&#39;em Featuring Sam (USA).png" />
-  </element>
-
-  <view name="squishem Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="squishem">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="startrek">
-    <image file="Star Trek - Strategic Operations Simulator (USA).png" />
-  </element>
-
-  <view name="startrek Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="startrek">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="starwars">
-    <image file="Star Wars - The Arcade Game (USA).png" />
-  </element>
-
-  <view name="starwars Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="starwars">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="steam">
-    <image file="Steamroller (USA) (Proto).png" />
-  </element>
-
-  <view name="steam Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="steam">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="strikeit">
-    <image file="Strike It! (Europe).png" />
-  </element>
-
-  <view name="strikeit Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="strikeit">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="subroc">
-    <image file="Subroc (USA, Europe).png" />
-  </element>
-
-  <view name="subroc Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="subroc">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="subroca">
-    <image file="Subroc (USA, Europe).png" />
-  </element>
-
-  <view name="subroca Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="subroca">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="sabaseb">
-    <image file="Super Action Baseball (USA).png" />
-  </element>
-
-  <view name="sabaseb Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="sabaseb">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="safootb">
-    <image file="Super Action Football (Europe).png" />
-  </element>
-
-  <view name="safootb Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="safootb">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="safootbu">
-    <image file="Super Action Football (USA).png" />
-  </element>
-
-  <view name="safootbu Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="safootbu">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="scobra">
-    <image file="Super Cobra (USA).png" />
-  </element>
-
-  <view name="scobra Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="scobra">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="scobraa">
-    <image file="Super Cobra (USA).png" />
-  </element>
-
-  <view name="scobraa Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="scobraa">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="sprcross">
-    <image file="Super Cross Force (USA, Europe).png" />
-  </element>
-
-  <view name="sprcross Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="sprcross">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="superdk">
-    <image file="Super DK! (USA) (Proto).png" />
-  </element>
-
-  <view name="superdk Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="superdk">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="suprdkjr">
-    <image file="Super DK! Junior (USA) (Proto).png" />
-  </element>
-
-  <view name="suprdkjr Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="suprdkjr">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="tankwars">
-    <image file="Tank Wars (Europe).png" />
-  </element>
-
-  <view name="tankwars Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="tankwars">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="tapper">
-    <image file="Root Beer Tapper (USA).png" />
-  </element>
-
-  <view name="tapper Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="tapper">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="tarzan">
-    <image file="Tarzan (USA, Europe).png" />
-  </element>
-
-  <view name="tarzan Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="tarzan">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="telly">
-    <image file="Telly Turtle (USA).png" />
-  </element>
-
-  <view name="telly Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="telly">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="bbears">
@@ -2531,9 +291,345 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="bbears">
+    <element ref="bbears">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="blockrun">
+    <image file="Blockade Runner (USA).png" />
+  </element>
+
+  <view name="blockrun Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="blockrun">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="bdash">
+    <image file="Boulder Dash (USA).png" />
+  </element>
+
+  <view name="bdash Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="bdash">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="bdashp">
+    <image file="Boulder Dash (USA).png" />
+  </element>
+
+  <view name="bdashp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="bdashp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="brainstr">
+    <image file="Brain Strainers (USA).png" />
+  </element>
+
+  <view name="brainstr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="brainstr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="buckrog">
+    <image file="Buck Rogers - Planet of Zoom (USA, Europe).png" />
+  </element>
+
+  <view name="buckrog Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="buckrog">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="bnj">
+    <image file="Bump &#39;n&#39; Jump (USA, Europe).png" />
+  </element>
+
+  <view name="bnj Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="bnj">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="btime">
+    <image file="BurgerTime (USA, Europe).png" />
+  </element>
+
+  <view name="btime Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="btime">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="btimem">
+    <image file="BurgerTime (USA, Europe).png" />
+  </element>
+
+  <view name="btimem Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="btimem">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="cabbage">
+    <image file="Cabbage Patch Kids - Adventures in the Park (USA, Europe).png" />
+  </element>
+
+  <view name="cabbage Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="cabbage">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="cabbagea">
+    <image file="Cabbage Patch Kids - Adventures in the Park (USA, Europe).png" />
+  </element>
+
+  <view name="cabbagea Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="cabbagea">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="cabbagep1">
+    <image file="Cabbage Patch Kids - Adventures in the Park (USA, Europe).png" />
+  </element>
+
+  <view name="cabbagep1 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="cabbagep1">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="cabbagep2">
+    <image file="Cabbage Patch Kids - Adventures in the Park (USA, Europe).png" />
+  </element>
+
+  <view name="cabbagep2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="cabbagep2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="cabbshow">
+    <image file="Cabbage Patch Kids - Picture Show (USA).png" />
+  </element>
+
+  <view name="cabbshow Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="cabbshow">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="campaign">
+    <image file="Campaign &#39;84 (USA).png" />
+  </element>
+
+  <view name="campaign Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="campaign">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="carnival">
+    <image file="Carnival (USA, Europe).png" />
+  </element>
+
+  <view name="carnival Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="carnival">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="castelo">
+    <image file="Castelo (Brazil) (En) (Unl).png" />
+  </element>
+
+  <view name="castelo Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="castelo">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="centiped">
+    <image file="Centipede (USA).png" />
+  </element>
+
+  <view name="centiped Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="centiped">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="choplift">
+    <image file="Choplifter! (USA).png" />
+  </element>
+
+  <view name="choplift Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="choplift">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="chucknor">
+    <image file="Chuck Norris - Superkicks (USA).png" />
+  </element>
+
+  <view name="chucknor Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="chucknor">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="congo">
+    <image file="Congo Bongo (USA).png" />
+  </element>
+
+  <view name="congo Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="congo">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="cavenger">
+    <image file="Cosmic Avenger (USA, Europe).png" />
+  </element>
+
+  <view name="cavenger Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="cavenger">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="cavengera">
+    <image file="Cosmic Avenger (USA, Europe).png" />
+  </element>
+
+  <view name="cavengera Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="cavengera">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ccrisis">
+    <image file="Cosmic Crisis (Europe).png" />
+  </element>
+
+  <view name="ccrisis Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ccrisis">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="dambustrc">
+    <image file="Dam Busters, The (Canada).png" />
+  </element>
+
+  <view name="dambustrc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dambustrc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="dambustr">
@@ -2545,23 +641,177 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="dambustr">
+    <element ref="dambustr">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="dambustrc">
-    <image file="Dam Busters, The (USA).png" />
+  <element name="dncfntsy">
+    <image file="Dance Fantasy (USA).png" />
   </element>
 
-  <view name="dambustrc Artwork">
+  <view name="dncfntsy Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="dambustrc">
+    <element ref="dncfntsy">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="defender">
+    <image file="Defender (USA).png" />
+  </element>
+
+  <view name="defender Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="defender">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="destruct">
+    <image file="Destructor (USA, Europe).png" />
+  </element>
+
+  <view name="destruct Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="destruct">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="digdug">
+    <image file="Dig Dug (USA) (Proto).png" />
+  </element>
+
+  <view name="digdug Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="digdug">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="dkong">
+    <image file="Donkey Kong (USA).png" />
+  </element>
+
+  <view name="dkong Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dkong">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="dkonga">
+    <image file="Donkey Kong (USA).png" />
+  </element>
+
+  <view name="dkonga Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dkonga">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="dkongjr">
+    <image file="Donkey Kong Junior (USA, Europe).png" />
+  </element>
+
+  <view name="dkongjr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dkongjr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="drseuss">
+    <image file="Dr. Seuss - Fix-Up the Mix-Up Puzzler (USA).png" />
+  </element>
+
+  <view name="drseuss Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="drseuss">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="drseussp">
+    <image file="Dr. Seuss - Fix-Up the Mix-Up Puzzler (USA).png" />
+  </element>
+
+  <view name="drseussp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="drseussp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="drseussp1">
+    <image file="Dr. Seuss - Fix-Up the Mix-Up Puzzler (USA).png" />
+  </element>
+
+  <view name="drseussp1 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="drseussp1">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="drgnfire">
+    <image file="Dragonfire (USA).png" />
+  </element>
+
+  <view name="drgnfire Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="drgnfire">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="dlair">
+    <image file="Dragon&#39;s Lair (USA) (Proto).png" />
+  </element>
+
+  <view name="dlair Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dlair">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="hazzard">
@@ -2573,9 +823,429 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="hazzard">
+    <element ref="hazzard">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="energyq">
+    <image file="Energy Quiz (Canada) (En,Fr-CA) (1983-06-06) (Proto).png" />
+  </element>
+
+  <view name="energyq Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="energyq">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mindmstr">
+    <image file="Escape from the Mindmaster (USA) (Proto).png" />
+  </element>
+
+  <view name="mindmstr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mindmstr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="evolutio">
+    <image file="Evolution (Canada).png" />
+  </element>
+
+  <view name="evolutio Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="evolutio">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="evolutioa">
+    <image file="Evolution (Canada).png" />
+  </element>
+
+  <view name="evolutioa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="evolutioa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="evolutioc">
+    <image file="Evolution (Canada).png" />
+  </element>
+
+  <view name="evolutioc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="evolutioc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="facemakr">
+    <image file="Facemaker (USA).png" />
+  </element>
+
+  <view name="facemakr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="facemakr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="fallguy">
+    <image file="Fall Guy (USA) (Proto).png" />
+  </element>
+
+  <view name="fallguy Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="fallguy">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="fathom">
+    <image file="Fathom (USA).png" />
+  </element>
+
+  <view name="fathom Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="fathom">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="finaltst">
+    <image file="Final Test Cartridge (USA).png" />
+  </element>
+
+  <view name="finaltst Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="finaltst">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="flipslip">
+    <image file="Flipper Slipper (USA, Europe).png" />
+  </element>
+
+  <view name="flipslip Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="flipslip">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="flipslipa">
+    <image file="Flipper Slipper (USA, Europe).png" />
+  </element>
+
+  <view name="flipslipa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="flipslipa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="flipslipb">
+    <image file="Flipper Slipper (USA, Europe).png" />
+  </element>
+
+  <view name="flipslipb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="flipslipb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="fortune">
+    <image file="Fortune Builder (USA).png" />
+  </element>
+
+  <view name="fortune Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="fortune">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="fracfevr">
+    <image file="Fraction Fever (USA).png" />
+  </element>
+
+  <view name="fracfevr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="fracfevr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ffreddy">
+    <image file="Frantic Freddy (USA).png" />
+  </element>
+
+  <view name="ffreddy Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ffreddy">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="frenzy">
+    <image file="Frenzy (USA, Europe).png" />
+  </element>
+
+  <view name="frenzy Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="frenzy">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="frenzya">
+    <image file="Frenzy (USA, Europe).png" />
+  </element>
+
+  <view name="frenzya Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="frenzya">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="frenzya2">
+    <image file="Frenzy (USA, Europe).png" />
+  </element>
+
+  <view name="frenzya2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="frenzya2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="frogger">
+    <image file="Frogger (USA).png" />
+  </element>
+
+  <view name="frogger Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="frogger">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="frogger2">
+    <image file="Frogger II - ThreeeDeep! (USA).png" />
+  </element>
+
+  <view name="frogger2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="frogger2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="frogger2p">
+    <image file="Frogger II - ThreeeDeep! (USA).png" />
+  </element>
+
+  <view name="frogger2p Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="frogger2p">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="frontlin">
+    <image file="Front Line (USA, Europe) (Standard Controller).png" />
+  </element>
+
+  <view name="frontlin Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="frontlin">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="frontlina">
+    <image file="Front Line (USA, Europe) (Standard Controller).png" />
+  </element>
+
+  <view name="frontlina Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="frontlina">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="galaxian">
+    <image file="Galaxian (USA).png" />
+  </element>
+
+  <view name="galaxian Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="galaxian">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="galaxiana">
+    <image file="Galaxian (USA).png" />
+  </element>
+
+  <view name="galaxiana Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="galaxiana">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="apshai">
+    <image file="Gateway to Apshai (USA, Europe).png" />
+  </element>
+
+  <view name="apshai Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="apshai">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="gorf">
+    <image file="Gorf (USA, Europe).png" />
+  </element>
+
+  <view name="gorf Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="gorf">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="gustbust">
+    <image file="Gust Buster (USA).png" />
+  </element>
+
+  <view name="gustbust Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="gustbust">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="gyruss">
+    <image file="Gyruss (USA).png" />
+  </element>
+
+  <view name="gyruss Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="gyruss">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="hero">
+    <image file="H.E.R.O. - Helicopter Emergency Rescue Operation (USA).png" />
+  </element>
+
+  <view name="hero Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="hero">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="heist">
@@ -2587,9 +1257,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="heist">
+    <element ref="heist">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="heista">
@@ -2601,9 +1271,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="heista">
+    <element ref="heista">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="heistb">
@@ -2615,23 +1285,1577 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="heistb">
+    <element ref="heistb">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="yolk">
-    <image file="Yolk&#39;s on You, The (Europe) (Proto).png" />
+  <element name="illusion">
+    <image file="Illusions (USA).png" />
   </element>
 
-  <view name="yolk Artwork">
+  <view name="illusion Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="yolk">
+    <element ref="illusion">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="onlyrock">
+    <image file="It&#39;s Only Rock &#39;N&#39; Roll (USA).png" />
+  </element>
+
+  <view name="onlyrock Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="onlyrock">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="jbond">
+    <image file="James Bond 007 (USA).png" />
+  </element>
+
+  <view name="jbond Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="jbond">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="joust">
+    <image file="Joust (USA) (Proto).png" />
+  </element>
+
+  <view name="joust Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="joust">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="jukebox">
+    <image file="Jukebox (USA).png" />
+  </element>
+
+  <view name="jukebox Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="jukebox">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="1on1">
+    <image file="Julius Erving and Larry Bird Go - One-on-One (USA).png" />
+  </element>
+
+  <view name="1on1 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="1on1">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="jmpmanjr">
+    <image file="Jumpman Junior (USA, Europe).png" />
+  </element>
+
+  <view name="jmpmanjr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="jmpmanjr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="jmpmanjra">
+    <image file="Jumpman Junior (USA, Europe).png" />
+  </element>
+
+  <view name="jmpmanjra Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="jmpmanjra">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="jungleh">
+    <image file="Jungle Hunt (USA).png" />
+  </element>
+
+  <view name="jungleh Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="jungleh">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="kubjpok">
+    <image file="Ken Uston Blackjack-Poker (USA, Europe).png" />
+  </element>
+
+  <view name="kubjpok Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="kubjpok">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="keykaper">
+    <image file="Keystone Kapers (USA).png" />
+  </element>
+
+  <view name="keykaper Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="keykaper">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ladybug">
+    <image file="Lady Bug (USA, Europe).png" />
+  </element>
+
+  <view name="ladybug Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ladybug">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="leeper">
+    <image file="Learning with Leeper (USA).png" />
+  </element>
+
+  <view name="leeper Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="leeper">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="linklogc">
+    <image file="Linking Logic (USA).png" />
+  </element>
+
+  <view name="linklogc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="linklogc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="logiclvl">
+    <image file="Logic Levels (USA).png" />
+  </element>
+
+  <view name="logiclvl Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="logiclvl">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="looping">
+    <image file="Looping (USA, Europe).png" />
+  </element>
+
+  <view name="looping Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="looping">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mash">
+    <image file="M.A.S.H (Europe) (Proto).png" />
+  </element>
+
+  <view name="mash Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mash">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="powheman">
+    <image file="Masters of the Universe - The Power of He-Man (USA) (Proto).png" />
+  </element>
+
+  <view name="powheman Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="powheman">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="memmanor">
+    <image file="Memory Manor (USA).png" />
+  </element>
+
+  <view name="memmanor Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="memmanor">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="meteosho">
+    <image file="Meteoric Shower (Europe).png" />
+  </element>
+
+  <view name="meteosho Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="meteosho">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mine2049">
+    <image file="Miner 2049er Starring Bounty Bob (USA, Europe).png" />
+  </element>
+
+  <view name="mine2049 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mine2049">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mine2049a">
+    <image file="Miner 2049er Starring Bounty Bob (USA, Europe).png" />
+  </element>
+
+  <view name="mine2049a Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mine2049a">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="monkey">
+    <image file="Monkey Academy (USA).png" />
+  </element>
+
+  <view name="monkey Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="monkey">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="monkeyp">
+    <image file="Monkey Academy (USA).png" />
+  </element>
+
+  <view name="monkeyp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="monkeyp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="monkeyp1">
+    <image file="Monkey Academy (USA).png" />
+  </element>
+
+  <view name="monkeyp1 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="monkeyp1">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="montezum">
+    <image file="Montezuma&#39;s Revenge (USA).png" />
+  </element>
+
+  <view name="montezum Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="montezum">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="moonswpr">
+    <image file="Moonsweeper (USA, Europe).png" />
+  </element>
+
+  <view name="moonswpr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="moonswpr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="moonswpra">
+    <image file="Moonsweeper (USA, Europe).png" />
+  </element>
+
+  <view name="moonswpra Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="moonswpra">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mtcracer">
+    <image file="Motocross Racer (USA).png" />
+  </element>
+
+  <view name="mtcracer Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mtcracer">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mtcracera">
+    <image file="Motocross Racer (USA).png" />
+  </element>
+
+  <view name="mtcracera Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mtcracera">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mking">
+    <image file="Mountain King (USA).png" />
+  </element>
+
+  <view name="mking Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mking">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mkinga">
+    <image file="Mountain King (USA).png" />
+  </element>
+
+  <view name="mkinga Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mkinga">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mtrap">
+    <image file="Mouse Trap (USA, Europe).png" />
+  </element>
+
+  <view name="mtrap Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mtrap">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mtrapa">
+    <image file="Mouse Trap (USA, Europe).png" />
+  </element>
+
+  <view name="mtrapa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mtrapa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mrdo">
+    <image file="Mr. Do! (USA, Europe).png" />
+  </element>
+
+  <view name="mrdo Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mrdo">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mrdoa">
+    <image file="Mr. Do! (USA, Europe).png" />
+  </element>
+
+  <view name="mrdoa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mrdoa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="docastle">
+    <image file="Mr. Do!&#39;s Castle (USA).png" />
+  </element>
+
+  <view name="docastle Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="docastle">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="novablst">
+    <image file="Nova Blast (USA, Europe).png" />
+  </element>
+
+  <view name="novablst Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="novablst">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="numbump">
+    <image file="Number Bumper (USA) (Beta).png" />
+  </element>
+
+  <view name="numbump Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="numbump">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="oilswell">
+    <image file="Oil&#39;s Well (USA).png" />
+  </element>
+
+  <view name="oilswell Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="oilswell">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="oilswella">
+    <image file="Oil&#39;s Well (USA).png" />
+  </element>
+
+  <view name="oilswella Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="oilswella">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="omegrace">
+    <image file="Omega Race (USA, Europe).png" />
+  </element>
+
+  <view name="omegrace Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="omegrace">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="orbit">
+    <image file="Orbit (USA) (Proto).png" />
+  </element>
+
+  <view name="orbit Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="orbit">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="pacman">
+    <image file="Pac-Man (USA) (Proto).png" />
+  </element>
+
+  <view name="pacman Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="pacman">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="pepper2">
+    <image file="Pepper II (USA, Europe).png" />
+  </element>
+
+  <view name="pepper2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="pepper2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="pitfall2">
+    <image file="Pitfall II - Lost Caverns (USA).png" />
+  </element>
+
+  <view name="pitfall2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="pitfall2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="pitfall">
+    <image file="Pitfall! (USA).png" />
+  </element>
+
+  <view name="pitfall Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="pitfall">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="pitfalla">
+    <image file="Pitfall! (USA).png" />
+  </element>
+
+  <view name="pitfalla Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="pitfalla">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="pitstop">
+    <image file="Pitstop (USA).png" />
+  </element>
+
+  <view name="pitstop Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="pitstop">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="pitstopa">
+    <image file="Pitstop (USA).png" />
+  </element>
+
+  <view name="pitstopa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="pitstopa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="popeye">
+    <image file="Popeye (USA).png" />
+  </element>
+
+  <view name="popeye Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="popeye">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="popeyea">
+    <image file="Popeye (USA).png" />
+  </element>
+
+  <view name="popeyea Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="popeyea">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="porkys">
+    <image file="Porky&#39;s (USA) (Proto).png" />
+  </element>
+
+  <view name="porkys Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="porkys">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="power">
+    <image file="Power Lords - Quest for Volcan (USA) (Proto 1).png" />
+  </element>
+
+  <view name="power Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="power">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="qbert">
+    <image file="Q-bert (USA).png" />
+  </element>
+
+  <view name="qbert Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="qbert">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="qberta">
+    <image file="Q-bert (USA).png" />
+  </element>
+
+  <view name="qberta Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="qberta">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="qbertqub">
+    <image file="Q-bert (USA).png" />
+  </element>
+
+  <view name="qbertqub Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="qbertqub">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="qbertquba">
+    <image file="Q-bert (USA).png" />
+  </element>
+
+  <view name="qbertquba Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="qbertquba">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="quintana">
+    <image file="Quest for Quintana Roo (USA).png" />
+  </element>
+
+  <view name="quintana Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="quintana">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="quintanaa">
+    <image file="Quest for Quintana Roo (USA).png" />
+  </element>
+
+  <view name="quintanaa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="quintanaa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="riveraid">
+    <image file="River Raid (USA).png" />
+  </element>
+
+  <view name="riveraid Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="riveraid">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="robinh">
+    <image file="Robin Hood (USA).png" />
+  </element>
+
+  <view name="robinh Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="robinh">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="robinha">
+    <image file="Robin Hood (USA).png" />
+  </element>
+
+  <view name="robinha Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="robinha">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="rocnrope">
+    <image file="Roc &#39;N Rope (USA, Europe).png" />
+  </element>
+
+  <view name="rocnrope Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="rocnrope">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="rockbolt">
+    <image file="Rock n&#39; Bolt (USA).png" />
+  </element>
+
+  <view name="rockbolt Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="rockbolt">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="rockbolta">
+    <image file="Rock n&#39; Bolt (USA).png" />
+  </element>
+
+  <view name="rockbolta Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="rockbolta">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="rocky">
+    <image file="Rocky - Super Action Boxing (USA, Europe).png" />
+  </element>
+
+  <view name="rocky Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="rocky">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="rollover">
+    <image file="Rolloverture (USA).png" />
+  </element>
+
+  <view name="rollover Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="rollover">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="tapper">
+    <image file="Root Beer Tapper (USA).png" />
+  </element>
+
+  <view name="tapper Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="tapper">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="sammylf">
+    <image file="Sammy Lightfoot (USA).png" />
+  </element>
+
+  <view name="sammylf Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="sammylf">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="sammylfa">
+    <image file="Sammy Lightfoot (USA).png" />
+  </element>
+
+  <view name="sammylfa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="sammylfa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="secalpha">
+    <image file="Sector Alpha (USA).png" />
+  </element>
+
+  <view name="secalpha Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="secalpha">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="sewersam">
+    <image file="Sewer Sam (USA).png" />
+  </element>
+
+  <view name="sewersam Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="sewersam">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="lancelot">
+    <image file="Sir Lancelot (USA).png" />
+  </element>
+
+  <view name="lancelot Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="lancelot">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="skiing">
+    <image file="Skiing (USA).png" />
+  </element>
+
+  <view name="skiing Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="skiing">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="skiinga">
+    <image file="Skiing (USA).png" />
+  </element>
+
+  <view name="skiinga Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="skiinga">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="slither">
+    <image file="Slither (USA, Europe).png" />
+  </element>
+
+  <view name="slither Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="slither">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="slurpy">
+    <image file="Slurpy (USA).png" />
+  </element>
+
+  <view name="slurpy Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="slurpy">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="smurfpnt">
+    <image file="Smurf - Paint &#39;n&#39; Play WORKSHOP (USA, Europe).png" />
+  </element>
+
+  <view name="smurfpnt Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="smurfpnt">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="smurf">
+    <image file="Smurf - Rescue in Gargamel&#39;s Castle (USA, Europe).png" />
+  </element>
+
+  <view name="smurf Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="smurf">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="smurfa">
+    <image file="Smurf - Rescue in Gargamel&#39;s Castle (USA, Europe).png" />
+  </element>
+
+  <view name="smurfa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="smurfa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="smurfp">
+    <image file="Smurf - Rescue in Gargamel&#39;s Castle (USA, Europe).png" />
+  </element>
+
+  <view name="smurfp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="smurfp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="spacfury">
+    <image file="Space Fury (USA, Europe).png" />
+  </element>
+
+  <view name="spacfury Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="spacfury">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="spacfurya">
+    <image file="Space Fury (USA, Europe).png" />
+  </element>
+
+  <view name="spacfurya Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="spacfurya">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="panic">
+    <image file="Space Panic (USA, Europe).png" />
+  </element>
+
+  <view name="panic Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="panic">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="panica">
+    <image file="Space Panic (USA, Europe).png" />
+  </element>
+
+  <view name="panica Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="panica">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="spectron">
+    <image file="Spectron (USA).png" />
+  </element>
+
+  <view name="spectron Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="spectron">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="spyhunt">
+    <image file="Spy Hunter (USA).png" />
+  </element>
+
+  <view name="spyhunt Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="spyhunt">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="spyhuntp">
+    <image file="Spy Hunter (USA).png" />
+  </element>
+
+  <view name="spyhuntp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="spyhuntp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="spyhuntp1">
+    <image file="Spy Hunter (USA).png" />
+  </element>
+
+  <view name="spyhuntp1 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="spyhuntp1">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="squishem">
+    <image file="Squish&#39;em Featuring Sam (USA).png" />
+  </element>
+
+  <view name="squishem Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="squishem">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="startrek">
+    <image file="Star Trek - Strategic Operations Simulator (USA).png" />
+  </element>
+
+  <view name="startrek Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="startrek">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="starwars">
+    <image file="Star Wars - The Arcade Game (USA).png" />
+  </element>
+
+  <view name="starwars Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="starwars">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="starwarsp">
+    <image file="Star Wars - The Arcade Game (USA).png" />
+  </element>
+
+  <view name="starwarsp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="starwarsp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="steam">
+    <image file="Steamroller (USA) (Proto).png" />
+  </element>
+
+  <view name="steam Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="steam">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="strikeit">
+    <image file="Strike It! (Europe).png" />
+  </element>
+
+  <view name="strikeit Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="strikeit">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="subroc">
+    <image file="Subroc (USA, Europe).png" />
+  </element>
+
+  <view name="subroc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="subroc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="subroca">
+    <image file="Subroc (USA, Europe).png" />
+  </element>
+
+  <view name="subroca Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="subroca">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="sabaseb">
+    <image file="Super Action Baseball (USA).png" />
+  </element>
+
+  <view name="sabaseb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="sabaseb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="safootb">
+    <image file="Super Action Football (Europe).png" />
+  </element>
+
+  <view name="safootb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="safootb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="safootbu">
+    <image file="Super Action Football (USA).png" />
+  </element>
+
+  <view name="safootbu Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="safootbu">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="scobra">
+    <image file="Super Cobra (USA).png" />
+  </element>
+
+  <view name="scobra Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="scobra">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="scobraa">
+    <image file="Super Cobra (USA).png" />
+  </element>
+
+  <view name="scobraa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="scobraa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="suprtest">
+    <image file="Super Controller Tester (USA).png" />
+  </element>
+
+  <view name="suprtest Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="suprtest">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="sprcross">
+    <image file="Super Cross Force (USA, Europe).png" />
+  </element>
+
+  <view name="sprcross Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="sprcross">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="superdk">
+    <image file="Super DK! (USA) (Proto).png" />
+  </element>
+
+  <view name="superdk Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="superdk">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="suprdkjr">
+    <image file="Super DK! Junior (USA) (Proto).png" />
+  </element>
+
+  <view name="suprdkjr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="suprdkjr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ssketch">
+    <image file="Super Sketch - Sketch Master (USA) (Program) (Unl).png" />
+  </element>
+
+  <view name="ssketch Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ssketch">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="sword">
+    <image file="Sword and the Sorcerer, The (USA) (Demo).png" />
+  </element>
+
+  <view name="sword Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="sword">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="tankwars">
+    <image file="Tank Wars (Europe).png" />
+  </element>
+
+  <view name="tankwars Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="tankwars">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="tarzan">
+    <image file="Tarzan (USA, Europe).png" />
+  </element>
+
+  <view name="tarzan Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="tarzan">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="telly">
+    <image file="Telly Turtle (USA).png" />
+  </element>
+
+  <view name="telly Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="telly">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="threshld">
@@ -2643,9 +2867,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="threshld">
+    <element ref="threshld">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="timeplt">
@@ -2657,9 +2881,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="timeplt">
+    <element ref="timeplt">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="tomarc">
@@ -2671,9 +2895,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="tomarc">
+    <element ref="tomarc">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="ttennis">
@@ -2685,9 +2909,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="ttennis">
+    <element ref="ttennis">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="tunnels">
@@ -2699,9 +2923,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="tunnels">
+    <element ref="tunnels">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="turbo">
@@ -2713,9 +2937,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="turbo">
+    <element ref="turbo">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="tutankhm">
@@ -2727,9 +2951,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="tutankhm">
+    <element ref="tutankhm">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="tutankhma">
@@ -2741,9 +2965,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="tutankhma">
+    <element ref="tutankhma">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="upndown">
@@ -2755,9 +2979,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="upndown">
+    <element ref="upndown">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="venture">
@@ -2769,13 +2993,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="venture">
+    <element ref="venture">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="victory">
-    <image file="Victory (USA).png" />
+    <image file="Victory (Europe).png" />
   </element>
 
   <view name="victory Artwork">
@@ -2783,9 +3007,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="victory">
+    <element ref="victory">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="victoryu">
@@ -2797,13 +3021,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="victoryu">
+    <element ref="victoryu">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="hustler">
-    <image file="Video Hustler (Europe) (Proto 1).png" />
+    <image file="Video Hustler (USA) (Proto 1).png" />
   </element>
 
   <view name="hustler Artwork">
@@ -2811,23 +3035,23 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="hustler">
+    <element ref="hustler">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="wargames">
-    <image file="War Games (USA, Europe).png" />
+  <element name="hustler1">
+    <image file="Video Hustler (USA) (Proto 1).png" />
   </element>
 
-  <view name="wargames Artwork">
+  <view name="hustler1 Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="wargames">
+    <element ref="hustler1">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="warroom">
@@ -2839,9 +3063,37 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="warroom">
+    <element ref="warroom">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="wargames">
+    <image file="WarGames (USA, Europe).png" />
+  </element>
+
+  <view name="wargames Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="wargames">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="wargamesp">
+    <image file="WarGames (USA, Europe).png" />
+  </element>
+
+  <view name="wargamesp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="wargamesp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="wingwar">
@@ -2853,9 +3105,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="wingwar">
+    <element ref="wingwar">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="wizmath">
@@ -2867,9 +3119,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="wizmath">
+    <element ref="wizmath">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="wordfeud">
@@ -2881,13 +3133,27 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="wordfeud">
+    <element ref="wordfeud">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="yolk">
+    <image file="Yolk&#39;s on you, The (Europe) (Proto).png" />
+  </element>
+
+  <view name="yolk Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="yolk">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="zaxxon">
-    <image file="Zaxxon (Taiwan) (En) (Unl).png" />
+    <image file="Zaxxon (USA, Europe).png" />
   </element>
 
   <view name="zaxxon Artwork">
@@ -2895,9 +3161,37 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="zaxxon">
+    <element ref="zaxxon">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="zaxxont">
+    <image file="Zaxxon (USA, Europe).png" />
+  </element>
+
+  <view name="zaxxont Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="zaxxont">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="zenji">
+    <image file="Zenji (USA).png" />
+  </element>
+
+  <view name="zenji Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="zenji">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
 </mamelayout>

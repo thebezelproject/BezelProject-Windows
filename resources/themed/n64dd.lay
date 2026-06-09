@@ -11,13 +11,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="n64dd">
+    <element ref="n64dd">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="dezaemon">
-    <image file="Dezaemon DD (Japan) (Proto).png" />
+    <image file="Dezaemon DD (Japan) (Proto) (1998-02-23T210259) (Expansion) [b].cfg.png" />
   </element>
 
   <view name="dezaemon Artwork">
@@ -25,13 +25,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="dezaemon">
+    <element ref="dezaemon">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="fzerox">
-    <image file="F-Zero X - Expansion Kit (Japan).png" />
+    <image file="F-Zero X - Expansion Kit (Japan).cfg.png" />
   </element>
 
   <view name="fzerox Artwork">
@@ -39,55 +39,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="fzerox">
+    <element ref="fzerox">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="progolf">
-    <image file="Nihon Pro Golf Tour 64 (Japan) [b].png" />
-  </element>
-
-  <view name="progolf Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="progolf">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="kdoshin">
-    <image file="Kyojin no Doshin (Japan).png" />
-  </element>
-
-  <view name="kdoshin Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="kdoshin">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="kdoshind">
-    <image file="Kyojin no Doshin (Japan) (Demo) (Kiosk) [b].png" />
-  </element>
-
-  <view name="kdoshind Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="kdoshind">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="kdoshin2">
-    <image file="Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou (Japan) [b].png" />
+    <image file="Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou (Japan) [b].cfg.png" />
   </element>
 
   <view name="kdoshin2 Artwork">
@@ -95,13 +53,41 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="kdoshin2">
+    <element ref="kdoshin2">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="kdoshind">
+    <image file="Kyojin no Doshin (Japan).cfg.png" />
+  </element>
+
+  <view name="kdoshind Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="kdoshind">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="kdoshin">
+    <image file="Kyojin no Doshin (Japan).cfg.png" />
+  </element>
+
+  <view name="kdoshin Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="kdoshin">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="mariartc">
-    <image file="Mario Artist - Communication Kit (Japan).png" />
+    <image file="Mario Artist - Communication Kit (Japan).cfg.png" />
   </element>
 
   <view name="mariartc Artwork">
@@ -109,13 +95,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="mariartc">
+    <element ref="mariartc">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="mariartp">
-    <image file="Mario Artist - Paint Studio (Japan).png" />
+    <image file="Mario Artist - Paint Studio (Japan).cfg.png" />
   </element>
 
   <view name="mariartp Artwork">
@@ -123,13 +109,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="mariartp">
+    <element ref="mariartp">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="mariartg">
-    <image file="Mario Artist - Polygon Studio (Japan).png" />
+    <image file="Mario Artist - Polygon Studio (Japan).cfg.png" />
   </element>
 
   <view name="mariartg Artwork">
@@ -137,13 +123,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="mariartg">
+    <element ref="mariartg">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="mariartt">
-    <image file="Mario Artist - Talent Studio (Japan).png" />
+    <image file="Mario Artist - Talent Studio (Japan).cfg.png" />
   </element>
 
   <view name="mariartt Artwork">
@@ -151,13 +137,41 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="mariartt">
+    <element ref="mariartt">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="progolf">
+    <image file="Nihon Pro Golf Tour 64 (Japan) [b].cfg.png" />
+  </element>
+
+  <view name="progolf Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="progolf">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="randnet">
+    <image file="Randnet Disk (Japan) [b].cfg.png" />
+  </element>
+
+  <view name="randnet Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="randnet">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="simcity">
-    <image file="SimCity 64 (Japan).png" />
+    <image file="SimCity 64 (Japan).cfg.png" />
   </element>
 
   <view name="simcity Artwork">
@@ -165,9 +179,23 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="simcity">
+    <element ref="simcity">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="sm64">
+    <image file="Super Mario 64 - Disk Version (Japan) (Proto).cfg.png" />
+  </element>
+
+  <view name="sm64 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="sm64">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
 </mamelayout>

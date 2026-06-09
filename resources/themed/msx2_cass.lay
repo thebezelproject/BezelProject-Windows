@@ -1,0 +1,3842 @@
+<!-- default.lay file for The Bezel Project Microsoft MSX2 pack -->
+
+<mamelayout version="2">
+
+  <element name="msx2_cart">
+    <image file="Microsoft-MSX2.png" />
+  </element>
+
+  <view name="Microsoft MSX2 System Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="msx2_cart">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="1942">
+    <image file="1942 (Japan).png" />
+  </element>
+
+  <view name="1942 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="1942">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="1942k">
+    <image file="1942 (Japan).png" />
+  </element>
+
+  <view name="1942k Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="1942k">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="aressha">
+    <image file="A Ressha de Ikou MSX (Japan).png" />
+  </element>
+
+  <view name="aressha Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="aressha">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="acrojet">
+    <image file="AcroJet (Japan).png" />
+  </element>
+
+  <view name="acrojet Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="acrojet">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="aleste">
+    <image file="Aleste (Japan).png" />
+  </element>
+
+  <view name="aleste Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="aleste">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="alestew">
+    <image file="Aleste (Japan).png" />
+  </element>
+
+  <view name="alestew Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="alestew">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="amesoccr">
+    <image file="American Soccer (Japan).png" />
+  </element>
+
+  <view name="amesoccr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="amesoccr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="genchohi">
+    <image file="Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan).png" />
+  </element>
+
+  <view name="genchohi Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="genchohi">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="genchohi">
+    <image file="Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan).png" />
+  </element>
+
+  <view name="genchohi Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="genchohi">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="genchohia">
+    <image file="Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan).png" />
+  </element>
+
+  <view name="genchohia Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="genchohia">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="genghis">
+    <image file="Aoki Ookami to Shiroki Mejika - Genghis Khan (Japan).png" />
+  </element>
+
+  <view name="genghis Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="genghis">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="genghis">
+    <image file="Aoki Ookami to Shiroki Mejika - Genghis Khan (Japan).png" />
+  </element>
+
+  <view name="genghis Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="genghis">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="genghisa">
+    <image file="Aoki Ookami to Shiroki Mejika - Genghis Khan (Japan).png" />
+  </element>
+
+  <view name="genghisa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="genghisa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="arctica">
+    <image file="Arctic - Active Rail Playing (Japan) (Alt).png" />
+  </element>
+
+  <view name="arctica Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="arctica">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="arctic">
+    <image file="Arctic - Active Rail Playing (Japan).png" />
+  </element>
+
+  <view name="arctic Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="arctic">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ashguine">
+    <image file="AshGuine - Densetsu no Seisenshi (Japan).png" />
+  </element>
+
+  <view name="ashguine Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ashguine">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ashguin2">
+    <image file="AshGuine Story II - Kokuu no Gajou (Japan).png" />
+  </element>
+
+  <view name="ashguin2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ashguin2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ashguin3">
+    <image file="AshGuine Story III - Fukushuu no Honoo (Japan).png" />
+  </element>
+
+  <view name="ashguin3 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ashguin3">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ashguin3b">
+    <image file="AshGuine Story III - Fukushuu no Honoo (Japan).png" />
+  </element>
+
+  <view name="ashguin3b Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ashguin3b">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ashguin3a">
+    <image file="AshGuine Story III - Fukushuu no Honoo (Japan).png" />
+  </element>
+
+  <view name="ashguin3a Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ashguin3a">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="bublbobla">
+    <image file="Bubble Bobble (Japan) (Alt).png" />
+  </element>
+
+  <view name="bublbobla Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="bublbobla">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="bublbobl">
+    <image file="Bubble Bobble (Japan).png" />
+  </element>
+
+  <view name="bublbobl Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="bublbobl">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="cockpit">
+    <image file="Cockpit, The (Japan).png" />
+  </element>
+
+  <view name="cockpit Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="cockpit">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="crimson">
+    <image file="Crimson (Japan).png" />
+  </element>
+
+  <view name="crimson Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="crimson">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="crimson">
+    <image file="Crimson (Japan).png" />
+  </element>
+
+  <view name="crimson Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="crimson">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="crimsona">
+    <image file="Crimson (Japan).png" />
+  </element>
+
+  <view name="crimsona Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="crimsona">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="daikokai">
+    <image file="Daikoukai Jidai (Japan).png" />
+  </element>
+
+  <view name="daikokai Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="daikokai">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="daikokai">
+    <image file="Daikoukai Jidai (Japan).png" />
+  </element>
+
+  <view name="daikokai Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="daikokai">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="daisenr">
+    <image file="Daisenryaku (Japan).png" />
+  </element>
+
+  <view name="daisenr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="daisenr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="daisenrb">
+    <image file="Daisenryaku (Japan).png" />
+  </element>
+
+  <view name="daisenrb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="daisenrb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="daisenrc">
+    <image file="Daisenryaku (Japan).png" />
+  </element>
+
+  <view name="daisenrc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="daisenrc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="daisenra">
+    <image file="Daisenryaku (Japan).png" />
+  </element>
+
+  <view name="daisenra Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="daisenra">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="daisenms">
+    <image file="Daisenryaku (Japan).png" />
+  </element>
+
+  <view name="daisenms Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="daisenms">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="drwn4078b">
+    <image file="Darwin 4078 (Japan) (Alt 2).png" />
+  </element>
+
+  <view name="drwn4078b Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="drwn4078b">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="drwn4078b">
+    <image file="Darwin 4078 (Japan) (Alt 2).png" />
+  </element>
+
+  <view name="drwn4078b Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="drwn4078b">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="drwn4078a">
+    <image file="Darwin 4078 (Japan) (Alt).png" />
+  </element>
+
+  <view name="drwn4078a Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="drwn4078a">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="drwn4078a">
+    <image file="Darwin 4078 (Japan) (Alt).png" />
+  </element>
+
+  <view name="drwn4078a Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="drwn4078a">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="drwn4078">
+    <image file="Darwin 4078 (Japan).png" />
+  </element>
+
+  <view name="drwn4078 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="drwn4078">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="drwn4078">
+    <image file="Darwin 4078 (Japan).png" />
+  </element>
+
+  <view name="drwn4078 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="drwn4078">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="dforestb">
+    <image file="Deep Forest (Japan) (Alt).png" />
+  </element>
+
+  <view name="dforestb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dforestb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="dforestc">
+    <image file="Deep Forest (Japan) (Alt).png" />
+  </element>
+
+  <view name="dforestc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dforestc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="dforesta">
+    <image file="Deep Forest (Japan) (Alt).png" />
+  </element>
+
+  <view name="dforesta Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dforesta">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="dforesta">
+    <image file="Deep Forest (Japan) (Alt).png" />
+  </element>
+
+  <view name="dforesta Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dforesta">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="dforest">
+    <image file="Deep Forest (Japan).png" />
+  </element>
+
+  <view name="dforest Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dforest">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="dforest">
+    <image file="Deep Forest (Japan).png" />
+  </element>
+
+  <view name="dforest Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dforest">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="dires">
+    <image file="Dires - Giger Loop (Japan).png" />
+  </element>
+
+  <view name="dires Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dires">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="dires">
+    <image file="Dires - Giger Loop (Japan).png" />
+  </element>
+
+  <view name="dires Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dires">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="diresa">
+    <image file="Dires - Giger Loop (Japan).png" />
+  </element>
+
+  <view name="diresa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="diresa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="bshash2">
+    <image file="Double Vision (Japan).png" />
+  </element>
+
+  <view name="bshash2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="bshash2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="dbuster">
+    <image file="Dragon Buster (Japan).png" />
+  </element>
+
+  <view name="dbuster Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dbuster">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="dbuster">
+    <image file="Dragon Buster (Japan).png" />
+  </element>
+
+  <view name="dbuster Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dbuster">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="dbustera">
+    <image file="Dragon Buster (Japan).png" />
+  </element>
+
+  <view name="dbustera Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dbustera">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="dquest">
+    <image file="Dragon Quest (Japan).png" />
+  </element>
+
+  <view name="dquest Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dquest">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="dquest2a">
+    <image file="Dragon Quest II (Japan) (Alt).png" />
+  </element>
+
+  <view name="dquest2a Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dquest2a">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="dslayer4a">
+    <image file="Dragon Slayer IV - Drasle Family (Japan) (Alt).png" />
+  </element>
+
+  <view name="dslayer4a Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dslayer4a">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="dslayer4">
+    <image file="Dragon Slayer IV - Drasle Family (Japan).png" />
+  </element>
+
+  <view name="dslayer4 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dslayer4">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="druida">
+    <image file="Druid (Japan) (Alt).png" />
+  </element>
+
+  <view name="druida Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="druida">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="druid">
+    <image file="Druid (Japan).png" />
+  </element>
+
+  <view name="druid Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="druid">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="druid">
+    <image file="Druid (Japan).png" />
+  </element>
+
+  <view name="druid Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="druid">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="dynabowla">
+    <image file="Dynamite Bowl (Japan) (Alt).png" />
+  </element>
+
+  <view name="dynabowla Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dynabowla">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="dynabowl">
+    <image file="Dynamite Bowl (Japan).png" />
+  </element>
+
+  <view name="dynabowl Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dynabowl">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="eidolon">
+    <image file="Eidolon, The (Europe).png" />
+  </element>
+
+  <view name="eidolon Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="eidolon">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="elthlead">
+    <image file="Elthlead (Japan).png" />
+  </element>
+
+  <view name="elthlead Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="elthlead">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="emperor">
+    <image file="Empereur, L&#39; (Japan).png" />
+  </element>
+
+  <view name="emperor Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="emperor">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="emperor">
+    <image file="Empereur, L&#39; (Japan).png" />
+  </element>
+
+  <view name="emperor Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="emperor">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="emperora">
+    <image file="Empereur, L&#39; (Japan).png" />
+  </element>
+
+  <view name="emperora Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="emperora">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="eurosens">
+    <image file="Europe Sensen (Japan).png" />
+  </element>
+
+  <view name="eurosens Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="eurosens">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="eurosens">
+    <image file="Europe Sensen (Japan).png" />
+  </element>
+
+  <view name="eurosens Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="eurosens">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="eurosensa">
+    <image file="Europe Sensen (Japan).png" />
+  </element>
+
+  <view name="eurosensa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="eurosensa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="f15se">
+    <image file="F-15 Strike Eagle (Japan).png" />
+  </element>
+
+  <view name="f15se Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="f15se">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="famiparo">
+    <image file="Famicle Parodic (Japan).png" />
+  </element>
+
+  <view name="famiparo Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="famiparo">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="famibill">
+    <image file="Family Billiards (Japan).png" />
+  </element>
+
+  <view name="famibill Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="famibill">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="famiboxi">
+    <image file="Family Boxing - MSX Title Match (Japan).png" />
+  </element>
+
+  <view name="famiboxi Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="famiboxi">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="fantzon2a">
+    <image file="Fantasy Zone II - The Tears of Opa-Opa (Japan) (Alt).png" />
+  </element>
+
+  <view name="fantzon2a Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="fantzon2a">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="fantzon2">
+    <image file="Fantasy Zone II - The Tears of Opa-Opa (Japan).png" />
+  </element>
+
+  <view name="fantzon2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="fantzon2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="murdclub">
+    <image file="Final Mystery Murder Club - Satsujin Club (Japan).png" />
+  </element>
+
+  <view name="murdclub Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="murdclub">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="murdclub">
+    <image file="Final Mystery Murder Club - Satsujin Club (Japan).png" />
+  </element>
+
+  <view name="murdclub Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="murdclub">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="fireball">
+    <image file="Fire Ball (Japan).png" />
+  </element>
+
+  <view name="fireball Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="fireball">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="fleetco2">
+    <image file="Fleet Commander II - Koukon no Kaiiki (Japan).png" />
+  </element>
+
+  <view name="fleetco2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="fleetco2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="gakumono">
+    <image file="Gakuen Monogatari - High School Story (Japan).png" />
+  </element>
+
+  <view name="gakumono Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="gakumono">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="gakumono">
+    <image file="Gakuen Monogatari - High School Story (Japan).png" />
+  </element>
+
+  <view name="gakumono Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="gakumono">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="gambler2">
+    <image file="Gambler Jiko Chuushinha 2 - Jishou! Kyougou Janshi Hen (Japan).png" />
+  </element>
+
+  <view name="gambler2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="gambler2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ggoemon">
+    <image file="Ganbare Goemon! - Karakuri Douchuu (Japan) (Wii U Virtual Console).png" />
+  </element>
+
+  <view name="ggoemon Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ggoemon">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="garakuta">
+    <image file="Garakuta (Japan).png" />
+  </element>
+
+  <view name="garakuta Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="garakuta">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="garyuoua">
+    <image file="Garyuu Ou (Japan) (Alt).png" />
+  </element>
+
+  <view name="garyuoua Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="garyuoua">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="garyuou">
+    <image file="Garyuu Ou (Japan).png" />
+  </element>
+
+  <view name="garyuou Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="garyuou">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="gekipennb">
+    <image file="Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 2).png" />
+  </element>
+
+  <view name="gekipennb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="gekipennb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="gekipennc">
+    <image file="Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 3).png" />
+  </element>
+
+  <view name="gekipennc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="gekipennc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="gekipenna">
+    <image file="Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt).png" />
+  </element>
+
+  <view name="gekipenna Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="gekipenna">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="gekipenn">
+    <image file="Gekitotsu Pennant Race - Pro Yakyuu, The (Japan).png" />
+  </element>
+
+  <view name="gekipenn Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="gekipenn">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="gekipen2">
+    <image file="Gekitotsu Pennant Race 2 (Japan).png" />
+  </element>
+
+  <view name="gekipen2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="gekipen2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="gekipen2s">
+    <image file="Gekitotsu Pennant Race 2 (Japan).png" />
+  </element>
+
+  <view name="gekipen2s Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="gekipen2s">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="grlyblok">
+    <image file="Girly Block (Japan).png" />
+  </element>
+
+  <view name="grlyblok Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="grlyblok">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="hacker">
+    <image file="Hacker (Japan).png" />
+  </element>
+
+  <view name="hacker Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="hacker">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="hainomaj">
+    <image file="Hai no Majutsushi (Japan).png" />
+  </element>
+
+  <view name="hainomaj Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="hainomaj">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="halnote">
+    <image file="Hal Note (Japan).png" />
+  </element>
+
+  <view name="halnote Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="halnote">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="androgyna">
+    <image file="Han Seimei Senki Andorogynus (Japan) (Alt).png" />
+  </element>
+
+  <view name="androgyna Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="androgyna">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="androgyn">
+    <image file="Han Seimei Senki Andorogynus (Japan).png" />
+  </element>
+
+  <view name="androgyn Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="androgyn">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="hardball">
+    <image file="Hard Ball (Japan).png" />
+  </element>
+
+  <view name="hardball Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="hardball">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="herolanc">
+    <image file="Heroes of the Lance (Japan).png" />
+  </element>
+
+  <view name="herolanc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="herolanc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="higemaru">
+    <image file="Higemaru Makai Shima - Nanatsu no Shima Daibouken (Japan).png" />
+  </element>
+
+  <view name="higemaru Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="higemaru">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="highsc">
+    <image file="High School! Kimengumi (Japan).png" />
+  </element>
+
+  <view name="highsc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="highsc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="hinotorib">
+    <image file="Hinotori - Houou Hen (Japan) (Alt 2).png" />
+  </element>
+
+  <view name="hinotorib Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="hinotorib">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="hinotoria">
+    <image file="Hinotori - Houou Hen (Japan) (Alt).png" />
+  </element>
+
+  <view name="hinotoria Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="hinotoria">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="hinotori">
+    <image file="Hinotori - Houou Hen (Japan).png" />
+  </element>
+
+  <view name="hinotori Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="hinotori">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="holein1sa">
+    <image file="Hole in One Special (Japan) (Alt).png" />
+  </element>
+
+  <view name="holein1sa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="holein1sa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="holein1s">
+    <image file="Hole in One Special (Japan).png" />
+  </element>
+
+  <view name="holein1s Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="holein1s">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="hydlide3">
+    <image file="Hydlide 3 - The Space Memories (Japan).png" />
+  </element>
+
+  <view name="hydlide3 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="hydlide3">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="hydlide3w">
+    <image file="Hydlide 3 - The Space Memories (Japan).png" />
+  </element>
+
+  <view name="hydlide3w Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="hydlide3w">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ideyumj">
+    <image file="Ide Yousuke Meijin no Jissen Mahjong (Japan).png" />
+  </element>
+
+  <view name="ideyumj Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ideyumj">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ikaria">
+    <image file="Ikari (Japan) (Alt).png" />
+  </element>
+
+  <view name="ikaria Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ikaria">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ikari">
+    <image file="Ikari (Japan).png" />
+  </element>
+
+  <view name="ikari Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ikari">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="aclassmj">
+    <image file="Inemuriryuu Asada Tetsuya no A-kyuu Mahjong (Japan).png" />
+  </element>
+
+  <view name="aclassmj Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="aclassmj">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="inindo">
+    <image file="Inindou - Datou Nobunaga (Japan).png" />
+  </element>
+
+  <view name="inindo Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="inindo">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="inindo">
+    <image file="Inindou - Datou Nobunaga (Japan).png" />
+  </element>
+
+  <view name="inindo Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="inindo">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="inindoa">
+    <image file="Inindou - Datou Nobunaga (Japan).png" />
+  </element>
+
+  <view name="inindoa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="inindoa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ishinara">
+    <image file="Ishin no Arashi (Japan).png" />
+  </element>
+
+  <view name="ishinara Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ishinara">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ishinara">
+    <image file="Ishin no Arashi (Japan).png" />
+  </element>
+
+  <view name="ishinara Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ishinara">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="janseia">
+    <image file="Jansei (Japan) (Alt).png" />
+  </element>
+
+  <view name="janseia Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="janseia">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="jansei">
+    <image file="Jansei (Japan).png" />
+  </element>
+
+  <view name="jansei Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="jansei">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="kempelen">
+    <image file="Kempelen Chess (Japan).png" />
+  </element>
+
+  <view name="kempelen Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="kempelen">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="kikikai">
+    <image file="Kiki Kaikai (Japan).png" />
+  </element>
+
+  <view name="kikikai Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="kikikai">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="kingkon2">
+    <image file="King Kong 2 - Yomigaeru Densetsu (Japan).png" />
+  </element>
+
+  <view name="kingkon2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="kingkon2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="kingkon2k">
+    <image file="King Kong 2 - Yomigaeru Densetsu (Japan).png" />
+  </element>
+
+  <view name="kingkon2k Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="kingkon2k">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="kisei">
+    <image file="Kisei (Japan).png" />
+  </element>
+
+  <view name="kisei Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="kisei">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="kororift">
+    <image file="Koronis Rift (Europe).png" />
+  </element>
+
+  <view name="kororift Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="kororift">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="labyrinta">
+    <image file="Labyrinth (Japan) (Alt).png" />
+  </element>
+
+  <view name="labyrinta Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="labyrinta">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="labyrint">
+    <image file="Labyrinth (Japan).png" />
+  </element>
+
+  <view name="labyrint Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="labyrint">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="lupin2a">
+    <image file="Lupin Sansei - Babylon no Ougon Densetsu (Japan) (Alt).png" />
+  </element>
+
+  <view name="lupin2a Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="lupin2a">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="lupin2">
+    <image file="Lupin Sansei - Babylon no Ougon Densetsu (Japan).png" />
+  </element>
+
+  <view name="lupin2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="lupin2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="lupina">
+    <image file="Lupin Sansei - Cagliostro no Shiro (Japan) (Alt).png" />
+  </element>
+
+  <view name="lupina Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="lupina">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="lupin">
+    <image file="Lupin Sansei - Cagliostro no Shiro (Japan).png" />
+  </element>
+
+  <view name="lupin Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="lupin">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="madridera">
+    <image file="Mad Rider (Japan) (Alt).png" />
+  </element>
+
+  <view name="madridera Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="madridera">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="madrider">
+    <image file="Mad Rider (Japan).png" />
+  </element>
+
+  <view name="madrider Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="madrider">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mikkokuk">
+    <image file="Maison Ikkoku - Kanketsu Hen - Sayonara, Soshite... (Japan).png" />
+  </element>
+
+  <view name="mikkokuk Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mikkokuk">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mikkokuk">
+    <image file="Maison Ikkoku - Kanketsu Hen - Sayonara, Soshite... (Japan).png" />
+  </element>
+
+  <view name="mikkokuk Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mikkokuk">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mikkokukb">
+    <image file="Maison Ikkoku - Kanketsu Hen - Sayonara, Soshite... (Japan).png" />
+  </element>
+
+  <view name="mikkokukb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mikkokukb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mikkokuka">
+    <image file="Maison Ikkoku - Kanketsu Hen - Sayonara, Soshite... (Japan).png" />
+  </element>
+
+  <view name="mikkokuka Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mikkokuka">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mikkoku">
+    <image file="Maison Ikkoku - Omoide no Photograph (Japan).png" />
+  </element>
+
+  <view name="mikkoku Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mikkoku">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mikkoku">
+    <image file="Maison Ikkoku - Omoide no Photograph (Japan).png" />
+  </element>
+
+  <view name="mikkoku Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mikkoku">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mikkokua">
+    <image file="Maison Ikkoku - Omoide no Photograph (Japan).png" />
+  </element>
+
+  <view name="mikkokua Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mikkokua">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="malayahi">
+    <image file="Malaya no Hibou (Japan).png" />
+  </element>
+
+  <view name="malayahi Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="malayahi">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mgear">
+    <image file="Metal Gear (Europe).png" />
+  </element>
+
+  <view name="mgear Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mgear">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mgearj">
+    <image file="Metal Gear (Japan).png" />
+  </element>
+
+  <view name="mgearj Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mgearj">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mgearjvc">
+    <image file="Metal Gear (Japan).png" />
+  </element>
+
+  <view name="mgearjvc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mgearjvc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mgear2ssd">
+    <image file="Metal Gear 2 - Solid Snake (Japan) (Demo).png" />
+  </element>
+
+  <view name="mgear2ssd Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mgear2ssd">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mgear2ss">
+    <image file="Metal Gear 2 - Solid Snake (Japan).png" />
+  </element>
+
+  <view name="mgear2ss Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mgear2ss">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mgear2ssvc">
+    <image file="Metal Gear 2 - Solid Snake (Japan).png" />
+  </element>
+
+  <view name="mgear2ssvc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mgear2ssvc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mg2maps">
+    <image file="Metal Gear 2 - Solid Snake (Japan).png" />
+  </element>
+
+  <view name="mg2maps Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mg2maps">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mirai">
+    <image file="Mirai (Japan).png" />
+  </element>
+
+  <view name="mirai Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mirai">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="moeronet">
+    <image file="Moero!! Nettou Yakyuu &#39;88 (Japan).png" />
+  </element>
+
+  <view name="moeronet Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="moeronet">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="nekkejuda">
+    <image file="Nekketsu Juudou (Japan) (Alt).png" />
+  </element>
+
+  <view name="nekkejuda Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="nekkejuda">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="nekkejud">
+    <image file="Nekketsu Juudou (Japan).png" />
+  </element>
+
+  <view name="nekkejud Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="nekkejud">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ninjakun">
+    <image file="Ninja-kun - Asura no Shou (Japan).png" />
+  </element>
+
+  <view name="ninjakun Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ninjakun">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="nobubufu">
+    <image file="Nobunaga no Yabou - Bushou Fuuun Roku (Japan).png" />
+  </element>
+
+  <view name="nobubufu Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="nobubufu">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="nobubufu">
+    <image file="Nobunaga no Yabou - Bushou Fuuun Roku (Japan).png" />
+  </element>
+
+  <view name="nobubufu Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="nobubufu">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="nobubufua">
+    <image file="Nobunaga no Yabou - Bushou Fuuun Roku (Japan).png" />
+  </element>
+
+  <view name="nobubufua Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="nobubufua">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="nobuseng">
+    <image file="Nobunaga no Yabou - Sengoku Gunyuuden (Japan).png" />
+  </element>
+
+  <view name="nobuseng Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="nobuseng">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="nobuseng">
+    <image file="Nobunaga no Yabou - Sengoku Gunyuuden (Japan).png" />
+  </element>
+
+  <view name="nobuseng Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="nobuseng">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="nobunag6">
+    <image file="Nobunaga no Yabou - Sengoku Gunyuuden (Japan).png" />
+  </element>
+
+  <view name="nobunag6 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="nobunag6">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="nobunaga">
+    <image file="Nobunaga no Yabou - Sengoku Gunyuuden (Japan).png" />
+  </element>
+
+  <view name="nobunaga Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="nobunaga">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="nobucho">
+    <image file="Nobunaga no Yabou - Zenkoku Ban (Japan).png" />
+  </element>
+
+  <view name="nobucho Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="nobucho">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="nobuzenk">
+    <image file="Nobunaga no Yabou - Zenkoku Ban (Japan).png" />
+  </element>
+
+  <view name="nobuzenk Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="nobuzenk">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="nobuzenk">
+    <image file="Nobunaga no Yabou - Zenkoku Ban (Japan).png" />
+  </element>
+
+  <view name="nobuzenk Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="nobuzenk">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="nobuzenkb">
+    <image file="Nobunaga no Yabou - Zenkoku Ban (Japan).png" />
+  </element>
+
+  <view name="nobuzenkb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="nobuzenkb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="nobuzenka">
+    <image file="Nobunaga no Yabou - Zenkoku Ban (Japan).png" />
+  </element>
+
+  <view name="nobuzenka Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="nobuzenka">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ogrea">
+    <image file="Ogre (Japan) (Alt).png" />
+  </element>
+
+  <view name="ogrea Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ogrea">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ogre">
+    <image file="Ogre (Japan).png" />
+  </element>
+
+  <view name="ogre Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ogre">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ouketaniec">
+    <image file="Ouke no Tani - El Giza no Fuuin - Edit Contest Yuushuu Sakuhinshuu (Japan).png" />
+  </element>
+
+  <view name="ouketaniec Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ouketaniec">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ouketani">
+    <image file="Ouke no Tani - El Giza no Fuuin (Japan).png" />
+  </element>
+
+  <view name="ouketani Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ouketani">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="outrun">
+    <image file="Out Run (Japan).png" />
+  </element>
+
+  <view name="outrun Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="outrun">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="pachipro">
+    <image file="Pachi Pro Densetsu (Japan).png" />
+  </element>
+
+  <view name="pachipro Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="pachipro">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="pacmania">
+    <image file="Pac-Mania (Japan).png" />
+  </element>
+
+  <view name="pacmania Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="pacmania">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="pacmania">
+    <image file="Pac-Mania (Japan).png" />
+  </element>
+
+  <view name="pacmania Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="pacmania">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="pacmaniaa">
+    <image file="Pac-Mania (Japan).png" />
+  </element>
+
+  <view name="pacmaniaa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="pacmaniaa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="penguin2a">
+    <image file="Penguin-kun Wars 2 (Japan) (Alt).png" />
+  </element>
+
+  <view name="penguin2a Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="penguin2a">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="penguin2">
+    <image file="Penguin-kun Wars 2 (Japan).png" />
+  </element>
+
+  <view name="penguin2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="penguin2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="predator">
+    <image file="Predator (Japan).png" />
+  </element>
+
+  <view name="predator Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="predator">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="famista">
+    <image file="Pro Yakyuu Family Stadium - Pennant Race (Japan).png" />
+  </element>
+
+  <view name="famista Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="famista">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="proyakfn">
+    <image file="Pro Yakyuu Fan - Telenet Stadium (Japan).png" />
+  </element>
+
+  <view name="proyakfn Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="proyakfn">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="proyakfn">
+    <image file="Pro Yakyuu Fan - Telenet Stadium (Japan).png" />
+  </element>
+
+  <view name="proyakfn Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="proyakfn">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="profmjg">
+    <image file="Professional Mahjong Gokuu (Japan).png" />
+  </element>
+
+  <view name="profmjg Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="profmjg">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="projcta2">
+    <image file="Project A2 - Shijousaidai no Hyouteki (Japan).png" />
+  </element>
+
+  <view name="projcta2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="projcta2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="quarthd">
+    <image file="Quarth (Japan) (Demo).png" />
+  </element>
+
+  <view name="quarthd Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="quarthd">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="quarth">
+    <image file="Quarth (Japan) (Demo).png" />
+  </element>
+
+  <view name="quarth Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="quarth">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="quarthk">
+    <image file="Quarth (Korea).png" />
+  </element>
+
+  <view name="quarthk Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="quarthk">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="quinpl">
+    <image file="Quinpl (Japan).png" />
+  </element>
+
+  <view name="quinpl Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="quinpl">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="quinpl">
+    <image file="Quinpl (Japan).png" />
+  </element>
+
+  <view name="quinpl Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="quinpl">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="quinplb">
+    <image file="Quinpl (Japan).png" />
+  </element>
+
+  <view name="quinplb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="quinplb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="quinpla">
+    <image file="Quinpl (Japan).png" />
+  </element>
+
+  <view name="quinpla Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="quinpla">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="rastan">
+    <image file="Rastan Saga (Japan).png" />
+  </element>
+
+  <view name="rastan Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="rastan">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="relics">
+    <image file="Relics (Japan).png" />
+  </element>
+
+  <view name="relics Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="relics">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="replicrt">
+    <image file="Replicart (Japan).png" />
+  </element>
+
+  <view name="replicrt Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="replicrt">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="rtishtar">
+    <image file="Return of Ishtar, The (Japan).png" />
+  </element>
+
+  <view name="rtishtar Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="rtishtar">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="retjelda">
+    <image file="Return of Jelda (Japan).png" />
+  </element>
+
+  <view name="retjelda Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="retjelda">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="retjelda">
+    <image file="Return of Jelda (Japan).png" />
+  </element>
+
+  <view name="retjelda Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="retjelda">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="retjeldaa">
+    <image file="Return of Jelda (Japan).png" />
+  </element>
+
+  <view name="retjeldaa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="retjeldaa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ricktomi">
+    <image file="Rick to Mick no Daibouken (Japan).png" />
+  </element>
+
+  <view name="ricktomi Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ricktomi">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="royalbld">
+    <image file="Royal Blood (Japan).png" />
+  </element>
+
+  <view name="royalbld Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="royalbld">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="royalbld">
+    <image file="Royal Blood (Japan).png" />
+  </element>
+
+  <view name="royalbld Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="royalbld">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="royalblda">
+    <image file="Royal Blood (Japan).png" />
+  </element>
+
+  <view name="royalblda Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="royalblda">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="sangokus">
+    <image file="Sangokushi (Japan).png" />
+  </element>
+
+  <view name="sangokus Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="sangokus">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="sangoku">
+    <image file="Sangokushi (Japan).png" />
+  </element>
+
+  <view name="sangoku Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="sangoku">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="sangoku2">
+    <image file="Sangokushi II (Japan).png" />
+  </element>
+
+  <view name="sangoku2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="sangoku2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="sangoku2">
+    <image file="Sangokushi II (Japan).png" />
+  </element>
+
+  <view name="sangoku2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="sangoku2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="sangoku2a">
+    <image file="Sangokushi II (Japan).png" />
+  </element>
+
+  <view name="sangoku2a Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="sangoku2a">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="scramble">
+    <image file="Scramble Formation (Japan).png" />
+  </element>
+
+  <view name="scramble Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="scramble">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="seikima2a">
+    <image file="Seikima II Special - Akuma no Gyakushuu (Japan) (Alt).png" />
+  </element>
+
+  <view name="seikima2a Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="seikima2a">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="seikima2">
+    <image file="Seikima II Special - Akuma no Gyakushuu (Japan).png" />
+  </element>
+
+  <view name="seikima2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="seikima2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="shanghai">
+    <image file="Shanghai (Japan).png" />
+  </element>
+
+  <view name="shanghai Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="shanghai">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="shanghai">
+    <image file="Shanghai (Japan).png" />
+  </element>
+
+  <view name="shanghai Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="shanghai">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="shanghaia">
+    <image file="Shanghai (Japan).png" />
+  </element>
+
+  <view name="shanghaia Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="shanghaia">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="deadbrn">
+    <image file="Shiryou Sensen - War of the Dead (Japan).png" />
+  </element>
+
+  <view name="deadbrn Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="deadbrn">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="deadbrna">
+    <image file="Shiryou Sensen - War of the Dead (Japan).png" />
+  </element>
+
+  <view name="deadbrna Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="deadbrna">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="shiryo">
+    <image file="Shiryou Sensen - War of the Dead (Japan).png" />
+  </element>
+
+  <view name="shiryo Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="shiryo">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="shiryo">
+    <image file="Shiryou Sensen - War of the Dead (Japan).png" />
+  </element>
+
+  <view name="shiryo Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="shiryo">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="shiryoa">
+    <image file="Shiryou Sensen - War of the Dead (Japan).png" />
+  </element>
+
+  <view name="shiryoa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="shiryoa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="spmanbow">
+    <image file="Space Manbow (Japan) (Wii U Virtual Console).png" />
+  </element>
+
+  <view name="spmanbow Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="spmanbow">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="starvirga">
+    <image file="Star Virgin (Japan) (Alt).png" />
+  </element>
+
+  <view name="starvirga Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="starvirga">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="starvirg">
+    <image file="Star Virgin (Japan).png" />
+  </element>
+
+  <view name="starvirg Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="starvirg">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="stramars">
+    <image file="Strategic Mars (Japan).png" />
+  </element>
+
+  <view name="stramars Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="stramars">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="suikoden">
+    <image file="Suikoden - Tenmei no Chikai (Japan).png" />
+  </element>
+
+  <view name="suikoden Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="suikoden">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="suikoden">
+    <image file="Suikoden - Tenmei no Chikai (Japan).png" />
+  </element>
+
+  <view name="suikoden Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="suikoden">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="suikodena">
+    <image file="Suikoden - Tenmei no Chikai (Japan).png" />
+  </element>
+
+  <view name="suikodena Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="suikodena">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="supdaisn">
+    <image file="Super Daisenryaku (Japan).png" />
+  </element>
+
+  <view name="supdaisn Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="supdaisn">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="supdaisn">
+    <image file="Super Daisenryaku (Japan).png" />
+  </element>
+
+  <view name="supdaisn Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="supdaisn">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="supdaisnmc">
+    <image file="Super Daisenryaku (Japan).png" />
+  </element>
+
+  <view name="supdaisnmc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="supdaisnmc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="srambosp">
+    <image file="Super Rambo Special (Japan).png" />
+  </element>
+
+  <view name="srambosp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="srambosp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="srambospk">
+    <image file="Super Rambo Special (Japan).png" />
+  </element>
+
+  <view name="srambospk Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="srambospk">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="srunner">
+    <image file="Super Runner (Japan).png" />
+  </element>
+
+  <view name="srunner Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="srunner">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="striton">
+    <image file="Super Tritorn (Japan).png" />
+  </element>
+
+  <view name="striton Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="striton">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="swdianna10">
+    <image file="Sword of Ianna, The (World) (Fr) (v1.2) (Aftermarket) (Unl).png" />
+  </element>
+
+  <view name="swdianna10 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="swdianna10">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="swdianna11">
+    <image file="Sword of Ianna, The (World) (Fr) (v1.2) (Aftermarket) (Unl).png" />
+  </element>
+
+  <view name="swdianna11 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="swdianna11">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="swdianna">
+    <image file="Sword of Ianna, The (World) (Fr) (v1.2) (Aftermarket) (Unl).png" />
+  </element>
+
+  <view name="swdianna Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="swdianna">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="swdianna12a">
+    <image file="Sword of Ianna, The (World) (Fr) (v1.2) (Aftermarket) (Unl).png" />
+  </element>
+
+  <view name="swdianna12a Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="swdianna12a">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="asteka2">
+    <image file="Taiyou no Shinden - Asteka II (Japan).png" />
+  </element>
+
+  <view name="asteka2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="asteka2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="tkshogi2">
+    <image file="Tanikawa Hiroshi no Shougi Shinan 2 (Japan).png" />
+  </element>
+
+  <view name="tkshogi2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="tkshogi2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="teiketsu">
+    <image file="Teitoku no Ketsudan (Japan).png" />
+  </element>
+
+  <view name="teiketsu Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="teiketsu">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="tengoku">
+    <image file="Tengoku Yoitoko (Japan).png" />
+  </element>
+
+  <view name="tengoku Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="tengoku">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="tetrisa">
+    <image file="Tetris (Japan).png" />
+  </element>
+
+  <view name="tetrisa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="tetrisa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="tetris">
+    <image file="Tetris (Japan).png" />
+  </element>
+
+  <view name="tetris Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="tetris">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="tetris">
+    <image file="Tetris (Japan).png" />
+  </element>
+
+  <view name="tetris Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="tetris">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="tetmas">
+    <image file="Tetris (Japan).png" />
+  </element>
+
+  <view name="tetmas Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="tetmas">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="topzip">
+    <image file="Topple Zip (Japan).png" />
+  </element>
+
+  <view name="topzip Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="topzip">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="usasa">
+    <image file="Treasure of Usas, The (Japan, Europe) (En) (Alt).png" />
+  </element>
+
+  <view name="usasa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="usasa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="usas">
+    <image file="Treasure of Usas, The (Japan, Europe) (En).png" />
+  </element>
+
+  <view name="usas Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="usas">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="sanpei">
+    <image file="Tsurikichi Sanpei - Blue Marine Hen (Japan).png" />
+  </element>
+
+  <view name="sanpei Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="sanpei">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="sanpei2">
+    <image file="Tsurikichi Sanpei - Tsuri Sennin Hen (Japan).png" />
+  </element>
+
+  <view name="sanpei2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="sanpei2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ultima3">
+    <image file="Ultima Exodus (Japan).png" />
+  </element>
+
+  <view name="ultima3 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ultima3">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="uruseiya">
+    <image file="Urusei Yatsura - Koi no Survival Birthday (Japan).png" />
+  </element>
+
+  <view name="uruseiya Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="uruseiya">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="uruseiyaa">
+    <image file="Urusei Yatsura - Koi no Survival Birthday (Japan).png" />
+  </element>
+
+  <view name="uruseiyaa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="uruseiyaa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="uruseiya">
+    <image file="Urusei Yatsura - Koi no Survival Birthday (Japan).png" />
+  </element>
+
+  <view name="uruseiya Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="uruseiya">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="vampkill2">
+    <image file="Vampire Killer (Japan, Europe) (En) (Alt 2).png" />
+  </element>
+
+  <view name="vampkill2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="vampkill2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="vampkill3">
+    <image file="Vampire Killer (Japan, Europe) (En) (Alt 3).png" />
+  </element>
+
+  <view name="vampkill3 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="vampkill3">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="victnin2">
+    <image file="Victorious Nine II - Koukou Yakyuu Hen (Japan).png" />
+  </element>
+
+  <view name="victnin2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="victnin2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="woodypoca">
+    <image file="Woody Poco (Japan) (Alt).png" />
+  </element>
+
+  <view name="woodypoca Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="woodypoca">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="woodypoc">
+    <image file="Woody Poco (Japan).png" />
+  </element>
+
+  <view name="woodypoc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="woodypoc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="xeviousa">
+    <image file="Xevious - Fardraut Saga (Japan) (Alt).png" />
+  </element>
+
+  <view name="xeviousa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="xeviousa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="xevious">
+    <image file="Xevious - Fardraut Saga (Japan).png" />
+  </element>
+
+  <view name="xevious Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="xevious">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="yaksa">
+    <image file="Yaksa (Japan).png" />
+  </element>
+
+  <view name="yaksa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="yaksa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="yaksa">
+    <image file="Yaksa (Japan).png" />
+  </element>
+
+  <view name="yaksa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="yaksa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="yaksaa">
+    <image file="Yaksa (Japan).png" />
+  </element>
+
+  <view name="yaksaa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="yaksaa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="yamaskrt">
+    <image file="Yamamura Misa Suspense - Kyoto Ryuu no Tera Satsujinjiken (Japan).png" />
+  </element>
+
+  <view name="yamaskrt Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="yamaskrt">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="yuureikun">
+    <image file="Yuurei-kun (Japan).png" />
+  </element>
+
+  <view name="yuureikun Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="yuureikun">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="yuurei">
+    <image file="Yuurei-kun (Japan).png" />
+  </element>
+
+  <view name="yuurei Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="yuurei">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="zanacexa">
+    <image file="Zanac Ex (Japan) (Alt).png" />
+  </element>
+
+  <view name="zanacexa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="zanacexa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="zanacex">
+    <image file="Zanac Ex (Japan).png" />
+  </element>
+
+  <view name="zanacex Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="zanacex">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="zanacexw">
+    <image file="Zanac Ex (Japan).png" />
+  </element>
+
+  <view name="zanacexw Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="zanacexw">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="zoids">
+    <image file="Zoids - Chuuou Tairiku no Tatakai (Japan).png" />
+  </element>
+
+  <view name="zoids Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="zoids">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="zombihun">
+    <image file="Zombie Hunter (Japan).png" />
+  </element>
+
+  <view name="zombihun Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="zombihun">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="zukkokeb">
+    <image file="Zukkoke Yajikita Onmitsu Douchuu (Japan) (Alt).png" />
+  </element>
+
+  <view name="zukkokeb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="zukkokeb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="zukkokea">
+    <image file="Zukkoke Yajikita Onmitsu Douchuu (Japan) (Alt).png" />
+  </element>
+
+  <view name="zukkokea Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="zukkokea">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="zukkoke">
+    <image file="Zukkoke Yajikita Onmitsu Douchuu (Japan).png" />
+  </element>
+
+  <view name="zukkoke Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="zukkoke">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+</mamelayout>
+

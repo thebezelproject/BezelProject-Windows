@@ -11,13 +11,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="neocd">
+    <element ref="neocd">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="2020bb">
-    <image file="2020 Super Baseball (World).png" />
+    <image file="2020 Super Baseball (Japan) (En,Ja).png" />
   </element>
 
   <view name="2020bb Artwork">
@@ -25,9 +25,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="2020bb">
+    <element ref="2020bb">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="adkworld">
@@ -39,27 +39,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="adkworld">
+    <element ref="adkworld">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="alpham2">
-    <image file="Alpha Mission II (World).png" />
-  </element>
-
-  <view name="alpham2 Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="alpham2">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="aof3a">
-    <image file="Art of Fighting 3 - The Path of the Warrior (World).png" />
+    <image file="Art of Fighting - Ryuuko no Ken Gaiden ~ The Path of the Warrior - Art of Fighting 3 (World) (En,Ja,Es,Pt).png" />
   </element>
 
   <view name="aof3a Artwork">
@@ -67,55 +53,69 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="aof3a">
+    <element ref="aof3a">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="bjourney">
-    <image file="Raguy (Japan).png" />
+  <element name="alpham2">
+    <image file="ASO II - The Last Guardian ~ Alpha Mission II (Japan) (En,Ja).png" />
   </element>
 
-  <view name="bjourney Artwork">
+  <view name="alpham2 Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="bjourney">
+    <element ref="alpham2">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="breakers">
-    <image file="Breakers (Japan).png" />
+  <element name="lastblad">
+    <image file="Bakumatsu Roman - Gekka no Kenshi ~ The Last Blade (Japan) (En,Ja,Es,Pt).png" />
   </element>
 
-  <view name="breakers Artwork">
+  <view name="lastblad Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="breakers">
+    <element ref="lastblad">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="bstars">
-    <image file="Baseball Stars Professional (World).png" />
+  <element name="lastbld2">
+    <image file="Bakumatsu Roman Daini Maku - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana ~ The Last Blade 2 (Japan) (En,Ja,Es,Pt).png" />
   </element>
 
-  <view name="bstars Artwork">
+  <view name="lastbld2 Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="bstars">
+    <element ref="lastbld2">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="bbbuster">
+    <image file="Bang^2 Busters (France) (En,Ja) (Unl).png" />
+  </element>
+
+  <view name="bbbuster Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="bbbuster">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="bstars2">
-    <image file="Baseball Stars 2 (World).png" />
+    <image file="Baseball Stars 2 (Japan) (En,Ja).png" />
   </element>
 
   <view name="bstars2 Artwork">
@@ -123,9 +123,93 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="bstars2">
+    <element ref="bstars2">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="bstars">
+    <image file="Baseball Stars Professional (Japan) (En,Ja).png" />
+  </element>
+
+  <view name="bstars Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="bstars">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="turfmast">
+    <image file="Big Tournament Golf ~ Neo Turf Masters (Japan) (En,Ja).png" />
+  </element>
+
+  <view name="turfmast Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="turfmast">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="breakers">
+    <image file="Breakers (Japan) (En,Ja).png" />
+  </element>
+
+  <view name="breakers Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="breakers">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="burningf">
+    <image file="Burning Fight (Japan) (En,Ja).png" />
+  </element>
+
+  <view name="burningf Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="burningf">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="gowcaizr">
+    <image file="Choujin Gakuen - Gowcaizer ~ Voltage Fighter - Gowcaizer (World) (En,Ja).png" />
+  </element>
+
+  <view name="gowcaizr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="gowcaizr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ironclad">
+    <image file="Choutetsu Brikin&#39;ger ~ Ironclad - Tesshou Rusha (Japan) (En,Ja).png" />
+  </element>
+
+  <view name="ironclad Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ironclad">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="crsword">
@@ -137,13 +221,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="crsword">
+    <element ref="crsword">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="crsword2">
-    <image file="Crossed Swords II (Japan).png" />
+    <image file="Crossed Swords (Japan).png" />
   </element>
 
   <view name="crsword2 Artwork">
@@ -151,13 +235,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="crsword2">
+    <element ref="crsword2">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="cyberlip">
-    <image file="Cyber-Lip (World).png" />
+    <image file="Cyber-Lip (Japan) (En,Ja).png" />
   </element>
 
   <view name="cyberlip Artwork">
@@ -165,13 +249,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="cyberlip">
+    <element ref="cyberlip">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="doubledr">
-    <image file="Double Dragon (World).png" />
+    <image file="Double Dragon (Export) (En,Ja).png" />
   </element>
 
   <view name="doubledr Artwork">
@@ -179,41 +263,97 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="doubledr">
+    <element ref="doubledr">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="fatfury3">
-    <image file="Fatal Fury 3 - Road to the Final Victory (World).png" />
+  <element name="doubledra">
+    <image file="Double Dragon (Japan) (En,Ja) (Rev 1).png" />
   </element>
 
-  <view name="fatfury3 Artwork">
+  <view name="doubledra Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="fatfury3">
+    <element ref="doubledra">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="fatfury3a">
-    <image file="Fatal Fury 3 - Road to the Final Victory (World).png" />
+  <element name="strhoop">
+    <image file="Dunk Dream ~ Street Slam ~ Street Hoop (World).png" />
   </element>
 
-  <view name="fatfury3a Artwork">
+  <view name="strhoop Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="fatfury3a">
+    <element ref="strhoop">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="kabukikl">
+    <image file="Far East of Eden - Tengai Makyou Shinden ~ Far East of Eden - Kabuki Klash (Japan) (En,Ja).png" />
+  </element>
+
+  <view name="kabukikl Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="kabukikl">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="karnovr">
+    <image file="Fighter&#39;s History Dynamite ~ Karnov&#39;s Revenge (World) (En,Ja).png" />
+  </element>
+
+  <view name="karnovr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="karnovr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="3countb">
+    <image file="Fire Suplex ~ 3 Count Bout (World) (En,Ja).png" />
+  </element>
+
+  <view name="3countb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="3countb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="wjammers">
+    <image file="Flying Power Disc ~ Windjammers (Japan) (En,Ja).png" />
+  </element>
+
+  <view name="wjammers Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="wjammers">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="fbfrenzy">
-    <image file="Football Frenzy (World).png" />
+    <image file="Football Frenzy (Japan) (En,Ja).png" />
   </element>
 
   <view name="fbfrenzy Artwork">
@@ -221,27 +361,41 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="fbfrenzy">
+    <element ref="fbfrenzy">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="fromanc2">
-    <image file="Idol Mahjong Final Romance 2 (Japan).png" />
+  <element name="pgoal">
+    <image file="Futsal - 5 on 5 Mini Soccer ~ PleasureGoal - 5 on 5 Mini Soccer (Japan) (En,Ja).png" />
   </element>
 
-  <view name="fromanc2 Artwork">
+  <view name="pgoal Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="fromanc2">
+    <element ref="pgoal">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="savagere">
+    <image file="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt).png" />
+  </element>
+
+  <view name="savagere Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="savagere">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="galaxyfg">
-    <image file="Galaxy Fight - Universal Warriors (World).png" />
+    <image file="Galaxy Fight - Universal Warriors (Japan) (En,Ja,Es).png" />
   </element>
 
   <view name="galaxyfg Artwork">
@@ -249,9 +403,79 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="galaxyfg">
+    <element ref="galaxyfg">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="fatfury1">
+    <image file="Garou Densetsu - Shukumei no Tatakai ~ Fatal Fury - King of Fighters (Japan) (En,Ja).png" />
+  </element>
+
+  <view name="fatfury1 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="fatfury1">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="fatfury2">
+    <image file="Garou Densetsu 2 ~ Fatal Fury 2 (Japan) (En,Ja).png" />
+  </element>
+
+  <view name="fatfury2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="fatfury2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="fatfury3a">
+    <image file="Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Japan) (En,Ja,Es,Pt).png" />
+  </element>
+
+  <view name="fatfury3a Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="fatfury3a">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="fatfury3">
+    <image file="Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Japan) (En,Ja,Es,Pt).png" />
+  </element>
+
+  <view name="fatfury3 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="fatfury3">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="fatfursp">
+    <image file="Garou Densetsu Special ~ Fatal Fury Special (Japan) (En,Ja).png" />
+  </element>
+
+  <view name="fatfursp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="fatfursp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="gpilots">
@@ -263,23 +487,23 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="gpilots">
+    <element ref="gpilots">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="ironclad">
-    <image file="Choutetsu Brikin&#39;ger (Japan).png" />
+  <element name="fromanc2">
+    <image file="Idol Mahjong - Final Romance 2 (Japan).png" />
   </element>
 
-  <view name="ironclad Artwork">
+  <view name="fromanc2 Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="ironclad">
+    <element ref="fromanc2">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="janshin">
@@ -291,41 +515,27 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="janshin">
+    <element ref="janshin">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="kabukikl">
-    <image file="Tengai Makyou Shinden - Far East of Eden (Japan).png" />
+  <element name="joyjoy">
+    <image file="Joy Joy Kid ~ Puzzled (World) (En,Ja).png" />
   </element>
 
-  <view name="kabukikl Artwork">
+  <view name="joyjoy Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="kabukikl">
+    <element ref="joyjoy">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="karnovr">
-    <image file="Karnov&#39;s Revenge (World).png" />
-  </element>
-
-  <view name="karnovr Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="karnovr">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="kof94">
-    <image file="King of Fighters &#39;94, The (World).png" />
+    <image file="King of Fighters &#39;94, The (World) (En,Ja).png" />
   </element>
 
   <view name="kof94 Artwork">
@@ -333,13 +543,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="kof94">
+    <element ref="kof94">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="kof94a">
-    <image file="King of Fighters &#39;94, The (World).png" />
+    <image file="King of Fighters &#39;94, The (World) (En,Ja) (Rev 1).png" />
   </element>
 
   <view name="kof94a Artwork">
@@ -347,27 +557,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="kof94a">
+    <element ref="kof94a">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="kof95">
-    <image file="King of Fighters &#39;95, The (World).png" />
-  </element>
-
-  <view name="kof95 Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="kof95">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="kof95a">
-    <image file="King of Fighters &#39;95, The (World).png" />
+    <image file="King of Fighters &#39;95, The (Japan) (En,Ja) (Rev 1).png" />
   </element>
 
   <view name="kof95a Artwork">
@@ -375,41 +571,27 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="kof95a">
+    <element ref="kof95a">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="kof96">
-    <image file="King of Fighters &#39;96, The (World).png" />
+  <element name="kof95">
+    <image file="King of Fighters &#39;95, The (World) (En,Ja).png" />
   </element>
 
-  <view name="kof96 Artwork">
+  <view name="kof95 Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="kof96">
+    <element ref="kof95">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="kof96a">
-    <image file="King of Fighters &#39;96, The (World).png" />
-  </element>
-
-  <view name="kof96a Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="kof96a">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="kof96col">
-    <image file="King of Fighters &#39;96 Neo Geo Collection, The (Japan).png" />
+    <image file="King of Fighters &#39;96 NeoGeo Collection, The (Japan).png" />
   </element>
 
   <view name="kof96col Artwork">
@@ -417,13 +599,41 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="kof96col">
+    <element ref="kof96col">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="kof96">
+    <image file="King of Fighters &#39;96, The (World) (En,Ja).png" />
+  </element>
+
+  <view name="kof96 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="kof96">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="kof96a">
+    <image file="King of Fighters &#39;96, The (World) (En,Ja).png" />
+  </element>
+
+  <view name="kof96a Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="kof96a">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="kof97">
-    <image file="King of Fighters &#39;97, The (World).png" />
+    <image file="King of Fighters &#39;97, The (Japan) (En,Ja).png" />
   </element>
 
   <view name="kof97 Artwork">
@@ -431,13 +641,27 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="kof97">
+    <element ref="kof97">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="kof98">
+    <image file="King of Fighters &#39;98, The - Dream Match Never Ends ~ The King of Fighters &#39;98 - The Slugfest (Japan) (En,Ja).png" />
+  </element>
+
+  <view name="kof98 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="kof98">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="kof99">
-    <image file="King of Fighters &#39;99, The - Millennium Battle (World).png" />
+    <image file="King of Fighters &#39;99, The ~ The King of Fighters &#39;99 - Millennium Battle (World) (En,Ja,Es,Pt).png" />
   </element>
 
   <view name="kof99 Artwork">
@@ -445,27 +669,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="kof99">
+    <element ref="kof99">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="kotm2">
-    <image file="King of the Monsters 2 - The Next Thing (World).png" />
-  </element>
-
-  <view name="kotm2 Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="kotm2">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="lasthope">
-    <image file="Last Hope (World) (Unl).png" />
+    <image file="Last Hope (Germany) (Unl).png" />
   </element>
 
   <view name="lasthope Artwork">
@@ -473,27 +683,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="lasthope">
+    <element ref="lasthope">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="lbowling">
-    <image file="League Bowling (World).png" />
-  </element>
-
-  <view name="lbowling Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="lbowling">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="lresort">
-    <image file="Last Resort (World).png" />
+    <image file="Last Resort (Japan) (En,Ja).png" />
   </element>
 
   <view name="lresort Artwork">
@@ -501,13 +697,27 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="lresort">
+    <element ref="lresort">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="lbowling">
+    <image file="League Bowling (Japan) (En,Ja).png" />
+  </element>
+
+  <view name="lbowling Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="lbowling">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="magdrop2">
-    <image file="Magical Drop 2 (Japan).png" />
+    <image file="Magical Drop 2 (Japan) (En,Ja).png" />
   </element>
 
   <view name="magdrop2 Artwork">
@@ -515,13 +725,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="magdrop2">
+    <element ref="magdrop2">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="maglord">
-    <image file="Magician Lord (Japan).png" />
+    <image file="Magician Lord (Japan) (En,Ja).png" />
   </element>
 
   <view name="maglord Artwork">
@@ -529,13 +739,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="maglord">
+    <element ref="maglord">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="mahretsu">
-    <image file="Mahjong Kyoretsuden - Nishi Nihon Hen (Japan).png" />
+    <image file="Mahjong-kyou Retsuden - Nishi Nihon-hen (Japan).png" />
   </element>
 
   <view name="mahretsu Artwork">
@@ -543,27 +753,27 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="mahretsu">
+    <element ref="mahretsu">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="mosyougi">
-    <image file="Shougi no Tatsujin - Master of Syougi (Japan).png" />
+  <element name="mslug">
+    <image file="Metal Slug (Japan) (En,Ja).png" />
   </element>
 
-  <view name="mosyougi Artwork">
+  <view name="mslug Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="mosyougi">
+    <element ref="mslug">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="mslug2">
-    <image file="Metal Slug 2 (World).png" />
+    <image file="Metal Slug (Japan) (En,Ja).png" />
   </element>
 
   <view name="mslug2 Artwork">
@@ -571,13 +781,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="mslug2">
+    <element ref="mslug2">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="mutnat">
-    <image file="Mutation Nation (World).png" />
+    <image file="Mutation Nation (Japan) (En,Ja).png" />
   </element>
 
   <view name="mutnat Artwork">
@@ -585,13 +795,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="mutnat">
+    <element ref="mutnat">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="nam1975">
-    <image file="NAM-1975 (World).png" />
+    <image file="Nam-1975 (Japan) (En,Ja).png" />
   </element>
 
   <view name="nam1975 Artwork">
@@ -599,41 +809,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="nam1975">
+    <element ref="nam1975">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="ncombat">
-    <image file="Ninja Combat (Japan).png" />
-  </element>
-
-  <view name="ncombat Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="ncombat">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="ncommand">
-    <image file="Ninja Commando (Japan).png" />
-  </element>
-
-  <view name="ncommand Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="ncommand">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="neodrift">
-    <image file="Neo DriftOut - New Technology (Japan).png" />
+    <image file="Neo Drift Out - New Technology (Japan).png" />
   </element>
 
   <view name="neodrift Artwork">
@@ -641,13 +823,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="neodrift">
+    <element ref="neodrift">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="ngcdspec">
-    <image file="Neo Geo CD Special (World).png" />
+    <image file="Neo-Geo CD Special (Japan).png" />
   </element>
 
   <view name="ngcdspec Artwork">
@@ -655,13 +837,55 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="ngcdspec">
+    <element ref="ngcdspec">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="kotm2">
+    <image file="Next Thing, The - King of the Monsters 2 (World) (En,Ja).png" />
+  </element>
+
+  <view name="kotm2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="kotm2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ncombat">
+    <image file="Ninja Combat (Japan) (En,Ja).png" />
+  </element>
+
+  <view name="ncombat Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ncombat">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ncommand">
+    <image file="Ninja Commando (Japan) (En,Ja).png" />
+  </element>
+
+  <view name="ncommand Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ncommand">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="ninjamas">
-    <image file="Ninja Master&#39;s Haou Ninpou-Chou (Japan).png" />
+    <image file="Ninja Master&#39;s - Haou Ninpou Chou (Japan) (En,Ja).png" />
   </element>
 
   <view name="ninjamas Artwork">
@@ -669,13 +893,27 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="ninjamas">
+    <element ref="ninjamas">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="zintrick">
+    <image file="Oshidashi Zintrick ~ ZinTricK (Japan) (En,Ja).png" />
+  </element>
+
+  <view name="zintrick Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="zintrick">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="overtop">
-    <image file="OverTop (Japan).png" />
+    <image file="OverTop (Japan) (En,Ja).png" />
   </element>
 
   <view name="overtop Artwork">
@@ -683,27 +921,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="overtop">
+    <element ref="overtop">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="pgoal">
-    <image file="Futsal - 5 on 5 Mini Soccer (Japan).png" />
-  </element>
-
-  <view name="pgoal Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="pgoal">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="pspikes2">
-    <image file="Power Spikes II (Japan).png" />
+    <image file="Power Spikes II (Japan) (En,Ja).png" />
   </element>
 
   <view name="pspikes2 Artwork">
@@ -711,9 +935,37 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="pspikes2">
+    <element ref="pspikes2">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="pulstar">
+    <image file="Pulstar (Japan) (En,Ja).png" />
+  </element>
+
+  <view name="pulstar Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="pulstar">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="pbobble">
+    <image file="Puzzle Bobble ~ Bust-A-Move (Japan) (En,Ja).png" />
+  </element>
+
+  <view name="pbobble Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="pbobble">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="quizkof">
@@ -725,167 +977,27 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="quizkof">
+    <element ref="quizkof">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="rbff1">
-    <image file="Real Bout Fatal Fury (World).png" />
+  <element name="bjourney">
+    <image file="Raguy ~ Blue&#39;s Journey (Japan) (En,Ja).png" />
   </element>
 
-  <view name="rbff1 Artwork">
+  <view name="bjourney Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="rbff1">
+    <element ref="bjourney">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="rbff2">
-    <image file="Real Bout Fatal Fury 2 - The Newcomers (World).png" />
-  </element>
-
-  <view name="rbff2 Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="rbff2">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="rbffspec">
-    <image file="Real Bout Fatal Fury Special (World).png" />
-  </element>
-
-  <view name="rbffspec Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="rbffspec">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="ridhero">
-    <image file="Riding Hero (World).png" />
-  </element>
-
-  <view name="ridhero Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="ridhero">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="roboarmy">
-    <image file="Robo Army (World).png" />
-  </element>
-
-  <view name="roboarmy Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="roboarmy">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="samsho4">
-    <image file="Samurai Shodown IV - Amakusa&#39;s Revenge (World).png" />
-  </element>
-
-  <view name="samsho4 Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="samsho4">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="stakwin">
-    <image file="Stakes Winner - GI Kanzen Seiha Heno Machi (Japan).png" />
-  </element>
-
-  <view name="stakwin Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="stakwin">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="superspy">
-    <image file="Super Spy, The (World).png" />
-  </element>
-
-  <view name="superspy Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="superspy">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="tophuntr">
-    <image file="Top Hunter - Roddy &amp; Cathy (World).png" />
-  </element>
-
-  <view name="tophuntr Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="tophuntr">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="totc">
-    <image file="Treasure of The Caribbean (World) (Unl).png" />
-  </element>
-
-  <view name="totc Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="totc">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="tpgolf">
-    <image file="Top Player&#39;s Golf (World).png" />
-  </element>
-
-  <view name="tpgolf Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="tpgolf">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="trally">
-    <image file="Rally Chase (World).png" />
+    <image file="Rally Chase (Japan) (En,Ja).png" />
   </element>
 
   <view name="trally Artwork">
@@ -893,13 +1005,419 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="trally">
+    <element ref="trally">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="rbff1">
+    <image file="Real Bout Garou Densetsu ~ Real Bout Fatal Fury (World) (En,Ja,Es,Pt).png" />
+  </element>
+
+  <view name="rbff1 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="rbff1">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="rbff2">
+    <image file="Real Bout Garou Densetsu 2 - The Newcomers ~ Real Bout Fatal Fury 2 - The Newcomers (Japan) (En,Ja).png" />
+  </element>
+
+  <view name="rbff2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="rbff2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="rbffspec">
+    <image file="Real Bout Garou Densetsu Special ~ Real Bout Fatal Fury Special (World) (En,Ja,Es,Pt).png" />
+  </element>
+
+  <view name="rbffspec Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="rbffspec">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ridhero">
+    <image file="Riding Hero (Japan) (En,Ja).png" />
+  </element>
+
+  <view name="ridhero Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ridhero">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="roboarmy">
+    <image file="Robo Army (Japan) (En,Ja).png" />
+  </element>
+
+  <view name="roboarmy Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="roboarmy">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="aof3">
+    <image file="Ryuuko no Ken ~ Art of Fighting (World) (En,Ja,Es).png" />
+  </element>
+
+  <view name="aof3 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="aof3">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="aof">
+    <image file="Ryuuko no Ken ~ Art of Fighting (World) (En,Ja,Es).png" />
+  </element>
+
+  <view name="aof Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="aof">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="aof2">
+    <image file="Ryuuko no Ken 2 ~ Art of Fighting 2 (World) (En,Ja,Es).png" />
+  </element>
+
+  <view name="aof2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="aof2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="samsho4">
+    <image file="Samurai Spirits - Amakusa Kourin ~ Samurai Shodown IV - Amakusa&#39;s Revenge (World) (En,Ja,Es,Pt).png" />
+  </element>
+
+  <view name="samsho4 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="samsho4">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="samsho3">
+    <image file="Samurai Spirits - Zankurou Musouken ~ Samurai Shodown III (World) (En,Ja,Es,Pt).png" />
+  </element>
+
+  <view name="samsho3 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="samsho3">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="samsho">
+    <image file="Samurai Spirits ~ Samurai Shodown (Japan) (En,Ja).png" />
+  </element>
+
+  <view name="samsho Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="samsho">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="sengoku">
+    <image file="Sengoku Denshou ~ Sengoku (Japan) (En,Ja).png" />
+  </element>
+
+  <view name="sengoku Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="sengoku">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="sengoku2">
+    <image file="Sengoku Denshou 2 ~ Sengoku 2 (Japan) (En,Ja).png" />
+  </element>
+
+  <view name="sengoku2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="sengoku2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="samsho2">
+    <image file="Shin Samurai Spirits - Haoumaru Jigokuhen ~ Samurai Shodown II (World) (En,Ja).png" />
+  </element>
+
+  <view name="samsho2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="samsho2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ragnagrd">
+    <image file="Shinouken ~ Ragnagard (Japan) (En,Ja,Es).png" />
+  </element>
+
+  <view name="ragnagrd Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ragnagrd">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="samsprpg">
+    <image file="Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan).png" />
+  </element>
+
+  <view name="samsprpg Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="samsprpg">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mosyougi">
+    <image file="Shougi no Tatsujin - Master of Syougi (Japan).png" />
+  </element>
+
+  <view name="mosyougi Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mosyougi">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="socbrawl">
+    <image file="Soccer Brawl (World).png" />
+  </element>
+
+  <view name="socbrawl Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="socbrawl">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="sonicwi2">
+    <image file="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja).png" />
+  </element>
+
+  <view name="sonicwi2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="sonicwi2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="sonicwi3">
+    <image file="Sonic Wings 3 ~ Aero Fighters 3 (Japan) (En,Ja).png" />
+  </element>
+
+  <view name="sonicwi3 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="sonicwi3">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="stakwin">
+    <image file="Stakes Winner - GI Kanzen Seiha e no Michi (Japan).png" />
+  </element>
+
+  <view name="stakwin Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="stakwin">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ssideki">
+    <image file="Super Sidekicks - Tokuten-ou (Japan) (En,Ja).png" />
+  </element>
+
+  <view name="ssideki Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ssideki">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="superspy">
+    <image file="Super Spy, The (Japan) (En,Ja).png" />
+  </element>
+
+  <view name="superspy Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="superspy">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ssideki2">
+    <image file="Tokuten-ou 2 ~ Super Sidekicks 2 - The World Championship (Japan) (En,Ja,Es).png" />
+  </element>
+
+  <view name="ssideki2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ssideki2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ssideki3">
+    <image file="Tokuten-ou 3 - Eikou e no Chousen ~ Super Sidekicks 3 - The Next Glory (World) (En,Ja,Fr,Es,It,Pt).png" />
+  </element>
+
+  <view name="ssideki3 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ssideki3">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="tophuntr">
+    <image file="Top Hunter - Roddy &amp; Cathy (World) (En,Ja).png" />
+  </element>
+
+  <view name="tophuntr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="tophuntr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="tpgolf">
+    <image file="Top Player&#39;s Golf (Japan) (En,Ja).png" />
+  </element>
+
+  <view name="tpgolf Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="tpgolf">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="totc">
+    <image file="Treasure of the Caribbean (France) (En,Ja) (Unl).png" />
+  </element>
+
+  <view name="totc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="totc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="aodk">
+    <image file="Tsuukai Gangan Koushinkyoku ~ Aggressors of Dark Kombat (World) (En,Ja).png" />
+  </element>
+
+  <view name="aodk Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="aodk">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="twinspri">
-    <image file="Twinkle Star Sprites (Japan).png" />
+    <image file="Twinkle Star Sprites (Japan) (En,Ja).png" />
   </element>
 
   <view name="twinspri Artwork">
@@ -907,9 +1425,93 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="twinspri">
+    <element ref="twinspri">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="viewpoin">
+    <image file="Viewpoint (Japan).png" />
+  </element>
+
+  <view name="viewpoin Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="viewpoin">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="wh1">
+    <image file="World Heroes (Japan) (En,Ja).png" />
+  </element>
+
+  <view name="wh1 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="wh1">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="wh2">
+    <image file="World Heroes 2 (Japan) (En,Ja).png" />
+  </element>
+
+  <view name="wh2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="wh2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="wh2j">
+    <image file="World Heroes 2 Jet (Japan) (En,Ja).png" />
+  </element>
+
+  <view name="wh2j Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="wh2j">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="whp">
+    <image file="World Heroes Perfect (World) (En,Ja).png" />
+  </element>
+
+  <view name="whp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="whp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="xenocris">
+    <image file="Xeno Crisis (World) (Unl).png" />
+  </element>
+
+  <view name="xenocris Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="xenocris">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
 </mamelayout>

@@ -59,7 +59,7 @@
   </view>
 
   <element name="bemaniws">
-    <image file="beat mania for WonderSwan (Japan).png" />
+    <image file="beatmania for WonderSwan (Japan).png" />
   </element>
 
   <view name="bemaniws Artwork">
@@ -68,20 +68,6 @@
     </screen>
 	
     <bezel element="bemaniws">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="bistrowb">
-    <image file="Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan).png" />
-  </element>
-
-  <view name="bistrowb Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="bistrowb">
       <bounds x="0" y="0" width="1920" height="1080" />
     </bezel>
   </view>
@@ -96,20 +82,6 @@
     </screen>
 	
     <bezel element="buffers">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="cclimber">
-    <image file="Crazy Climber (Japan).png" />
-  </element>
-
-  <view name="cclimber Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="cclimber">
       <bounds x="0" y="0" width="1920" height="1080" />
     </bezel>
   </view>
@@ -142,6 +114,48 @@
     </bezel>
   </view>
 
+  <element name="chocodngb">
+    <image file="Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 1).png" />
+  </element>
+
+  <view name="chocodngb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="chocodngb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="chocodnga">
+    <image file="Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2).png" />
+  </element>
+
+  <view name="chocodnga Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="chocodnga">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="chocodng">
+    <image file="Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 3).png" />
+  </element>
+
+  <view name="chocodng Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="chocodng">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
   <element name="choaniki">
     <image file="Chou Aniki - Otoko no Tamafuda (Japan) (Rev 4).png" />
   </element>
@@ -156,16 +170,16 @@
     </bezel>
   </view>
 
-  <element name="chocodng">
-    <image file="Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 1).png" />
+  <element name="youfumak">
+    <image file="Chou Denki Card Battle - Youfu Makai (Japan) (Rev 3).png" />
   </element>
 
-  <view name="chocodng Artwork">
+  <view name="youfumak Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="chocodng">
+    <bezel element="youfumak">
       <bounds x="0" y="0" width="1920" height="1080" />
     </bezel>
   </view>
@@ -184,8 +198,22 @@
     </bezel>
   </view>
 
+  <element name="cclimber">
+    <image file="Crazy Climber (Japan).png" />
+  </element>
+
+  <view name="cclimber Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="cclimber">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
   <element name="dendego">
-    <image file="Densha de Go! 2 (Japan).png" />
+    <image file="Densha de Go! (Japan) (Rev 1).png" />
   </element>
 
   <view name="dendego Artwork">
@@ -212,22 +240,36 @@
     </bezel>
   </view>
 
-  <element name="digi2tag">
-    <image file="Digimon Adventure 02 - Tag Tamers (Japan) (Rev 1).png" />
+  <element name="digimon1">
+    <image file="Digimon - Ver. WonderSwan (Hong Kong) (En).png" />
   </element>
 
-  <view name="digi2tag Artwork">
+  <view name="digimon1 Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="digi2tag">
+    <bezel element="digimon1">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="digianoda">
+    <image file="Digimon Adventure - Anode Tamer (Japan).png" />
+  </element>
+
+  <view name="digianoda Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="digianoda">
       <bounds x="0" y="0" width="1920" height="1080" />
     </bezel>
   </view>
 
   <element name="digianod">
-    <image file="Digimon Adventure - Anode Tamer (Japan).png" />
+    <image file="Digimon Adventure - Anode Tamer (Japan) (Rev 1).png" />
   </element>
 
   <view name="digianod Artwork">
@@ -254,6 +296,34 @@
     </bezel>
   </view>
 
+  <element name="digi2taga">
+    <image file="Digimon Adventure 02 - Tag Tamers (Japan).png" />
+  </element>
+
+  <view name="digi2taga Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="digi2taga">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="digi2tag">
+    <image file="Digimon Adventure 02 - Tag Tamers (Japan) (Rev 1).png" />
+  </element>
+
+  <view name="digi2tag Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="digi2tag">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
   <element name="digimon">
     <image file="Digital Monster - Ver. WonderSwan (Japan) (Rev 1).png" />
   </element>
@@ -264,20 +334,6 @@
     </screen>
 	
     <bezel element="digimon">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="digimon1">
-    <image file="Digimon - Ver. WonderSwan (Asia) (En).png" />
-  </element>
-
-  <view name="digimon1 Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="digimon1">
       <bounds x="0" y="0" width="1920" height="1080" />
     </bezel>
   </view>
@@ -310,6 +366,20 @@
     </bezel>
   </view>
 
+  <element name="tmtori">
+    <image file="D&#39;s Garage 21 Koubo Game - Tane o Maku Tori (Japan).png" />
+  </element>
+
+  <view name="tmtori Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="tmtori">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
   <element name="engacho">
     <image file="Engacho! for WonderSwan (Japan).png" />
   </element>
@@ -324,20 +394,6 @@
     </bezel>
   </view>
 
-  <element name="evangeln">
-    <image file="Neon Genesis Evangelion - Shito Ikusei (Japan).png" />
-  </element>
-
-  <view name="evangeln Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="evangeln">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
   <element name="feversan">
     <image file="Fever - Sankyo Koushiki Pachinko Simulation for WonderSwan (Japan).png" />
   </element>
@@ -348,6 +404,20 @@
     </screen>
 	
     <bezel element="feversan">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="flap2000">
+    <image file="Final Lap 2000 (Japan).png" />
+  </element>
+
+  <view name="flap2000 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="flap2000">
       <bounds x="0" y="0" width="1920" height="1080" />
     </bezel>
   </view>
@@ -380,16 +450,16 @@
     </bezel>
   </view>
 
-  <element name="flap2000">
-    <image file="Final Lap 2000 (Japan).png" />
+  <element name="onepmeza">
+    <image file="From TV Animation One Piece - Mezase Kaizoku Ou! (Japan).png" />
   </element>
 
-  <view name="flap2000 Artwork">
+  <view name="onepmeza Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="flap2000">
+    <bezel element="onepmeza">
       <bounds x="0" y="0" width="1920" height="1080" />
     </bezel>
   </view>
@@ -478,22 +548,22 @@
     </bezel>
   </view>
 
-  <element name="handsonr">
-    <image file="WonderSwan Handy Sonar (Japan) (Rev 1).png" />
+  <element name="harobotsa">
+    <image file="Harobots (Japan).png" />
   </element>
 
-  <view name="handsonr Artwork">
+  <view name="harobotsa Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="handsonr">
+    <bezel element="harobotsa">
       <bounds x="0" y="0" width="1920" height="1080" />
     </bezel>
   </view>
 
   <element name="harobots">
-    <image file="Harobots (Japan).png" />
+    <image file="Harobots (Japan) (Rev 1).png" />
   </element>
 
   <view name="harobots Artwork">
@@ -502,6 +572,20 @@
     </screen>
 	
     <bezel element="harobots">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="hxhishia">
+    <image file="Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 1).png" />
+  </element>
+
+  <view name="hxhishia Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="hxhishia">
       <bounds x="0" y="0" width="1920" height="1080" />
     </bezel>
   </view>
@@ -520,16 +604,30 @@
     </bezel>
   </view>
 
-  <element name="itoujunj">
-    <image file="Uzumaki - Noroi Simulation (Japan).png" />
+  <element name="bistrowb">
+    <image file="Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan).png" />
   </element>
 
-  <view name="itoujunj Artwork">
+  <view name="bistrowb Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="itoujunj">
+    <bezel element="bistrowb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="klonoa">
+    <image file="Kaze no Klonoa - Moonlight Museum (Japan).png" />
+  </element>
+
+  <view name="klonoa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="klonoa">
       <bounds x="0" y="0" width="1920" height="1080" />
     </bezel>
   </view>
@@ -562,22 +660,8 @@
     </bezel>
   </view>
 
-  <element name="klonoa">
-    <image file="Kaze no Klonoa - Moonlight Museum (Japan).png" />
-  </element>
-
-  <view name="klonoa Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="klonoa">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
   <element name="kosodate">
-    <image file="Kosodate Quiz Dokodemo - My Angel (Japan).png" />
+    <image file="Kosodate Quiz - Dokodemo My Angel (Japan).png" />
   </element>
 
   <view name="kosodate Artwork">
@@ -674,8 +758,22 @@
     </bezel>
   </view>
 
-  <element name="mahjongt">
+  <element name="mahjongta">
     <image file="Mahjong Touryuumon (Japan) (Rev 1).png" />
+  </element>
+
+  <view name="mahjongta Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="mahjongta">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="mahjongt">
+    <image file="Mahjong Touryuumon (Japan) (Rev 3).png" />
   </element>
 
   <view name="mahjongt Artwork">
@@ -698,34 +796,6 @@
     </screen>
 	
     <bezel element="makaimur">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="mconanmc">
-    <image file="Meitantei Conan - Majutsushi no Chousenjou! (Japan).png" />
-  </element>
-
-  <view name="mconanmc Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="mconanmc">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="mconannm">
-    <image file="Meitantei Conan - Nishi no Meitantei Saidai no Kiki! (Japan).png" />
-  </element>
-
-  <view name="mconannm Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="mconannm">
       <bounds x="0" y="0" width="1920" height="1080" />
     </bezel>
   </view>
@@ -758,6 +828,48 @@
     </bezel>
   </view>
 
+  <element name="mconanmc">
+    <image file="Meitantei Conan - Majutsushi no Chousenjou! (Japan).png" />
+  </element>
+
+  <view name="mconanmc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="mconanmc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="mconannm">
+    <image file="Meitantei Conan - Nishi no Meitantei Saidai no Kiki! (Japan).png" />
+  </element>
+
+  <view name="mconannm Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="mconannm">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="mtherapy">
+    <image file="Metakomi Theraphy - Nee Kiite! (Japan).png" />
+  </element>
+
+  <view name="mtherapy Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="mtherapy">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
   <element name="mingmagn">
     <image file="Mingle Magnet (Japan) (En,Ja) (Rev 1).png" />
   </element>
@@ -768,34 +880,6 @@
     </screen>
 	
     <bezel element="mingmagn">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="mjkiwame">
-    <image file="Pro Mahjong Kiwame for WonderSwan (Japan) (Rev 1).png" />
-  </element>
-
-  <view name="mjkiwame Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="mjkiwame">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="mjtetsu">
-    <image file="Nihon Pro Mahjong Renmei Kounin - Tetsuman (Japan) (Rev 2).png" />
-  </element>
-
-  <view name="mjtetsu Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="mjtetsu">
       <bounds x="0" y="0" width="1920" height="1080" />
     </bezel>
   </view>
@@ -842,20 +926,6 @@
     </bezel>
   </view>
 
-  <element name="mtherapy">
-    <image file="Metakomi Theraphy - Nee Kiite! (Japan).png" />
-  </element>
-
-  <view name="mtherapy Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="mtherapy">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
   <element name="nazoou">
     <image file="Nazo Ou Pocket (Japan).png" />
   </element>
@@ -866,6 +936,20 @@
     </screen>
 	
     <bezel element="nazoou">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="evangeln">
+    <image file="Neon Genesis Evangelion - Shito Ikusei (Japan).png" />
+  </element>
+
+  <view name="evangeln Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="evangeln">
       <bounds x="0" y="0" width="1920" height="1080" />
     </bezel>
   </view>
@@ -884,6 +968,20 @@
     </bezel>
   </view>
 
+  <element name="mjtetsu">
+    <image file="Nihon Pro Mahjong Renmei Kounin - Tetsuman (Japan) (Rev 2).png" />
+  </element>
+
+  <view name="mjtetsu Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="mjtetsu">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
   <element name="nobunaga">
     <image file="Nobunaga no Yabou for WonderSwan (Japan).png" />
   </element>
@@ -894,20 +992,6 @@
     </screen>
 	
     <bezel element="nobunaga">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="onepmeza">
-    <image file="From TV Animation One Piece - Mezase Kaizoku Ou! (Japan).png" />
-  </element>
-
-  <view name="onepmeza Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="onepmeza">
       <bounds x="0" y="0" width="1920" height="1080" />
     </bezel>
   </view>
@@ -926,20 +1010,6 @@
     </bezel>
   </view>
 
-  <element name="pbobble">
-    <image file="Puzzle Bobble (Japan).png" />
-  </element>
-
-  <view name="pbobble Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="pbobble">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
   <element name="pocketfi">
     <image file="Pocket Fighter (Japan).png" />
   </element>
@@ -954,6 +1024,20 @@
     </bezel>
   </view>
 
+  <element name="mjkiwame">
+    <image file="Pro Mahjong Kiwame for WonderSwan (Japan) (Rev 1).png" />
+  </element>
+
+  <view name="mjkiwame Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="mjkiwame">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
   <element name="puyopuy2">
     <image file="Puyo Puyo Tsuu (Japan).png" />
   </element>
@@ -964,6 +1048,20 @@
     </screen>
 	
     <bezel element="puyopuy2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="pbobble">
+    <image file="Puzzle Bobble (Japan).png" />
+  </element>
+
+  <view name="pbobble Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="pbobble">
       <bounds x="0" y="0" width="1920" height="1080" />
     </bezel>
   </view>
@@ -996,8 +1094,22 @@
     </bezel>
   </view>
 
+  <element name="ringa">
+    <image file="Ring Infinity (Japan).png" />
+  </element>
+
+  <view name="ringa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="ringa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
   <element name="robworks1">
-    <image file="Robot Works (Asia) (En,Ja) (Rev 1).png" />
+    <image file="Robot Works (Hong Kong) (En,Ja) (Rev 1).png" />
   </element>
 
   <view name="robworks1 Artwork">
@@ -1052,6 +1164,20 @@
     </bezel>
   </view>
 
+  <element name="sdgundema">
+    <image file="SD Gundam - Emotional Jam (Japan) (Rev 2).png" />
+  </element>
+
+  <view name="sdgundema Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="sdgundema">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
   <element name="sdgundem">
     <image file="SD Gundam - Emotional Jam (Japan) (Rev 3).png" />
   </element>
@@ -1062,6 +1188,20 @@
     </screen>
 	
     <bezel element="sdgundem">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="sdgundgg">
+    <image file="SD Gundam G Generation - Gather Beat (Japan).png" />
+  </element>
+
+  <view name="sdgundgg Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="sdgundgg">
       <bounds x="0" y="0" width="1920" height="1080" />
     </bezel>
   </view>
@@ -1080,16 +1220,16 @@
     </bezel>
   </view>
 
-  <element name="sdgundgg">
-    <image file="SD Gundam G Generation - Gather Beat (Japan).png" />
+  <element name="sdgundgaa">
+    <image file="SD Gundam Gashapon Senki - Episode 1 (Japan) (Alt).png" />
   </element>
 
-  <view name="sdgundgg Artwork">
+  <view name="sdgundgaa Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="sdgundgg">
+    <bezel element="sdgundgaa">
       <bounds x="0" y="0" width="1920" height="1080" />
     </bezel>
   </view>
@@ -1132,6 +1272,20 @@
     </screen>
 	
     <bezel element="shanghai">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="sprowres">
+    <image file="Shin Nihon Pro Wrestling - Toukon Retsuden (Japan) (Rev 1).png" />
+  </element>
+
+  <view name="sprowres Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="sprowres">
       <bounds x="0" y="0" width="1920" height="1080" />
     </bezel>
   </view>
@@ -1220,16 +1374,44 @@
     </bezel>
   </view>
 
-  <element name="sprowres">
-    <image file="Shin Nihon Pro Wrestling - Toukon Retsuden (Japan) (Rev 1).png" />
+  <element name="srobotcb">
+    <image file="Super Robot Taisen Compact (Japan).png" />
   </element>
 
-  <view name="sprowres Artwork">
+  <view name="srobotcb Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="sprowres">
+    <bezel element="srobotcb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="srobotca">
+    <image file="Super Robot Taisen Compact (Japan) (Rev 1).png" />
+  </element>
+
+  <view name="srobotca Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="srobotca">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="srobotc">
+    <image file="Super Robot Taisen Compact (Japan) (Rev 2).png" />
+  </element>
+
+  <view name="srobotc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="srobotc">
       <bounds x="0" y="0" width="1920" height="1080" />
     </bezel>
   </view>
@@ -1276,34 +1458,6 @@
     </bezel>
   </view>
 
-  <element name="srobotc">
-    <image file="Super Robot Taisen Compact (Japan).png" />
-  </element>
-
-  <view name="srobotc Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="srobotc">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="streetdn">
-    <image file="Wasabi Produce - Street Dancer (Japan).png" />
-  </element>
-
-  <view name="streetdn Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="streetdn">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
   <element name="taikyigo">
     <image file="Taikyoku Igo - Heisei Kiin (Japan).png" />
   </element>
@@ -1328,6 +1482,20 @@
     </screen>
 	
     <bezel element="tanjodeb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+  <element name="tpgunpey">
+    <image file="Tare Panda no GunPey (Japan).png" />
+  </element>
+
+  <view name="tpgunpey Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <bezel element="tpgunpey">
       <bounds x="0" y="0" width="1920" height="1080" />
     </bezel>
   </view>
@@ -1388,20 +1556,6 @@
     </bezel>
   </view>
 
-  <element name="tmtori">
-    <image file="D&#39;s Garage 21 Koubo Game - Tane o Maku Tori (Japan).png" />
-  </element>
-
-  <view name="tmtori Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="tmtori">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
   <element name="tokyomg">
     <image file="Tokyo Majin Gakuen - Fuju Houroku (Japan).png" />
   </element>
@@ -1416,16 +1570,16 @@
     </bezel>
   </view>
 
-  <element name="tpgunpey">
-    <image file="Tare Panda no GunPey (Japan).png" />
+  <element name="trumpcol">
+    <image file="Trump Collection - Bottom-Up Teki Trump Seikatsu (Japan) (Rev 1).png" />
   </element>
 
-  <view name="tpgunpey Artwork">
+  <view name="trumpcol Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="tpgunpey">
+    <bezel element="trumpcol">
       <bounds x="0" y="0" width="1920" height="1080" />
     </bezel>
   </view>
@@ -1440,20 +1594,6 @@
     </screen>
 	
     <bezel element="trumpcl2">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="trumpcol">
-    <image file="Trump Collection - Bottom-Up Teki Trump Seikatsu (Japan) (Rev 1).png" />
-  </element>
-
-  <view name="trumpcol Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="trumpcol">
       <bounds x="0" y="0" width="1920" height="1080" />
     </bezel>
   </view>
@@ -1514,30 +1654,16 @@
     </bezel>
   </view>
 
-  <element name="wstad99">
-    <image file="Wonder Stadium &#39;99 (Japan).png" />
+  <element name="streetdn">
+    <image file="Wasabi Produce - Street Dancer (Japan).png" />
   </element>
 
-  <view name="wstad99 Artwork">
+  <view name="streetdn Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="wstad99">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="wstadium">
-    <image file="Wonder Stadium (Japan).png" />
-  </element>
-
-  <view name="wstadium Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="wstadium">
+    <bezel element="streetdn">
       <bounds x="0" y="0" width="1920" height="1080" />
     </bezel>
   </view>

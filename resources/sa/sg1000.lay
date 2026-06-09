@@ -11,37 +11,51 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="sg1000">
+    <element ref="sg1000">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="3ninmj">
-    <image file="San-nin Mahjong (Japan).png" />
+  <element name="jb007a">
+    <image file="007 James Bond (Taiwan) (Othello Multivision) (Unl).png" />
   </element>
 
-  <view name="3ninmj Artwork">
+  <view name="jb007a Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="3ninmj">
+    <element ref="jb007a">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="3ninmjt">
-    <image file="San-nin Mahjong (Japan).png" />
+  <element name="jb007">
+    <image file="007 James Bond (Taiwan) (Othello Multivision) (Unl).png" />
   </element>
 
-  <view name="3ninmjt Artwork">
+  <view name="jb007 Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="3ninmjt">
+    <element ref="jb007">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="jb007t">
+    <image file="007 James Bond (Taiwan) (Othello Multivision) (Unl).png" />
+  </element>
+
+  <view name="jb007t Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="jb007t">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="bankp">
@@ -53,27 +67,27 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="bankp">
+    <element ref="bankp">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="blckonyx">
-    <image file="Black Onyx, The (Japan).png" />
+  <element name="bombjackk2">
+    <image file="Bomb Jack (Japan, Australia) (Ja).png" />
   </element>
 
-  <view name="blckonyx Artwork">
+  <view name="bombjackk2 Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="blckonyx">
+    <element ref="bombjackk2">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="bombjack">
-    <image file="Bomb Jack (Japan).png" />
+    <image file="Bomb Jack (Japan, Australia) (Ja).png" />
   </element>
 
   <view name="bombjack Artwork">
@@ -81,13 +95,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="bombjack">
+    <element ref="bombjack">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="bombjackk1">
-    <image file="Bomb Jack (Japan).png" />
+    <image file="Bomb Jack (Korea) (En) (Korean Logo) (Unl).png" />
   </element>
 
   <view name="bombjackk1 Artwork">
@@ -95,13 +109,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="bombjackk1">
+    <element ref="bombjackk1">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="bombjackt1">
-    <image file="Bomb Jack (Japan).png" />
+    <image file="Bomb Jack (Taiwan) (Chinese Logo) (Unl).png" />
   </element>
 
   <view name="bombjackt1 Artwork">
@@ -109,13 +123,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="bombjackt1">
+    <element ref="bombjackt1">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="bombmnsp">
-    <image file="Bomberman Special (Taiwan).png" />
+    <image file="Bomberman Special (Taiwan) (Chinese Logo) (Unl).png" />
   </element>
 
   <view name="bombmnsp Artwork">
@@ -123,303 +137,23 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="bombmnsp">
+    <element ref="bombmnsp">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="castle">
-    <image file="Castle, The (Japan).png" />
+  <element name="bordrlin">
+    <image file="Borderline (Japan, Europe, Australia, New Zealand) (En).png" />
   </element>
 
-  <view name="castle Artwork">
+  <view name="bordrlin Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="castle">
+    <element ref="bordrlin">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="castlet">
-    <image file="Castle, The (Japan).png" />
-  </element>
-
-  <view name="castlet Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="castlet">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="chackn">
-    <image file="Chack&#39;n Pop (Japan).png" />
-  </element>
-
-  <view name="chackn Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="chackn">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="champbas">
-    <image file="Champion Baseball (Taiwan).png" />
-  </element>
-
-  <view name="champbas Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="champbas">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="champbast">
-    <image file="Champion Baseball (Taiwan).png" />
-  </element>
-
-  <view name="champbast Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="champbast">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="champbil">
-    <image file="Champion Billiards (Japan).png" />
-  </element>
-
-  <view name="champbil Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="champbil">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="champbox">
-    <image file="Champion Boxing (Japan).png" />
-  </element>
-
-  <view name="champbox Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="champbox">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="champbox1">
-    <image file="Champion Boxing (Japan) (MyCard).png" />
-  </element>
-
-  <view name="champbox1 Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="champbox1">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="champboxt">
-    <image file="Champion Boxing (Japan).png" />
-  </element>
-
-  <view name="champboxt Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="champboxt">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="champglf">
-    <image file="Champion Golf (Japan).png" />
-  </element>
-
-  <view name="champglf Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="champglf">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="champglf1">
-    <image file="Champion Golf (Japan) (MyCard).png" />
-  </element>
-
-  <view name="champglf1 Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="champglf1">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="champglfk">
-    <image file="Champion Golf (Japan).png" />
-  </element>
-
-  <view name="champglfk Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="champglfk">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="champice">
-    <image file="Champion Ice Hockey (Japan).png" />
-  </element>
-
-  <view name="champice Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="champice">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="champicek">
-    <image file="Champion Ice Hockey (Japan).png" />
-  </element>
-
-  <view name="champicek Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="champicek">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="champken">
-    <image file="Champion Kendou (Japan).png" />
-  </element>
-
-  <view name="champken Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="champken">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="champpwr">
-    <image file="Champion Pro Wrestling (Japan).png" />
-  </element>
-
-  <view name="champpwr Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="champpwr">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="champscr">
-    <image file="Champion Soccer (Japan).png" />
-  </element>
-
-  <view name="champscr Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="champscr">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="champscrt">
-    <image file="Champion Soccer (Japan).png" />
-  </element>
-
-  <view name="champscrt Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="champscrt">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="champtns">
-    <image file="Champion Tennis (Japan).png" />
-  </element>
-
-  <view name="champtns Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="champtns">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="cloderun">
-    <image file="Championship Lode Runner (Japan).png" />
-  </element>
-
-  <view name="cloderun Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="cloderun">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="congot">
-    <image file="Congo Bongo (Japan).png" />
-  </element>
-
-  <view name="congot Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="congot">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="cso">
@@ -431,13 +165,461 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="cso">
+    <element ref="cso">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="cabkids">
+    <image file="Cabbage Patch Kids (Taiwan) (Unl).png" />
+  </element>
+
+  <view name="cabkids Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="cabkids">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="chackn">
+    <image file="Chack&#39;n Pop (Japan).png" />
+  </element>
+
+  <view name="chackn Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="chackn">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="chaldrby">
+    <image file="Challenge Derby (Japan) (Othello Multivision).png" />
+  </element>
+
+  <view name="chaldrby Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="chaldrby">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="chaldrbya">
+    <image file="Challenge Derby (Japan) (Othello Multivision).png" />
+  </element>
+
+  <view name="chaldrbya Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="chaldrbya">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="chaldrbyb">
+    <image file="Challenge Derby (Japan) (Othello Multivision).png" />
+  </element>
+
+  <view name="chaldrbyb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="chaldrbyb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="champbas">
+    <image file="Champion Baseball (Japan).png" />
+  </element>
+
+  <view name="champbas Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="champbas">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="champbasa">
+    <image file="Champion Baseball (Japan).png" />
+  </element>
+
+  <view name="champbasa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="champbasa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="champbast">
+    <image file="Champion Baseball (Taiwan) (Unl).png" />
+  </element>
+
+  <view name="champbast Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="champbast">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="champbil">
+    <image file="Champion Billiards (Japan).png" />
+  </element>
+
+  <view name="champbil Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="champbil">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="champbox">
+    <image file="Champion Boxing (Taiwan) (Unl).png" />
+  </element>
+
+  <view name="champbox Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="champbox">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="champbox1">
+    <image file="Champion Boxing (Taiwan) (Unl).png" />
+  </element>
+
+  <view name="champbox1 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="champbox1">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="champboxt">
+    <image file="Champion Boxing (Taiwan) (Unl).png" />
+  </element>
+
+  <view name="champboxt Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="champboxt">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="champglf">
+    <image file="Champion Golf (Japan) (Rev 1).png" />
+  </element>
+
+  <view name="champglf Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="champglf">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="champglf1">
+    <image file="Champion Golf (Japan) (Rev 1).png" />
+  </element>
+
+  <view name="champglf1 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="champglf1">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="champglfk">
+    <image file="Champion Golf (Korea) (En) (Unl).png" />
+  </element>
+
+  <view name="champglfk Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="champglfk">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="champice">
+    <image file="Champion Ice Hockey (Japan).png" />
+  </element>
+
+  <view name="champice Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="champice">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="champicek">
+    <image file="Champion Ice Hockey (Japan).png" />
+  </element>
+
+  <view name="champicek Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="champicek">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="champken">
+    <image file="Champion Kendou (Japan).png" />
+  </element>
+
+  <view name="champken Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="champken">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="champpwr">
+    <image file="Champion Pro Wrestling (Japan).png" />
+  </element>
+
+  <view name="champpwr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="champpwr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="champscr">
+    <image file="Champion Soccer (Taiwan) (Unl).png" />
+  </element>
+
+  <view name="champscr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="champscr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="champscrt">
+    <image file="Champion Soccer (Taiwan) (Unl).png" />
+  </element>
+
+  <view name="champscrt Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="champscrt">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="champtns">
+    <image file="Champion Tennis (Japan, Europe, Australia, New Zealand) (Ja).png" />
+  </element>
+
+  <view name="champtns Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="champtns">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="cloderun">
+    <image file="Championship Lode Runner (Taiwan) (Unl).png" />
+  </element>
+
+  <view name="cloderun Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="cloderun">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="choplift">
+    <image file="Choplifter (Japan, Australia) (Ja).png" />
+  </element>
+
+  <view name="choplift Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="choplift">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="chopliftp">
+    <image file="Choplifter (Japan, Australia) (Ja).png" />
+  </element>
+
+  <view name="chopliftp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="chopliftp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="chopliftk">
+    <image file="Choplifter (Korea) (En) (Unl).png" />
+  </element>
+
+  <view name="chopliftk Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="chopliftk">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="chopliftt">
+    <image file="Choplifter (Korea) (En) (Unl).png" />
+  </element>
+
+  <view name="chopliftt Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="chopliftt">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="circusck">
+    <image file="Circus Charlie (Korea) (Unl).png" />
+  </element>
+
+  <view name="circusck Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="circusck">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="congoa">
+    <image file="Congo Bongo (Japan).png" />
+  </element>
+
+  <view name="congoa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="congoa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="congo">
+    <image file="Congo Bongo (Japan).png" />
+  </element>
+
+  <view name="congo Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="congo">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="congob">
+    <image file="Congo Bongo (Japan).png" />
+  </element>
+
+  <view name="congob Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="congob">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="congot">
+    <image file="Congo Bongo (Taiwan) (Unl).png" />
+  </element>
+
+  <view name="congot Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="congot">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="dokidoki">
-    <image file="Dokidoki Penguin Land (Japan).png" />
+    <image file="Doki Doki Penguin Land (Japan).png" />
   </element>
 
   <view name="dokidoki Artwork">
@@ -445,13 +627,41 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="dokidoki">
+    <element ref="dokidoki">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="dragwang1">
+    <image file="Dragon Wang (Japan).png" />
+  </element>
+
+  <view name="dragwang1 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dragwang1">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="dragwang">
+    <image file="Dragon Wang (Japan).png" />
+  </element>
+
+  <view name="dragwang Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dragwang">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="drol">
-    <image file="Drol (Japan).png" />
+    <image file="Drol (Taiwan) (Unl).png" />
   </element>
 
   <view name="drol Artwork">
@@ -459,13 +669,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="drol">
+    <element ref="drol">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="drolk">
-    <image file="Drol (Japan).png" />
+    <image file="Drol (Korea) (Unl).png" />
   </element>
 
   <view name="drolk Artwork">
@@ -473,13 +683,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="drolk">
+    <element ref="drolk">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="drolt">
-    <image file="Drol (Japan).png" />
+    <image file="Drol (Taiwan) (Unl).png" />
   </element>
 
   <view name="drolt Artwork">
@@ -487,9 +697,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="drolt">
+    <element ref="drolt">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="elevator">
@@ -501,13 +711,27 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="elevator">
+    <element ref="elevator">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="exerion">
+    <image file="Exerion (Taiwan) (Unl).png" />
+  </element>
+
+  <view name="exerion Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="exerion">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="exerionk">
-    <image file="Exerion (Taiwan).png" />
+    <image file="Exerion (Korea) (Unl).png" />
   </element>
 
   <view name="exerionk Artwork">
@@ -515,13 +739,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="exerionk">
+    <element ref="exerionk">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="exeriont">
-    <image file="Exerion (Taiwan).png" />
+    <image file="Exerion (Taiwan) (Unl).png" />
   </element>
 
   <view name="exeriont Artwork">
@@ -529,13 +753,69 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="exeriont">
+    <element ref="exeriont">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="flickya">
+    <image file="Flicky (Taiwan) (Unl).png" />
+  </element>
+
+  <view name="flickya Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="flickya">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="flicky">
+    <image file="Flicky (Taiwan) (Unl).png" />
+  </element>
+
+  <view name="flicky Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="flicky">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="flickyt">
+    <image file="Flicky (Taiwan) (Unl).png" />
+  </element>
+
+  <view name="flickyt Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="flickyt">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="galaga">
+    <image file="Sega-Galaga (Taiwan) (Unl).png" />
+  </element>
+
+  <view name="galaga Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="galaga">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="girlgard">
-    <image file="Girl&#39;s Garden (Japan).png" />
+    <image file="Girl&#39;s Garden (Taiwan) (Unl).png" />
   </element>
 
   <view name="girlgard Artwork">
@@ -543,13 +823,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="girlgard">
+    <element ref="girlgard">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="girlgardt">
-    <image file="Girl&#39;s Garden (Japan).png" />
+    <image file="Girl&#39;s Garden (Taiwan) (Unl).png" />
   </element>
 
   <view name="girlgardt Artwork">
@@ -557,9 +837,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="girlgardt">
+    <element ref="girlgardt">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="golgo13">
@@ -571,13 +851,41 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="golgo13">
+    <element ref="golgo13">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="gpworlda">
+    <image file="GP World (Japan).png" />
+  </element>
+
+  <view name="gpworlda Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="gpworlda">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="gpworld">
+    <image file="GP World (Japan).png" />
+  </element>
+
+  <view name="gpworld Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="gpworld">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="gpworldt">
-    <image file="GP World (Japan).png" />
+    <image file="GP World (Taiwan) (Unl).png" />
   </element>
 
   <view name="gpworldt Artwork">
@@ -585,9 +893,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="gpworldt">
+    <element ref="gpworldt">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="gulkave">
@@ -599,13 +907,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="gulkave">
+    <element ref="gulkave">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="gulkavek">
-    <image file="Gulkave (Japan).png" />
+    <image file="Gulkave (Korea) (Unl).png" />
   </element>
 
   <view name="gulkavek Artwork">
@@ -613,37 +921,37 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="gulkavek">
+    <element ref="gulkavek">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="hangon2">
-    <image file="Hang-On II (Japan).png" />
+  <element name="guzzler">
+    <image file="Guzzler (Japan) (Othello Multivision).png" />
   </element>
 
-  <view name="hangon2 Artwork">
+  <view name="guzzler Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="hangon2">
+    <element ref="guzzler">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="hangon2t1">
-    <image file="Hang-On II (Japan).png" />
+  <element name="guzzlert">
+    <image file="Guzzler (Taiwan) (Othello Multivision) (Unl).png" />
   </element>
 
-  <view name="hangon2t1 Artwork">
+  <view name="guzzlert Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="hangon2t1">
+    <element ref="guzzlert">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="hero">
@@ -655,9 +963,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="hero">
+    <element ref="hero">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="herotw">
@@ -669,37 +977,65 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="herotw">
+    <element ref="herotw">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="homebas">
-    <image file="Home Basic (Japan) (SC-3000).png" />
+  <element name="hangon2">
+    <image file="Hang On II (Japan, Australia) (Ja).png" />
   </element>
 
-  <view name="homebas Artwork">
+  <view name="hangon2 Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="homebas">
+    <element ref="hangon2">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="homemjt">
-    <image file="San-nin Mahjong (Japan).png" />
+  <element name="hangon2t1">
+    <image file="Hang On II (Taiwan) (Chinese Logo) (Unl).png" />
   </element>
 
-  <view name="homemjt Artwork">
+  <view name="hangon2t1 Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="homemjt">
+    <element ref="hangon2t1">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="homemj1">
+    <image file="Home Mahjong (Japan).png" />
+  </element>
+
+  <view name="homemj1 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="homemj1">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="homemj">
+    <image file="Home Mahjong (Japan).png" />
+  </element>
+
+  <view name="homemj Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="homemj">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="hustle">
@@ -711,23 +1047,23 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="hustle">
+    <element ref="hustle">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="hypersp2">
-    <image file="Hyper Sports (Japan).png" />
+  <element name="hustletw">
+    <image file="Hustle Chumy (Taiwan) (Unl).png" />
   </element>
 
-  <view name="hypersp2 Artwork">
+  <view name="hustletw Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="hypersp2">
+    <element ref="hustletw">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="hyperspt">
@@ -739,13 +1075,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="hyperspt">
+    <element ref="hyperspt">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="hypersptk">
-    <image file="Hyper Sports (Japan).png" />
+    <image file="Hyper Sports (Korea) (Unl).png" />
   </element>
 
   <view name="hypersptk Artwork">
@@ -753,13 +1089,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="hypersptk">
+    <element ref="hypersptk">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="hypersptt">
-    <image file="Hyper Sports (Japan).png" />
+    <image file="Hyper Sports (Taiwan) (Unl).png" />
   </element>
 
   <view name="hypersptt Artwork">
@@ -767,55 +1103,55 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="hypersptt">
+    <element ref="hypersptt">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="jb007">
-    <image file="007 James Bond (Japan) (v2.7) (Othello Multivision).png" />
+  <element name="hypersp2">
+    <image file="Hyper Sports 2 (Taiwan) (Unl).png" />
   </element>
 
-  <view name="jb007 Artwork">
+  <view name="hypersp2 Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="jb007">
+    <element ref="hypersp2">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="jb007a">
-    <image file="007 James Bond (Japan) (v2.6) (Othello Multivision).png" />
+  <element name="iq">
+    <image file="I.Q. (Korea) (Unl).png" />
   </element>
 
-  <view name="jb007a Artwork">
+  <view name="iq Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="jb007a">
+    <element ref="iq">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="jb007t">
-    <image file="007 James Bond (Taiwan) (Othello Multivision).png" />
+  <element name="ldrun">
+    <image file="Lode Runner (Taiwan) (Unl).png" />
   </element>
 
-  <view name="jb007t Artwork">
+  <view name="ldrun Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="jb007t">
+    <element ref="ldrun">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="ldrunk">
-    <image file="Lode Runner (Taiwan).png" />
+    <image file="Lode Runner (Korea) (Unl).png" />
   </element>
 
   <view name="ldrunk Artwork">
@@ -823,13 +1159,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="ldrunk">
+    <element ref="ldrunk">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="ldrunt">
-    <image file="Lode Runner (Taiwan).png" />
+    <image file="Lode Runner (Taiwan) (Unl).png" />
   </element>
 
   <view name="ldrunt Artwork">
@@ -837,9 +1173,233 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="ldrunt">
+    <element ref="ldrunt">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="mkidwiz">
+    <image file="Magical Kid Wiz (Taiwan) (Unl).png" />
+  </element>
+
+  <view name="mkidwiz Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mkidwiz">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="magtree">
+    <image file="Magical Tree (Taiwan) (Unl).png" />
+  </element>
+
+  <view name="magtree Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="magtree">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mahjong">
+    <image file="Mahjong (Japan).png" />
+  </element>
+
+  <view name="mahjong Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mahjong">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mahjonga">
+    <image file="Mahjong (Japan).png" />
+  </element>
+
+  <view name="mahjonga Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mahjonga">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mahjongt">
+    <image file="Mahjong (Taiwan) (Unl).png" />
+  </element>
+
+  <view name="mahjongt Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mahjongt">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="circusc">
+    <image file="Circus Charlie (Taiwan) (Unl).png" />
+  </element>
+
+  <view name="circusc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="circusc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="monacogpb">
+    <image file="Monaco GP (Taiwan) (Unl).png" />
+  </element>
+
+  <view name="monacogpb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="monacogpb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="monacogpa">
+    <image file="Monaco GP (Taiwan) (Unl).png" />
+  </element>
+
+  <view name="monacogpa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="monacogpa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="monacogp">
+    <image file="Monaco GP (Taiwan) (Unl).png" />
+  </element>
+
+  <view name="monacogp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="monacogp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="monacogpt">
+    <image file="Monaco GP (Taiwan) (Unl).png" />
+  </element>
+
+  <view name="monacogpt Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="monacogpt">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="castlet">
+    <image file="Castle, The (Taiwan) (Unl).png" />
+  </element>
+
+  <view name="castlet Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="castlet">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ninjapri">
+    <image file="Ninja Princess (Taiwan) (Unl).png" />
+  </element>
+
+  <view name="ninjapri Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ninjapri">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="nsub">
+    <image file="N-Sub (Taiwan) (Unl).png" />
+  </element>
+
+  <view name="nsub Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="nsub">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="nsuba">
+    <image file="N-Sub (Taiwan) (Unl).png" />
+  </element>
+
+  <view name="nsuba Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="nsuba">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="nsubb">
+    <image file="N-Sub (Japan) (Alt).png" />
+  </element>
+
+  <view name="nsubb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="nsubb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="nsubt">
+    <image file="N-Sub (Taiwan) (Unl).png" />
+  </element>
+
+  <view name="nsubt Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="nsubt">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="matchpg">
@@ -851,9 +1411,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="matchpg">
+    <element ref="matchpg">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="matchpga">
@@ -865,13 +1425,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="matchpga">
+    <element ref="matchpga">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="matchpgt">
-    <image file="Okamoto Ayako no Match Play Golf (Japan) (Othello Multivision).png" />
+    <image file="Okamoto Ayako no Match Play Golf (Taiwan) (Othello Multivision) (Unl).png" />
   </element>
 
   <view name="matchpgt Artwork">
@@ -879,93 +1439,93 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="matchpgt">
+    <element ref="matchpgt">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="mkidwiz">
-    <image file="Magical Kid Wiz (Taiwan).png" />
+  <element name="orguss">
+    <image file="Orguss (Japan, Europe, Australia, New Zealand) (En).png" />
   </element>
 
-  <view name="mkidwiz Artwork">
+  <view name="orguss Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="mkidwiz">
+    <element ref="orguss">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="monacogpt">
-    <image file="Monaco GP (Japan).png" />
+  <element name="othello">
+    <image file="Othello (Japan).png" />
   </element>
 
-  <view name="monacogpt Artwork">
+  <view name="othello Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="monacogpt">
+    <element ref="othello">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="ninjapri">
-    <image file="Ninja Princess (Japan).png" />
+  <element name="pacar">
+    <image file="Pacar (Taiwan) (Unl).png" />
   </element>
 
-  <view name="ninjapri Artwork">
+  <view name="pacar Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="ninjapri">
+    <element ref="pacar">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="nsub">
-    <image file="N-Sub (Europe).png" />
+  <element name="pacara">
+    <image file="Pacar (Japan) (Alt).png" />
   </element>
 
-  <view name="nsub Artwork">
+  <view name="pacara Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="nsub">
+    <element ref="pacara">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="nsuba">
-    <image file="N-Sub (Taiwan).png" />
+  <element name="pacart">
+    <image file="Pacar (Taiwan) (Unl).png" />
   </element>
 
-  <view name="nsuba Artwork">
+  <view name="pacart Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="nsuba">
+    <element ref="pacart">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="nsubt">
-    <image file="N-Sub (Taiwan).png" />
+  <element name="pachinko">
+    <image file="Pachinko (Japan).png" />
   </element>
 
-  <view name="nsubt Artwork">
+  <view name="pachinko Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="nsubt">
+    <element ref="pachinko">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="pachink2">
@@ -977,13 +1537,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="pachink2">
+    <element ref="pachink2">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="pachink2t">
-    <image file="Pachinko II (Japan).png" />
+    <image file="Pachinko II (Taiwan) (Unl).png" />
   </element>
 
   <view name="pachink2t Artwork">
@@ -991,23 +1551,23 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="pachink2t">
+    <element ref="pachink2t">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="pitfall2">
-    <image file="Pitfall II - The Lost Caverns (Japan).png" />
+  <element name="pingpong">
+    <image file="Ping Pong (Taiwan) (Unl).png" />
   </element>
 
-  <view name="pitfall2 Artwork">
+  <view name="pingpong Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="pitfall2">
+    <element ref="pingpong">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="pitfall2a">
@@ -1019,13 +1579,41 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="pitfall2a">
+    <element ref="pitfall2a">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="pitfall2">
+    <image file="Pitfall II - The Lost Caverns (Japan).png" />
+  </element>
+
+  <view name="pitfall2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="pitfall2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="popflame">
+    <image file="Pop Flamer (Taiwan) (Unl).png" />
+  </element>
+
+  <view name="popflame Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="popflame">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="popflamet">
-    <image file="Pop Flamer (Taiwan).png" />
+    <image file="Pop Flamer (Taiwan) (Unl).png" />
   </element>
 
   <view name="popflamet Artwork">
@@ -1033,9 +1621,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="popflamet">
+    <element ref="popflamet">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="qbert">
@@ -1047,13 +1635,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="qbert">
+    <element ref="qbert">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="rallyx">
-    <image file="Rally-X (Taiwan).png" />
+    <image file="Rally-X (Taiwan) (Chinese Logo) (Unl).png" />
   </element>
 
   <view name="rallyx Artwork">
@@ -1061,13 +1649,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="rallyx">
+    <element ref="rallyx">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="roadfght">
-    <image file="Road Fighter (Taiwan).png" />
+    <image file="Road Fighter (Taiwan) (Chinese Logo) (Unl).png" />
   </element>
 
   <view name="roadfght Artwork">
@@ -1075,9 +1663,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="roadfght">
+    <element ref="roadfght">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="rocknbol">
@@ -1089,9 +1677,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="rocknbol">
+    <element ref="rocknbol">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="rocknboltw">
@@ -1103,13 +1691,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="rocknboltw">
+    <element ref="rocknboltw">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="safarihu">
-    <image file="Safari Hunting (Japan).png" />
+    <image file="Safari Hunting (Taiwan) (Unl).png" />
   </element>
 
   <view name="safarihu Artwork">
@@ -1117,13 +1705,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="safarihu">
+    <element ref="safarihu">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="safarihut">
-    <image file="Safari Hunting (Japan).png" />
+    <image file="Safari Hunting (Taiwan) (Unl).png" />
   </element>
 
   <view name="safarihut Artwork">
@@ -1131,13 +1719,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="safarihut">
+    <element ref="safarihut">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="safarirc">
-    <image file="Safari Race (Europe).png" />
+    <image file="Safari Race (Taiwan) (Unl).png" />
   </element>
 
   <view name="safarirc Artwork">
@@ -1145,13 +1733,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="safarirc">
+    <element ref="safarirc">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="safarircj">
-    <image file="Safari Race (Japan).png" />
+    <image file="Safari Race (Taiwan) (Unl).png" />
   </element>
 
   <view name="safarircj Artwork">
@@ -1159,13 +1747,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="safarircj">
+    <element ref="safarircj">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="safarirct">
-    <image file="Safari Race (Japan).png" />
+    <image file="Safari Race (Taiwan) (Unl).png" />
   </element>
 
   <view name="safarirct Artwork">
@@ -1173,13 +1761,83 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="safarirct">
+    <element ref="safarirct">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="3ninmja">
+    <image file="San-nin Mahjong (Japan) (Othello Multivision) (Alt).png" />
+  </element>
+
+  <view name="3ninmja Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="3ninmja">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="3ninmj">
+    <image file="San-nin Mahjong (Japan) (Othello Multivision).png" />
+  </element>
+
+  <view name="3ninmj Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="3ninmj">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="3ninmjt">
+    <image file="San-nin Mahjong (Taiwan) (Othello Multivision) (Unl).png" />
+  </element>
+
+  <view name="3ninmjt Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="3ninmjt">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="segaflip">
+    <image file="Sega Flipper (Taiwan) (Unl).png" />
+  </element>
+
+  <view name="segaflip Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="segaflip">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="segaflipa">
+    <image file="Sega Flipper (Japan) (Alt).png" />
+  </element>
+
+  <view name="segaflipa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="segaflipa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="segagala">
-    <image file="Galaga (Taiwan).png" />
+    <image file="Sega-Galaga (Japan).png" />
   </element>
 
   <view name="segagala Artwork">
@@ -1187,9 +1845,23 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="segagala">
+    <element ref="segagala">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="segagala1">
+    <image file="Sega-Galaga (Japan).png" />
+  </element>
+
+  <view name="segagala1 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="segagala1">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="serizawa">
@@ -1201,13 +1873,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="serizawa">
+    <element ref="serizawa">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="shinnyus">
-    <image file="Shinnyushain Tooru Kun (Japan).png" />
+    <image file="Shinnyushain Tooru-kun (Japan).png" />
   </element>
 
   <view name="shinnyus Artwork">
@@ -1215,13 +1887,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="shinnyus">
+    <element ref="shinnyus">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="shinnyust">
-    <image file="Shinnyushain Tooru Kun (Japan).png" />
+    <image file="Shinnyushain Tooru-kun (Taiwan) (Unl).png" />
   </element>
 
   <view name="shinnyust Artwork">
@@ -1229,13 +1901,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="shinnyust">
+    <element ref="shinnyust">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="sindbadm">
-    <image file="Sindbad Mystery (Japan, Europe).png" />
+    <image file="Sindbad Mystery (Taiwan) (Unl).png" />
   </element>
 
   <view name="sindbadm Artwork">
@@ -1243,13 +1915,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="sindbadm">
+    <element ref="sindbadm">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="sindbadmt">
-    <image file="Sindbad Mystery (Taiwan).png" />
+    <image file="Sindbad Mystery (Taiwan) (Unl).png" />
   </element>
 
   <view name="sindbadmt Artwork">
@@ -1257,13 +1929,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="sindbadmt">
+    <element ref="sindbadmt">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="sokoban">
-    <image file="Soukoban (Japan).png" />
+    <image file="Soukoban (Taiwan) (Unl).png" />
   </element>
 
   <view name="sokoban Artwork">
@@ -1271,13 +1943,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="sokoban">
+    <element ref="sokoban">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="sokobank">
-    <image file="Soukoban (Japan).png" />
+    <image file="Soukoban (Korea) (Unl).png" />
   </element>
 
   <view name="sokobank Artwork">
@@ -1285,13 +1957,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="sokobank">
+    <element ref="sokobank">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="sokobant">
-    <image file="Soukoban (Japan).png" />
+    <image file="Soukoban (Taiwan) (Unl).png" />
   </element>
 
   <view name="sokobant Artwork">
@@ -1299,41 +1971,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="sokobant">
+    <element ref="sokobant">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="spacearm">
-    <image file="Space Armor (Japan) (v2.0) (Othello Multivision).png" />
-  </element>
-
-  <view name="spacearm Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="spacearm">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="spacearma">
-    <image file="Space Armor (Japan) (v2.0) (Othello Multivision).png" />
-  </element>
-
-  <view name="spacearma Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="spacearma">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="spacearmb">
-    <image file="Space Armor (Japan) (v1.0) (Othello Multivision).png" />
+    <image file="Space Armor (Japan) (Othello Multivision) (Alt).png" />
   </element>
 
   <view name="spacearmb Artwork">
@@ -1341,9 +1985,51 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="spacearmb">
+    <element ref="spacearmb">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="spacearm">
+    <image file="Space Armor (Japan) (Othello Multivision) (Alt).png" />
+  </element>
+
+  <view name="spacearm Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="spacearm">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="spacearma">
+    <image file="Space Armor (Japan) (Othello Multivision) (Alt).png" />
+  </element>
+
+  <view name="spacearma Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="spacearma">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="spacearmt">
+    <image file="Space Armor (Japan) (Othello Multivision) (Alt).png" />
+  </element>
+
+  <view name="spacearmt Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="spacearmt">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="spaceinv">
@@ -1355,13 +2041,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="spaceinv">
+    <element ref="spaceinv">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="spaceinvt">
-    <image file="Space Invaders (Japan).png" />
+    <image file="Space Invaders (Taiwan) (Unl).png" />
   </element>
 
   <view name="spaceinvt Artwork">
@@ -1369,9 +2055,23 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="spaceinvt">
+    <element ref="spaceinvt">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="spacemnt">
+    <image file="Space Mountain (Japan) (Othello Multivision).png" />
+  </element>
+
+  <view name="spacemnt Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="spacemnt">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="spacesla">
@@ -1383,13 +2083,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="spacesla">
+    <element ref="spacesla">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="starfrce">
-    <image file="Star Force (Japan).png" />
+    <image file="Star Force (Taiwan) (Unl).png" />
   </element>
 
   <view name="starfrce Artwork">
@@ -1397,13 +2097,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="starfrce">
+    <element ref="starfrce">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="starfrcet">
-    <image file="Star Force (Japan).png" />
+    <image file="Star Force (Taiwan) (Unl).png" />
   </element>
 
   <view name="starfrcet Artwork">
@@ -1411,13 +2111,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="starfrcet">
+    <element ref="starfrcet">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="starfrceta">
-    <image file="Star Force (Taiwan) (Alt 1).png" />
+    <image file="Star Force (Taiwan) (Unl) (Alt).png" />
   </element>
 
   <view name="starfrceta Artwork">
@@ -1425,13 +2125,55 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="starfrceta">
+    <element ref="starfrceta">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="starjack1">
+    <image file="Star Jacker (Japan).png" />
+  </element>
+
+  <view name="starjack1 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="starjack1">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="starjack">
+    <image file="Star Jacker (Japan, Europe) (En) (Rev 2).png" />
+  </element>
+
+  <view name="starjack Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="starjack">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="starjack2">
+    <image file="Star Jacker (Japan).png" />
+  </element>
+
+  <view name="starjack2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="starjack2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="starjackt">
-    <image file="Star Jacker (Japan).png" />
+    <image file="Star Jacker (Taiwan) (Unl).png" />
   </element>
 
   <view name="starjackt Artwork">
@@ -1439,9 +2181,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="starjackt">
+    <element ref="starjackt">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="supertnk">
@@ -1453,13 +2195,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="supertnk">
+    <element ref="supertnk">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="supertnkk">
-    <image file="Super Tank (Japan).png" />
+    <image file="Super Tank (Korea) (Unl).png" />
   </element>
 
   <view name="supertnkk Artwork">
@@ -1467,41 +2209,111 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="supertnkk">
+    <element ref="supertnkk">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="terebioe">
-    <image file="Terebi Oekaki (Japan).png" />
+  <element name="blckonyx">
+    <image file="Black Onyx, The (Japan).png" />
   </element>
 
-  <view name="terebioe Artwork">
+  <view name="blckonyx Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="terebioe">
+    <element ref="blckonyx">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="uranaiac">
-    <image file="Uranai Angel Cutie (Japan) (SC-3000).png" />
+  <element name="castle">
+    <image file="Castle, The (Japan).png" />
   </element>
 
-  <view name="uranaiac Artwork">
+  <view name="castle Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="uranaiac">
+    <element ref="castle">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="wboya">
+    <image file="Wonder Boy (Japan) (Rev 1).png" />
+  </element>
+
+  <view name="wboya Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="wboya">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="wboy">
+    <image file="Wonder Boy (Japan, Australia) (Ja).png" />
+  </element>
+
+  <view name="wboy Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="wboy">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="yamato">
+    <image file="Yamato (Taiwan) (Unl).png" />
+  </element>
+
+  <view name="yamato Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="yamato">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="yamatoa">
+    <image file="Yamato (Japan) (Alt).png" />
+  </element>
+
+  <view name="yamatoa Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="yamatoa">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="yamatot">
+    <image file="Yamato (Taiwan) (Unl).png" />
+  </element>
+
+  <view name="yamatot Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="yamatot">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="yiear">
-    <image file="Yie Ar Kung-Fu II (Taiwan).png" />
+    <image file="Yie Ar Kung-Fu (Taiwan) (Unl).png" />
   </element>
 
   <view name="yiear Artwork">
@@ -1509,9 +2321,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="yiear">
+    <element ref="yiear">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="zaxxon">
@@ -1523,13 +2335,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="zaxxon">
+    <element ref="zaxxon">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="zaxxont">
-    <image file="Zaxxon (Japan).png" />
+    <image file="Zaxxon (Taiwan) (Unl).png" />
   </element>
 
   <view name="zaxxont Artwork">
@@ -1537,13 +2349,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="zaxxont">
+    <element ref="zaxxont">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="zippyrac">
-    <image file="Zippy Race (Japan).png" />
+    <image file="Zippy Race (Taiwan) (Unl).png" />
   </element>
 
   <view name="zippyrac Artwork">
@@ -1551,13 +2363,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="zippyrac">
+    <element ref="zippyrac">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="zippyract">
-    <image file="Zippy Race (Japan).png" />
+    <image file="Zippy Race (Taiwan) (Unl).png" />
   </element>
 
   <view name="zippyract Artwork">
@@ -1565,9 +2377,23 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="zippyract">
+    <element ref="zippyract">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="zoom909">
+    <image file="Zoom 909 (Japan).png" />
+  </element>
+
+  <view name="zoom909 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="zoom909">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
 </mamelayout>

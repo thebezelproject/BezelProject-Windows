@@ -3,7 +3,7 @@
 <mamelayout version="2">
 
   <element name="lynx">
-    <image file="atari-lynx-horizontal.png" />
+    <image file="Atari-Lynx-Horizontal.png" />
   </element>
 
   <view name="Atari Lynx System Artwork">
@@ -11,9 +11,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="lynx">
+    <element ref="lynx">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="apb">
@@ -25,13 +25,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="apb">
+    <element ref="apb">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="avsp">
-    <image file="Alien vs Predator (USA) (Proto) (1993-12-17).png" />
+    <image file="Alien vs Predator (Europe) (Proto) (1993-12-17).png" />
   </element>
 
   <view name="avsp Artwork">
@@ -39,9 +39,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="avsp">
+    <element ref="avsp">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="awesomeg">
@@ -53,9 +53,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="awesomeg">
+    <element ref="awesomeg">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="batmanrn">
@@ -67,9 +67,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="batmanrn">
+    <element ref="batmanrn">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="bbheroes">
@@ -81,9 +81,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="bbheroes">
+    <element ref="bbheroes">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="beast">
@@ -95,9 +95,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="beast">
+    <element ref="beast">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="billted">
@@ -109,9 +109,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="billted">
+    <element ref="billted">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="blockout">
@@ -123,13 +123,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="blockout">
+    <element ref="blockout">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="bluelght">
-    <image file="Blue Lightning (USA, Europe).png" />
+    <image file="Blue Lightning (World).png" />
   </element>
 
   <view name="bluelght Artwork">
@@ -137,13 +137,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="bluelght">
+    <element ref="bluelght">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="bluelghtd">
-    <image file="Blue Lightning (USA, Europe) (Demo).png" />
+    <image file="Blue Lightning (World) (Demo).png" />
   </element>
 
   <view name="bluelghtd Artwork">
@@ -151,9 +151,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="bluelghtd">
+    <element ref="bluelghtd">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="bsktbrwl">
@@ -165,9 +165,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="bsktbrwl">
+    <element ref="bsktbrwl">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="bubtroub">
@@ -179,9 +179,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="bubtroub">
+    <element ref="bubtroub">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="bwheels">
@@ -193,9 +193,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="bwheels">
+    <element ref="bwheels">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="bzone2k">
@@ -207,13 +207,27 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="bzone2k">
+    <element ref="bzone2k">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="cabal">
+    <image file="Cabal (USA) (Demo).png" />
+  </element>
+
+  <view name="cabal Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="cabal">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="calgames">
-    <image file="California Games (USA, Europe).png" />
+    <image file="California Games (World).png" />
   </element>
 
   <view name="calgames Artwork">
@@ -221,9 +235,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="calgames">
+    <element ref="calgames">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="centiped">
@@ -235,9 +249,23 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="centiped">
+    <element ref="centiped">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="centiped">
+    <image file="Centipede (USA) (Proto).png" />
+  </element>
+
+  <view name="centiped Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="centiped">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="chekflag">
@@ -249,13 +277,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="chekflag">
+    <element ref="chekflag">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="chipchal">
-    <image file="Chip&#39;s Challenge (USA, Europe).png" />
+    <image file="Chip&#39;s Challenge (World).png" />
   </element>
 
   <view name="chipchal Artwork">
@@ -263,9 +291,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="chipchal">
+    <element ref="chipchal">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="cmines2">
@@ -277,9 +305,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="cmines2">
+    <element ref="cmines2">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="cmines2bt">
@@ -291,9 +319,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="cmines2bt">
+    <element ref="cmines2bt">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="connors">
@@ -305,13 +333,27 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="connors">
+    <element ref="connors">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="conquest">
+    <image file="Conquest of Zow (World) (Demo) (Unl).png" />
+  </element>
+
+  <view name="conquest Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="conquest">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="daemongt">
-    <image file="Daemonsgate (USA) (Proto).png" />
+    <image file="Daemon&#39;s Gate (USA) (Proto 1).png" />
   </element>
 
   <view name="daemongt Artwork">
@@ -319,9 +361,23 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="daemongt">
+    <element ref="daemongt">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="daemongta">
+    <image file="Daemon&#39;s Gate (USA) (Proto 2).png" />
+  </element>
+
+  <view name="daemongta Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="daemongta">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="ddragon">
@@ -333,9 +389,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="ddragon">
+    <element ref="ddragon">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="dinolymp">
@@ -347,9 +403,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="dinolymp">
+    <element ref="dinolymp">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="dirtylar">
@@ -361,13 +417,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="dirtylar">
+    <element ref="dirtylar">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="dracula">
-    <image file="Dracula the Undead (USA, Europe).png" />
+    <image file="Dracula - The Undead (USA, Europe).png" />
   </element>
 
   <view name="dracula Artwork">
@@ -375,9 +431,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="dracula">
+    <element ref="dracula">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="dstrike">
@@ -389,13 +445,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="dstrike">
+    <element ref="dstrike">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="electroc">
-    <image file="Electrocop (USA, Europe).png" />
+    <image file="Electrocop (World).png" />
   </element>
 
   <view name="electroc Artwork">
@@ -403,9 +459,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="electroc">
+    <element ref="electroc">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="eurosocc">
@@ -417,13 +473,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="eurosocc">
+    <element ref="eurosocc">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="eyebehol">
-    <image file="Eye of the Beholder (USA) (Proto).png" />
+    <image file="Eye of the Beholder (USA) (Proto 1).png" />
   </element>
 
   <view name="eyebehol Artwork">
@@ -431,9 +487,23 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="eyebehol">
+    <element ref="eyebehol">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="eyebehola">
+    <image file="Eye of the Beholder (USA) (Proto 2) (Aftermarket) (Unl).png" />
+  </element>
+
+  <view name="eyebehola Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="eyebehola">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="fatbobby">
@@ -445,9 +515,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="fatbobby">
+    <element ref="fatbobby">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="fidelity">
@@ -459,13 +529,41 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="fidelity">
+    <element ref="fidelity">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="friendly">
+    <image file="Friendly (World) (Demo) (Unl).png" />
+  </element>
+
+  <view name="friendly Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="friendly">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="fullcp">
+    <image file="Full Court Press (USA) (Proto).png" />
+  </element>
+
+  <view name="fullcp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="fullcp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="gatezend">
-    <image file="Gates of Zendocon (USA, Europe).png" />
+    <image file="Gates of Zendocon (World).png" />
   </element>
 
   <view name="gatezend Artwork">
@@ -473,13 +571,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="gatezend">
+    <element ref="gatezend">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="gauntlet">
-    <image file="Gauntlet - The Third Encounter (USA, Europe).png" />
+    <image file="Gauntlet - The Third Encounter (World).png" />
   </element>
 
   <view name="gauntlet Artwork">
@@ -487,9 +585,37 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="gauntlet">
+    <element ref="gauntlet">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="gauntlet">
+    <image file="Gauntlet - The Third Encounter (World).png" />
+  </element>
+
+  <view name="gauntlet Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="gauntlet">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="geoduel">
+    <image file="Geoduel (USA) (Demo).png" />
+  </element>
+
+  <view name="geoduel Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="geoduel">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="gordo106">
@@ -501,9 +627,37 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="gordo106">
+    <element ref="gordo106">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="gsod">
+    <image file="Guardians, The - Storm Over Doria (USA) (Proto 1).png" />
+  </element>
+
+  <view name="gsod Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="gsod">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="gsoda">
+    <image file="Guardians, The - Storm Over Doria (USA) (Proto 1).png" />
+  </element>
+
+  <view name="gsoda Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="gsoda">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="harddriv">
@@ -515,9 +669,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="harddriv">
+    <element ref="harddriv">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="hockey">
@@ -529,9 +683,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="hockey">
+    <element ref="hockey">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="hydra">
@@ -543,9 +697,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="hydra">
+    <element ref="hydra">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="ishido">
@@ -557,9 +711,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="ishido">
+    <element ref="ishido">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="joust">
@@ -571,13 +725,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="joust">
+    <element ref="joust">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="klax">
-    <image file="Klax (USA, Europe).png" />
+    <image file="Klax (World).png" />
   </element>
 
   <view name="klax Artwork">
@@ -585,9 +739,51 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="klax">
+    <element ref="klax">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="klax">
+    <image file="Klax (World).png" />
+  </element>
+
+  <view name="klax Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="klax">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="klaxp">
+    <image file="Klax (World).png" />
+  </element>
+
+  <view name="klaxp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="klaxp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="klaxp">
+    <image file="Klax (World).png" />
+  </element>
+
+  <view name="klaxp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="klaxp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="krazyace">
@@ -599,9 +795,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="krazyace">
+    <element ref="krazyace">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="kungfood">
@@ -613,9 +809,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="kungfood">
+    <element ref="kungfood">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="lcasino">
@@ -627,9 +823,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="lcasino">
+    <element ref="lcasino">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="lemmings">
@@ -641,13 +837,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="lemmings">
+    <element ref="lemmings">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="lexis">
-    <image file="Lexis (USA).png" />
+    <image file="Lexis (World) (Aftermarket) (Unl).png" />
   </element>
 
   <view name="lexis Artwork">
@@ -655,13 +851,27 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="lexis">
+    <element ref="lexis">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="lexis">
+    <image file="Lexis (World) (Aftermarket) (Unl).png" />
+  </element>
+
+  <view name="lexis Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="lexis">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="loopz">
-    <image file="Loopz (USA) (Proto).png" />
+    <image file="Loopz (USA) (v0.06) (Proto) (1992-11-05).png" />
   </element>
 
   <view name="loopz Artwork">
@@ -669,9 +879,37 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="loopz">
+    <element ref="loopz">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="loopza">
+    <image file="Loopz (USA) (v0.04) (Proto) (1992-09-16).png" />
+  </element>
+
+  <view name="loopza Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="loopza">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="lynx2tst">
+    <image file="Lynx II Production Test Program (USA).png" />
+  </element>
+
+  <view name="lynx2tst Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="lynx2tst">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="malibu">
@@ -683,13 +921,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="malibu">
+    <element ref="malibu">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="marlboro">
-    <image file="Marlboro Go! (Europe) (Proto).png" />
+    <image file="Marlboro Go! (Europe) (Proto 1).png" />
   </element>
 
   <view name="marlboro Artwork">
@@ -697,13 +935,41 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="marlboro">
+    <element ref="marlboro">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="marlborog">
+    <image file="Marlboro Go! (Europe) (Proto 1).png" />
+  </element>
+
+  <view name="marlborog Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="marlborog">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="megapak">
+    <image file="MegaPak Vol.1 (World) (Aftermarket) (Unl).png" />
+  </element>
+
+  <view name="megapak Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="megapak">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="mspacman">
-    <image file="Ms. Pac-Man (USA, Europe).png" />
+    <image file="Ms. Pac-Man (World).png" />
   </element>
 
   <view name="mspacman Artwork">
@@ -711,9 +977,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="mspacman">
+    <element ref="mspacman">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="nflfoot">
@@ -725,9 +991,23 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="nflfoot">
+    <element ref="nflfoot">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="nflfoot">
+    <image file="NFL Football (USA, Europe).png" />
+  </element>
+
+  <view name="nflfoot Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="nflfoot">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="ngaiden">
@@ -739,9 +1019,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="ngaiden">
+    <element ref="ngaiden">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="ngaiden3">
@@ -753,9 +1033,37 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="ngaiden3">
+    <element ref="ngaiden3">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="ninjanerd">
+    <image file="Ninja Nerd (USA) (Demo).png" />
+  </element>
+
+  <view name="ninjanerd Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ninjanerd">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="othello">
+    <image file="Lynx Othello (World) (Aftermarket) (Unl).png" />
+  </element>
+
+  <view name="othello Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="othello">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="pacland">
@@ -767,13 +1075,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="pacland">
+    <element ref="pacland">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="paperboy">
-    <image file="Paperboy (USA, Europe).png" />
+    <image file="Paperboy (World).png" />
   </element>
 
   <view name="paperboy Artwork">
@@ -781,9 +1089,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="paperboy">
+    <element ref="paperboy">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="pinballj">
@@ -795,9 +1103,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="pinballj">
+    <element ref="pinballj">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="pitfight">
@@ -809,9 +1117,51 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="pitfight">
+    <element ref="pitfight">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="pitfightp">
+    <image file="Pit-Fighter (USA, Europe).png" />
+  </element>
+
+  <view name="pitfightp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="pitfightp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="poker">
+    <image file="Poker (Europe) (Fr) (Proto).png" />
+  </element>
+
+  <view name="poker Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="poker">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="pounce">
+    <image file="Pounce! (USA) (Proto).png" />
+  </element>
+
+  <view name="pounce Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="pounce">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="powfactr">
@@ -823,9 +1173,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="powfactr">
+    <element ref="powfactr">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="qix">
@@ -837,13 +1187,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="qix">
+    <element ref="qix">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="raiden">
-    <image file="Raiden (USA) (v3.0).opt.png" />
+    <image file="Raiden (USA) (Beta).png" />
   </element>
 
   <view name="raiden Artwork">
@@ -851,13 +1201,41 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="raiden">
+    <element ref="raiden">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="raiden">
+    <image file="Raiden (World) (Aftermarket) (Unl).png" />
+  </element>
+
+  <view name="raiden Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="raiden">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ramcart">
+    <image file="RAM cart (USA) (Proto) (Program).png" />
+  </element>
+
+  <view name="ramcart Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ramcart">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="rampage">
-    <image file="Rampage (USA, Europe).png" />
+    <image file="Rampart (USA, Europe).png" />
   </element>
 
   <view name="rampage Artwork">
@@ -865,9 +1243,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="rampage">
+    <element ref="rampage">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="rampart">
@@ -879,13 +1257,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="rampart">
+    <element ref="rampart">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="roadblst">
-    <image file="RoadBlasters (USA, Europe).png" />
+    <image file="RoadBlasters (World).png" />
   </element>
 
   <view name="roadblst Artwork">
@@ -893,9 +1271,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="roadblst">
+    <element ref="roadblst">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="roadriot">
@@ -907,13 +1285,27 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="roadriot">
+    <element ref="roadriot">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="roadriota">
+    <image file="Road Riot 4WD (USA) (Proto 1).png" />
+  </element>
+
+  <view name="roadriota Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="roadriota">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="robosqua">
-    <image file="Robo-Squash (USA, Europe).png" />
+    <image file="Robo-Squash (World).png" />
   </element>
 
   <view name="robosqua Artwork">
@@ -921,9 +1313,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="robosqua">
+    <element ref="robosqua">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="robotron">
@@ -935,13 +1327,41 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="robotron">
+    <element ref="robotron">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="robotronp">
+    <image file="Robotron 2084 (USA, Europe).png" />
+  </element>
+
+  <view name="robotronp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="robotronp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="rthunder">
+    <image file="Rolling Thunder (USA) (Proto).png" />
+  </element>
+
+  <view name="rthunder Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="rthunder">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="rygar">
-    <image file="Rygar (USA, Europe).png" />
+    <image file="Rygar (World).png" />
   </element>
 
   <view name="rygar Artwork">
@@ -949,9 +1369,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="rygar">
+    <element ref="rygar">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="scrapdog">
@@ -963,13 +1383,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="scrapdog">
+    <element ref="scrapdog">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="shanghai">
-    <image file="Shanghai (USA, Europe).png" />
+    <image file="Shanghai (World).png" />
   </element>
 
   <view name="shanghai Artwork">
@@ -977,13 +1397,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="shanghai">
+    <element ref="shanghai">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="slimew">
-    <image file="Todd&#39;s Adventures in Slime World (USA, Europe).png" />
+    <image file="Todd&#39;s Adventures in Slime World (World).png" />
   </element>
 
   <view name="slimew Artwork">
@@ -991,9 +1411,23 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="slimew">
+    <element ref="slimew">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="spacewar">
+    <image file="Spacewar (USA) (Demo).png" />
+  </element>
+
+  <view name="spacewar Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="spacewar">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="steeltal">
@@ -1005,9 +1439,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="steeltal">
+    <element ref="steeltal">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="stunrun">
@@ -1019,9 +1453,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="stunrun">
+    <element ref="stunrun">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="supaster">
@@ -1033,9 +1467,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="supaster">
+    <element ref="supaster">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="superoff">
@@ -1047,9 +1481,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="superoff">
+    <element ref="superoff">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="supskwek">
@@ -1061,9 +1495,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="supskwek">
+    <element ref="supskwek">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="switchb2">
@@ -1075,9 +1509,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="switchb2">
+    <element ref="switchb2">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="tcyberbl">
@@ -1089,9 +1523,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="tcyberbl">
+    <element ref="tcyberbl">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="toki">
@@ -1103,9 +1537,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="toki">
+    <element ref="toki">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="turbosub">
@@ -1117,9 +1551,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="turbosub">
+    <element ref="turbosub">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="viking">
@@ -1131,9 +1565,23 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="viking">
+    <element ref="viking">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="vindictr">
+    <image file="Vindicators (USA) (Proto).png" />
+  </element>
+
+  <view name="vindictr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="vindictr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="warbirds">
@@ -1145,9 +1593,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="warbirds">
+    <element ref="warbirds">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="wcsoccer">
@@ -1159,13 +1607,41 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="wcsoccer">
+    <element ref="wcsoccer">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="weltensc">
+    <image file="Weltenschlacht (World) (v0.41) (Demo) (Aftermarket) (Unl).png" />
+  </element>
+
+  <view name="weltensc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="weltensc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="wolfman">
+    <image file="Wolfman (USA) (Demo) (Kiosk).png" />
+  </element>
+
+  <view name="wolfman Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="wolfman">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="xenophob">
-    <image file="Xenophobe (USA, Europe).png" />
+    <image file="Xenophobe (World).png" />
   </element>
 
   <view name="xenophob Artwork">
@@ -1173,9 +1649,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="xenophob">
+    <element ref="xenophob">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="xybots">
@@ -1187,9 +1663,79 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="xybots">
+    <element ref="xybots">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="yastuna1">
+    <image file="Yastuna Volume 1 - The Alchemy of Cubes (World) (v1.01) (Digital) (Aftermarket) (Unl).png" />
+  </element>
+
+  <view name="yastuna1 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="yastuna1">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="yastuna2">
+    <image file="Yastuna Volume 2 - The Space Incident (World) (v1.01) (Digital) (Aftermarket) (Unl).png" />
+  </element>
+
+  <view name="yastuna2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="yastuna2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="zaku">
+    <image file="Zaku (World) (Unl).png" />
+  </element>
+
+  <view name="zaku Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="zaku">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="zakud">
+    <image file="Zaku (World) (Unl).png" />
+  </element>
+
+  <view name="zakud Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="zakud">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="zarlor">
+    <image file="Zarlor Mercenary (World).png" />
+  </element>
+
+  <view name="zarlor Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="zarlor">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
 </mamelayout>

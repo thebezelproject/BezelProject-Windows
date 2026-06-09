@@ -11,23 +11,37 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="pcfx">
+    <element ref="pcfx">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
-  <element name="angeliq">
-    <image file="Fushigi No Kuni No Angelique (Japan).png" />
+  <element name="amateurv">
+    <image file="Amateur Teikyou CD-ROM (Japan) (DOS-V-you) (NEC PC-FXGA).png" />
   </element>
 
-  <view name="angeliq Artwork">
+  <view name="amateurv Artwork">
     <screen index="0">
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="angeliq">
+    <element ref="amateurv">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="amateur">
+    <image file="Amateur Teikyou CD-ROM (Japan) (NEC PC-FXGA).png" />
+  </element>
+
+  <view name="amateur Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="amateur">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="batlheat">
@@ -39,9 +53,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="batlheat">
+    <element ref="batlheat">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="cancandx">
@@ -53,41 +67,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="cancandx">
+    <element ref="cancandx">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="carrot">
-    <image file="Pia Carrot He Youkoso (Japan) (Translated En).png" />
-  </element>
-
-  <view name="carrot Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="carrot">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
-  </view>
-
-  <element name="dknight4">
-    <image file="Dragon Knight IV (Japan).png" />
-  </element>
-
-  <view name="dknight4 Artwork">
-    <screen index="0">
-      <bounds x="240" y="0" width="1440" height="1080" />
-    </screen>
-	
-    <bezel element="dknight4">
-      <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="doukyuu2">
-    <image file="Doukyusei II (Japan).png" />
+    <image file="Doukyuusei 2 (Japan).png" />
   </element>
 
   <view name="doukyuu2 Artwork">
@@ -95,9 +81,23 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="doukyuu2">
+    <element ref="doukyuu2">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="dknight4">
+    <image file="Dragon Knight 4 (Japan).png" />
+  </element>
+
+  <view name="dknight4 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dknight4">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="farland">
@@ -109,13 +109,13 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="farland">
+    <element ref="farland">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="firewomn">
-    <image file="Fire Woman Matoi-Gumi (Japan).png" />
+    <image file="Fire Woman Matoigumi (Japan).png" />
   </element>
 
   <view name="firewomn Artwork">
@@ -123,13 +123,27 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="firewomn">
+    <element ref="firewomn">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="angeliq">
+    <image file="Fushigi no Kuni no Angelique (Japan).png" />
+  </element>
+
+  <view name="angeliq Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="angeliq">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
   <element name="langriss">
-    <image file="Der Langrisser FX (Japan).png" />
+    <image file="Langrisser FX, Der (Japan).png" />
   </element>
 
   <view name="langriss Artwork">
@@ -137,9 +151,9 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="langriss">
+    <element ref="langriss">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
   </view>
 
   <element name="megamip2">
@@ -151,9 +165,65 @@
       <bounds x="240" y="0" width="1440" height="1080" />
     </screen>
 	
-    <bezel element="megamip2">
+    <element ref="megamip2">
       <bounds x="0" y="0" width="1920" height="1080" />
-    </bezel>
+    </element>
+  </view>
+
+  <element name="nnyuu">
+    <image file="N-nyuu - PC-FXGA Game ga Asoberu Tsukureru Hon (Japan) (Disc 1) (N-nyuu).png" />
+  </element>
+
+  <view name="nnyuu Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="nnyuu">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="carrot">
+    <image file="Pia Carrot e Youkoso!! We&#39;ve Been Waiting for You (Japan).png" />
+  </element>
+
+  <view name="carrot Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="carrot">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="samegame">
+    <image file="Same Game FX (Japan) (NEC PC-FXGA).png" />
+  </element>
+
+  <view name="samegame Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="samegame">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="sotsugy2">
+    <image file="Sotsugyou II FX - Neo Generation (Japan) (SABS, SACS).png" />
+  </element>
+
+  <view name="sotsugy2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="sotsugy2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
   </view>
 
 </mamelayout>

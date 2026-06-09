@@ -1,0 +1,1518 @@
+<!-- default.lay file for The Bezel Project Commodore Amiga CD32 pack -->
+
+<mamelayout version="2">
+
+  <element name="cd32">
+    <image file="Commodore-Amiga-CD32.png" />
+  </element>
+
+  <view name="Commodore Amiga CD32 System Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="cd32">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="abreed3d">
+    <image file="Alien Breed 3D (Europe).png" />
+  </element>
+
+  <view name="abreed3d Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="abreed3d">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="abreedta">
+    <image file="Alien Breed - Tower Assault (Europe).png" />
+  </element>
+
+  <view name="abreedta Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="abreedta">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="abseqwak">
+    <image file="Alien Breed Special Edition &amp; Qwak (Europe) (En,Fr,De,It,Da).png" />
+  </element>
+
+  <view name="abseqwak Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="abseqwak">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="akira">
+    <image file="Akira (Europe).png" />
+  </element>
+
+  <view name="akira Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="akira">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="alfred">
+    <image file="Alfred Chicken (Europe).png" />
+  </element>
+
+  <view name="alfred Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="alfred">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="arabian">
+    <image file="Arabian Nights (Europe) (En,Fr,De,It).png" />
+  </element>
+
+  <view name="arabian Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="arabian">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="arcdpool">
+    <image file="Arcade Pool (Europe) (En,Fr,De,It).png" />
+  </element>
+
+  <view name="arcdpool Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="arcdpool">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="arcdpool1">
+    <image file="Arcade Pool (Europe) (En,Fr,De,It) (Alt).png" />
+  </element>
+
+  <view name="arcdpool1 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="arcdpool1">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="atr">
+    <image file="ATR - All Terrain Racing (Europe).png" />
+  </element>
+
+  <view name="atr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="atr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="banshee">
+    <image file="Banshee (Europe) (En,Fr,De,Da).png" />
+  </element>
+
+  <view name="banshee Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="banshee">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="basejump">
+    <image file="Base Jumpers (Europe).png" />
+  </element>
+
+  <view name="basejump Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="basejump">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="bass">
+    <image file="Beneath a Steel Sky (Europe) (En,Fr,De,It).png" />
+  </element>
+
+  <view name="bass Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="bass">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="beavers">
+    <image file="Beavers (Europe).png" />
+  </element>
+
+  <view name="beavers Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="beavers">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="benefact">
+    <image file="Benefactor (Europe).png" />
+  </element>
+
+  <view name="benefact Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="benefact">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="big6diz">
+    <image file="Big 6, The (Europe).png" />
+  </element>
+
+  <view name="big6diz Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="big6diz">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="blkviper">
+    <image file="Black Viper (Europe) (En,De,It).png" />
+  </element>
+
+  <view name="blkviper Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="blkviper">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="brutalf">
+    <image file="Brutal Football (Europe).png" />
+  </element>
+
+  <view name="brutalf Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="brutalf">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="btlchess">
+    <image file="Battle Chess (Europe).png" />
+  </element>
+
+  <view name="btlchess Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="btlchess">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="btoads">
+    <image file="Battletoads (Europe).png" />
+  </element>
+
+  <view name="btoads Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="btoads">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="bubba">
+    <image file="Bubba &#39;n&#39; Stix (Europe).png" />
+  </element>
+
+  <view name="bubba Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="bubba">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="bubblesq">
+    <image file="Bubble and Squeak (Europe).png" />
+  </element>
+
+  <view name="bubblesq Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="bubblesq">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="bumpburn">
+    <image file="Bump &#39;n&#39; Burn (Europe).png" />
+  </element>
+
+  <view name="bumpburn Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="bumpburn">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="cannfodd">
+    <image file="Cannon Fodder (Europe).png" />
+  </element>
+
+  <view name="cannfodd Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="cannfodd">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="castles2">
+    <image file="Castles II - Siege &amp; Conquest (Europe).png" />
+  </element>
+
+  <view name="castles2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="castles2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="chaoseng">
+    <image file="Chaos Engine, The (Europe) (En,Fr,De,It).png" />
+  </element>
+
+  <view name="chaoseng Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="chaoseng">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="chuckrck">
+    <image file="Chuck Rock (Europe).png" />
+  </element>
+
+  <view name="chuckrck Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="chuckrck">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="chukrck2">
+    <image file="Chuck Rock II - Son of Chuck (Europe).png" />
+  </element>
+
+  <view name="chukrck2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="chukrck2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="clockwsr">
+    <image file="Clockwiser (Europe).png" />
+  </element>
+
+  <view name="clockwsr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="clockwsr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="darkseed">
+    <image file="Darkseed (Europe).png" />
+  </element>
+
+  <view name="darkseed Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="darkseed">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="deepcore">
+    <image file="Deep Core (Europe) (v1.00).png" />
+  </element>
+
+  <view name="deepcore Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="deepcore">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="dgen">
+    <image file="D-Generation (Europe).png" />
+  </element>
+
+  <view name="dgen Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dgen">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="diggoscr">
+    <image file="Diggers &amp; Oscar (Europe).png" />
+  </element>
+
+  <view name="diggoscr Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="diggoscr">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="disphero">
+    <image file="Disposable Hero (Europe).png" />
+  </element>
+
+  <view name="disphero Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="disphero">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="donk">
+    <image file="Donk! The Samurai Duck! (Europe).png" />
+  </element>
+
+  <view name="donk Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="donk">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="dstone">
+    <image file="Dragonstone (Europe) (En,Fr,De).png" />
+  </element>
+
+  <view name="dstone Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dstone">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="dstreets">
+    <image file="Dangerous Streets (Europe) (En,Fr,De,It).png" />
+  </element>
+
+  <view name="dstreets Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="dstreets">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="emerald">
+    <image file="Emerald Mines (Europe).png" />
+  </element>
+
+  <view name="emerald Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="emerald">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="fireforc">
+    <image file="Fire Force (Europe).png" />
+  </element>
+
+  <view name="fireforc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="fireforc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="fireice">
+    <image file="Fire &amp; Ice - The Daring Adventures of Cool Coyote (Europe) (En,Fr,De,It).png" />
+  </element>
+
+  <view name="fireice Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="fireice">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="flink">
+    <image file="Flink (Europe).png" />
+  </element>
+
+  <view name="flink Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="flink">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="flyhard">
+    <image file="Fly Harder (Europe).png" />
+  </element>
+
+  <view name="flyhard Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="flyhard">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="frontier">
+    <image file="Frontier - Elite II (Europe).png" />
+  </element>
+
+  <view name="frontier Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="frontier">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="global">
+    <image file="Global Effect (Europe).png" />
+  </element>
+
+  <view name="global Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="global">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="gloom">
+    <image file="Gloom (Europe).png" />
+  </element>
+
+  <view name="gloom Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="gloom">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="guardian">
+    <image file="Guardian (Europe).png" />
+  </element>
+
+  <view name="guardian Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="guardian">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="gulp">
+    <image file="Gulp! (Europe) (En,Fr,De,Es,It).png" />
+  </element>
+
+  <view name="gulp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="gulp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="heimdall2">
+    <image file="Heimdall 2 - Into the Hall of Worlds (Europe).png" />
+  </element>
+
+  <view name="heimdall2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="heimdall2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ikplus">
+    <image file="International Karate + (Europe).png" />
+  </element>
+
+  <view name="ikplus Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ikplus">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="jambala">
+    <image file="Seven Gates of Jambala, The (Europe).png" />
+  </element>
+
+  <view name="jambala Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="jambala">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="jetstrike">
+    <image file="Jungle Strike - The Sequel to Desert Strike (Europe).png" />
+  </element>
+
+  <view name="jetstrike Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="jetstrike">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="kidchaos">
+    <image file="Kid Chaos (Europe).png" />
+  </element>
+
+  <view name="kidchaos Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="kidchaos">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="libcap2">
+    <image file="Liberation - Captive II (Europe).png" />
+  </element>
+
+  <view name="libcap2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="libcap2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="lotus">
+    <image file="Classic Lotus Trilogy, The (Europe).png" />
+  </element>
+
+  <view name="lotus Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="lotus">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="marvin">
+    <image file="Marvin&#39;s Marvellous Adventure (Europe) (En,Fr,De,Es,It).png" />
+  </element>
+
+  <view name="marvin Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="marvin">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="mean">
+    <image file="Mean Arenas (Europe).png" />
+  </element>
+
+  <view name="mean Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="mean">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="methbros">
+    <image file="Super Methane Bros. (Europe).png" />
+  </element>
+
+  <view name="methbros Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="methbros">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="microcosm">
+    <image file="Microcosm (Europe).png" />
+  </element>
+
+  <view name="microcosm Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="microcosm">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="morph">
+    <image file="Morph (Europe).png" />
+  </element>
+
+  <view name="morph Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="morph">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="myth">
+    <image file="Myth - History in the Making (Europe).png" />
+  </element>
+
+  <view name="myth Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="myth">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="naughty">
+    <image file="Naughty Ones (Europe).png" />
+  </element>
+
+  <view name="naughty Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="naughty">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="okillunc">
+    <image file="Overkill &amp; Lunar-C (Europe).png" />
+  </element>
+
+  <view name="okillunc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="okillunc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="pballfnt">
+    <image file="Pinball Fantasies (Europe).png" />
+  </element>
+
+  <view name="pballfnt Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="pballfnt">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="pballill">
+    <image file="Pinball Illusions (Europe).png" />
+  </element>
+
+  <view name="pballill Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="pballill">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="pgaeuro">
+    <image file="PGA European Tour (Europe).png" />
+  </element>
+
+  <view name="pgaeuro Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="pgaeuro">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="pierre">
+    <image file="Pierre Le Chef Is ... Out to Lunch (Europe).png" />
+  </element>
+
+  <view name="pierre Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="pierre">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="prey">
+    <image file="Prey - An Alien Encounter (Europe).png" />
+  </element>
+
+  <view name="prey Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="prey">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="projxf17">
+    <image file="Project-X &amp; F17 Challenge (Europe) (En,Fr,De,It,Da).png" />
+  </element>
+
+  <view name="projxf17 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="projxf17">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="projxubb">
+    <image file="Project-X &amp; Ultimate Body Blows (Europe).png" />
+  </element>
+
+  <view name="projxubb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="projxubb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="pwrdrive">
+    <image file="Power Drive (Europe) (En,Fr,De,Es,It).png" />
+  </element>
+
+  <view name="pwrdrive Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="pwrdrive">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="pwrgames">
+    <image file="Power-Games (Europe) (En,De).png" />
+  </element>
+
+  <view name="pwrgames Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="pwrgames">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="quik">
+    <image file="Quik the Thunder Rabbit (Europe).png" />
+  </element>
+
+  <view name="quik Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="quik">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="riserobo">
+    <image file="Rise of the Robots (Europe).png" />
+  </element>
+
+  <view name="riserobo Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="riserobo">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="roadkill">
+    <image file="Roadkill (Europe).png" />
+  </element>
+
+  <view name="roadkill Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="roadkill">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="roadkill1">
+    <image file="Roadkill (Europe) (Alt).png" />
+  </element>
+
+  <view name="roadkill1 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="roadkill1">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="seekdest">
+    <image file="Seek and Destroy (Europe).png" />
+  </element>
+
+  <view name="seekdest Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="seekdest">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="shadfght">
+    <image file="Shadow Fighter (Europe).png" />
+  </element>
+
+  <view name="shadfght Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="shadfght">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="shaolin">
+    <image file="Chambers of Shaolin (Europe).png" />
+  </element>
+
+  <view name="shaolin Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="shaolin">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="sheerdlt">
+    <image file="Sheer Delight (USA, Europe).png" />
+  </element>
+
+  <view name="sheerdlt Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="sheerdlt">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="simonsrc">
+    <image file="Simon the Sorcerer (Europe).png" />
+  </element>
+
+  <view name="simonsrc Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="simonsrc">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="skelkrew">
+    <image file="Skeleton Krew (Europe).png" />
+  </element>
+
+  <view name="skelkrew Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="skelkrew">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="solympix">
+    <image file="Summer Olympix (Europe).png" />
+  </element>
+
+  <view name="solympix Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="solympix">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="speris">
+    <image file="Speris Legacy, The (Europe).png" />
+  </element>
+
+  <view name="speris Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="speris">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="sskid">
+    <image file="Super Skidmarks (Europe).png" />
+  </element>
+
+  <view name="sskid Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="sskid">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="sskid1">
+    <image file="Super Skidmarks (Europe).png" />
+  </element>
+
+  <view name="sskid1 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="sskid1">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="sstardst">
+    <image file="Super Stardust (Europe).png" />
+  </element>
+
+  <view name="sstardst Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="sstardst">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="strippot">
+    <image file="Strip Pot (Europe).png" />
+  </element>
+
+  <view name="strippot Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="strippot">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="suprfrog">
+    <image file="Superfrog (Europe).png" />
+  </element>
+
+  <view name="suprfrog Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="suprfrog">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="suprfrog1">
+    <image file="Superfrog (Europe).png" />
+  </element>
+
+  <view name="suprfrog1 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="suprfrog1">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="suprputt">
+    <image file="Super Putty (Europe).png" />
+  </element>
+
+  <view name="suprputt Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="suprputt">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="surfninj">
+    <image file="Surf Ninjas (Europe).png" />
+  </element>
+
+  <view name="surfninj Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="surfninj">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="sw2050">
+    <image file="Subwar 2050 (Europe) (En,Fr,De).png" />
+  </element>
+
+  <view name="sw2050 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="sw2050">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="syndicat">
+    <image file="Syndicate (Europe) (En,Fr,It).png" />
+  </element>
+
+  <view name="syndicat Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="syndicat">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="themeprk">
+    <image file="Theme Park (Europe) (En,Fr,De,It).png" />
+  </element>
+
+  <view name="themeprk Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="themeprk">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="totcarn">
+    <image file="Total Carnage (Europe).png" />
+  </element>
+
+  <view name="totcarn Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="totcarn">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="tp">
+    <image file="Trivial Pursuit - The CD32 Edition (Europe).png" />
+  </element>
+
+  <view name="tp Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="tp">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="trolls">
+    <image file="Trolls (Europe).png" />
+  </element>
+
+  <view name="trolls Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="trolls">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ubb">
+    <image file="Ultimate Body Blows (Europe).png" />
+  </element>
+
+  <view name="ubb Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ubb">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="ufo">
+    <image file="UFO - Enemy Unknown (Europe) (En,Fr,De).png" />
+  </element>
+
+  <view name="ufo Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="ufo">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="universe">
+    <image file="Universe (Europe) (En,Fr,De,It).png" />
+  </element>
+
+  <view name="universe Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="universe">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="vital">
+    <image file="Vital Light (Europe).png" />
+  </element>
+
+  <view name="vital Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="vital">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="vital1">
+    <image file="Vital Light (Europe) (Alt).png" />
+  </element>
+
+  <view name="vital1 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="vital1">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="wembley">
+    <image file="Wembley International Soccer (Europe).png" />
+  </element>
+
+  <view name="wembley Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="wembley">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="whalevoy">
+    <image file="Whale&#39;s Voyage (Europe).png" />
+  </element>
+
+  <view name="whalevoy Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="whalevoy">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="wildcup">
+    <image file="Wild Cup Soccer (Europe).png" />
+  </element>
+
+  <view name="wildcup Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="wildcup">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="worms">
+    <image file="Worms (Europe) (En,Fr,De).png" />
+  </element>
+
+  <view name="worms Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="worms">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="zool">
+    <image file="Zool - Ninja of the Nth Dimension (Europe).png" />
+  </element>
+
+  <view name="zool Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="zool">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+  <element name="zool2">
+    <image file="Zool 2 (Europe).png" />
+  </element>
+
+  <view name="zool2 Artwork">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+	
+    <element ref="zool2">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </element>
+  </view>
+
+</mamelayout>
+
